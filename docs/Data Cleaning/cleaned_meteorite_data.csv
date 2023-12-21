@@ -1,0 +1,1715 @@
+name,id,name_type,rec_class,mass,fall,year,rec_lat,rec_long,location_type
+Allegan,2276,Valid,Stony,32000.0,Fell,1899.0,42.53333,-85.88333,Exact
+Allende,2278,Valid,Stony,2000000.0,Fell,1969.0,26.96667,-105.31667,Exact
+Andover,2295,Valid,Stony,3200.0,Fell,1898.0,44.61667,-70.75,Exact
+Archie,2329,Valid,Stony,5070.0,Fell,1932.0,38.5,-94.3,Exact
+Ash Creek,48954,Valid,Stony,9500.0,Fell,2009.0,31.805,-97.01,Exact
+Athens,4885,Valid,Stony,265.0,Fell,1933.0,34.75,-87.0,Exact
+Atoka,4888,Valid,Stony,1384.2,Fell,1945.0,34.31667,-96.15,Exact
+Avilez,4907,Valid,Stony,146.0,Fell,1855.0,25.0,-103.5,Exact
+Aztec,4913,Valid,Stony,2830.0,Fell,1938.0,36.8,-108.0,Exact
+Bald Mountain,4925,Valid,Stony,3700.0,Fell,1929.0,35.96667,-82.48333,Exact
+Baldwyn,4926,Valid,Stony,345.0,Fell,1922.0,34.5,-88.66667,Exact
+Bath,4974,Valid,Stony,21000.0,Fell,1892.0,45.41667,-98.31667,Exact
+Bath Furnace,4975,Valid,Stony,86000.0,Fell,1902.0,38.25,-83.75,Exact
+Battle Mountain,56133,Valid,Stony,2900.0,Fell,2012.0,40.66813,-117.18913,Exact
+Baxter,4977,Valid,Stony,611.0,Fell,1916.0,36.75,-93.5,Exact
+Beardsley,4984,Valid,Stony,16000.0,Fell,1929.0,39.8,-101.2,Exact
+Bells,5005,Valid,Stony,375.0,Fell,1961.0,33.6,-96.46667,Exact
+Benld,5021,Valid,Stony,1770.5,Fell,1938.0,39.08333,-89.15,Exact
+Benton,5026,Valid,Stony,2840.0,Fell,1949.0,45.95,-67.55,Exact
+Berthoud,47355,Valid,Stony,960.0,Fell,2004.0,40.30583,-105.02325,Exact
+Bethlehem,5032,Valid,Stony,13.9,Fell,1859.0,42.53333,-73.83333,Exact
+Bishopville,5059,Valid,Stony,6000.0,Fell,1843.0,34.16667,-80.28333,Exact
+Black Moshannan Park,5065,Valid,Stony,705.0,Fell,1941.0,40.91667,-78.08333,Exact
+Blackwell,5068,Valid,Stony,2381.0,Fell,1906.0,36.83333,-97.33333,Exact
+Blanket,5071,Valid,Stony,5100.0,Fell,1909.0,31.83333,-98.83333,Exact
+Bloomington,5076,Valid,Stony,67.8,Fell,1938.0,40.48,-89.00417,Exact
+Bradford Woods,5128,Valid,Stony,762.0,Fell,1886.0,40.5,-80.08333,Exact
+Burnwell,5175,Valid,Stony,1504.0,Fell,1990.0,37.62194,-82.23722,Exact
+Cabin Creek,5186,Valid,Iron,48500.0,Fell,1886.0,35.5,-93.5,Exact
+Canon City,5253,Valid,Stony,1400.0,Fell,1973.0,38.47028,-105.24139,Exact
+Cape Girardeau,5260,Valid,Stony,2300.0,Fell,1846.0,37.26667,-89.58333,Exact
+Castalia,5291,Valid,Stony,7300.0,Fell,1874.0,36.08333,-78.06667,Exact
+Castine,5293,Valid,Stony,94.0,Fell,1848.0,44.38333,-68.75,Exact
+Caswell County,5296,Valid,Stony,1360.0,Fell,1810.0,36.5,-79.25,Exact
+Ceniceros,5306,Valid,Stony,1025.0,Fell,1988.0,26.46667,-105.23333,Exact
+Centerville,5307,Valid,Stony,45.6,Fell,1956.0,43.2,-96.91667,Exact
+Charlotte,5328,Valid,Iron,4300.0,Fell,1835.0,36.16667,-87.33333,Exact
+Cherokee Springs,5340,Valid,Stony,8400.0,Fell,1933.0,35.03333,-81.88333,Exact
+Chicora,5349,Valid,Stony,303.0,Fell,1938.0,40.93333,-79.73333,Exact
+Claxton,5374,Valid,Stony,1455.0,Fell,1984.0,32.1025,-81.87278,Exact
+Colby (Wisconsin),5395,Valid,Stony,104000.0,Fell,1917.0,44.9,-90.28333,Exact
+Coleman,5401,Valid,Stony,469.0,Fell,1994.0,43.76111,-84.50778,Exact
+Crescent,5470,Valid,Stony,78.4,Fell,1936.0,35.95,-97.58333,Exact
+Cross Roads,5476,Valid,Stony,167.0,Fell,1892.0,35.63333,-78.13333,Exact
+Cumberland Falls,5496,Valid,Stony,17000.0,Fell,1919.0,36.83333,-84.35,Exact
+Cynthiana,5500,Valid,Stony,6000.0,Fell,1877.0,38.4,-84.25,Exact
+Danville,5514,Valid,Stony,2000.0,Fell,1868.0,34.4,-87.06667,Exact
+De Cewsville,6621,Valid,Stony,340.0,Fell,1887.0,43.0,-80.0,Exact
+Deal,6634,Valid,Stony,28.0,Fell,1829.0,40.25,-74.0,Exact
+Denver,6660,Valid,Stony,230.0,Fell,1967.0,39.7825,-104.93056,Exact
+Drake Creek,7728,Valid,Stony,5000.0,Fell,1827.0,36.4,-86.5,Exact
+Dresden (Ontario),7731,Valid,Stony,47700.0,Fell,1939.0,42.52,-82.26,Exact
+Eagle,7760,Valid,Stony,10000.0,Fell,1947.0,40.78167,-96.47167,Exact
+El Paso de Aguila,45977,Valid,Stony,17226.0,Fell,1977.0,25.37,-97.37,Exact
+Elbert,7822,Valid,Stony,680.5,Fell,1998.0,39.24667,-104.58817,Exact
+Estherville,10059,Valid,Stony_iron,320000.0,Fell,1879.0,43.41667,-94.83333,Exact
+Farmington,10074,Valid,Stony,89400.0,Fell,1890.0,39.75,-97.03333,Exact
+Farmville,10075,Valid,Stony,56000.0,Fell,1934.0,35.55,-77.53333,Exact
+Fayetteville,10079,Valid,Stony,2360.0,Fell,1934.0,36.05,-94.16667,Exact
+Felix,10081,Valid,Stony,3200.0,Fell,1900.0,32.53333,-87.16667,Exact
+Ferguson,10088,Valid,Stony,220.0,Fell,1889.0,36.1,-81.41667,Exact
+Fisher,10107,Valid,Stony,17600.0,Fell,1894.0,47.81667,-96.85,Exact
+Florence,10111,Valid,Stony,3640.0,Fell,1922.0,30.83333,-97.76667,Exact
+Forest City,10119,Valid,Stony,152000.0,Fell,1890.0,43.25,-93.66667,Exact
+Forksville,10123,Valid,Stony,6067.0,Fell,1924.0,36.78333,-78.08333,Exact
+Forsyth,10164,Valid,Stony,16300.0,Fell,1829.0,33.01667,-83.96667,Exact
+Frankfort (stone),10177,Valid,Stony,650.0,Fell,1868.0,34.48333,-87.83333,Exact
+Garland,10861,Valid,Stony,102.0,Fell,1950.0,41.68333,-112.13333,Exact
+Grimsby,50911,Valid,Stony,215.0,Fell,2009.0,43.2,-79.61667,Exact
+Hamlet,11485,Valid,Stony,3710.0,Fell,1959.0,41.38333,-86.6,Exact
+Harleton,11830,Valid,Stony,8360.0,Fell,1961.0,32.675,-94.51167,Exact
+Harrison County,11842,Valid,Stony,680.0,Fell,1859.0,38.25,-86.16667,Exact
+Holbrook,11894,Valid,Stony,220000.0,Fell,1912.0,34.9,-110.18333,Exact
+Homestead,11901,Valid,Stony,230000.0,Fell,1875.0,41.8,-91.86667,Exact
+Hoxie,11915,Valid,Stony,266.1,Fell,1963.0,39.35,-100.45,Exact
+Independence,12028,Valid,Stony,880.0,Fell,1917.0,39.08333,-94.4,Exact
+Johnstown,12198,Valid,Stony,40300.0,Fell,1924.0,40.35,-104.9,Exact
+Kendleton,12275,Valid,Stony,6937.0,Fell,1939.0,29.45,-96.0,Exact
+Kilbourn,12308,Valid,Stony,772.0,Fell,1911.0,43.58333,-89.6,Exact
+Kirbyville,12321,Valid,Stony,97.7,Fell,1906.0,30.75,-95.95,Exact
+Kitchener,12326,Valid,Stony,202.6,Fell,1998.0,43.38333,-80.38333,Exact
+Leedey,12755,Valid,Stony,51500.0,Fell,1943.0,35.88333,-99.33333,Exact
+Leighton,12760,Valid,Stony,877.0,Fell,1907.0,34.58333,-87.5,Exact
+Little Piney,14664,Valid,Stony,491.0,Fell,1839.0,37.91667,-92.08333,Exact
+Lorton,52843,Valid,Stony,329.7,Fell,2010.0,38.70066,-77.21163,Exact
+Lost City,14711,Valid,Stony,17000.0,Fell,1970.0,36.00833,-95.15,Exact
+Louisville,14716,Valid,Stony,1300.0,Fell,1977.0,38.25,-85.75,Exact
+Lumpkin,14753,Valid,Stony,340.0,Fell,1869.0,32.03333,-84.76667,Exact
+Malaga,15393,Valid,Stony,150.0,Fell,1933.0,32.21667,-104.0,Exact
+Mariaville,15419,Valid,Iron,340.0,Fell,1898.0,42.71667,-99.38333,Exact
+Marion (Iowa),15424,Valid,Stony,28400.0,Fell,1847.0,41.9,-91.6,Exact
+Maryville,15436,Valid,Stony,1443.0,Fell,1983.0,35.8,-84.1,Exact
+Mazapil,15453,Valid,Iron,4000.0,Fell,1885.0,24.68333,-101.68333,Exact
+Mifflin,52090,Valid,Stony,3584.0,Fell,2010.0,42.9075,-90.36556,Exact
+Miller (Arkansas),16645,Valid,Stony,16700.0,Fell,1930.0,35.4,-92.05,Exact
+Modoc (1905),16711,Valid,Stony,35000.0,Fell,1905.0,38.5,-101.1,Exact
+Monahans (1998),16719,Valid,Stony,2587.0,Fell,1998.0,31.60833,-102.85833,Exact
+Monroe,16720,Valid,Stony,8600.0,Fell,1849.0,35.25,-80.5,Exact
+Moore County,16736,Valid,Stony,1880.0,Fell,1913.0,35.41667,-79.38333,Exact
+Murray,16882,Valid,Stony,12600.0,Fell,1950.0,36.6,-88.1,Exact
+Nanjemoy,16904,Valid,Stony,7500.0,Fell,1825.0,38.41667,-77.16667,Exact
+New Concord,16953,Valid,Stony,230000.0,Fell,1860.0,40.0,-81.76667,Exact
+New Orleans,16960,Valid,Stony,19256.0,Fell,2003.0,29.94718,-90.10976,Exact
+Nobleborough,16984,Valid,Stony,2300.0,Fell,1823.0,44.08333,-69.48333,Exact
+Noblesville,16985,Valid,Stony,483.7,Fell,1991.0,40.08528,-86.055,Exact
+Norfork,16994,Valid,Iron,1050.0,Fell,1918.0,36.21667,-92.26667,Exact
+Norton County,17922,Valid,Stony,1100000.0,Fell,1948.0,39.68333,-99.86667,Exact
+Orlando,34489,Valid,Stony,180.0,Fell,2004.0,28.5475,-81.36222,Exact
+Ottawa,18046,Valid,Stony,840.0,Fell,1896.0,38.6,-95.21667,Exact
+Palmyra,18079,Valid,Stony,135.0,Fell,1926.0,39.8,-91.5,Exact
+Paragould,18101,Valid,Stony,408000.0,Fell,1930.0,36.06667,-90.5,Exact
+Park Forest,18106,Valid,Stony,18000.0,Fell,2003.0,41.48472,-87.67917,Exact
+Pasamonte,18110,Valid,Stony,5100.0,Fell,1933.0,36.21667,-103.4,Exact
+Peekskill,18782,Valid,Stony,12570.0,Fell,1992.0,41.28333,-73.91667,Exact
+Peña Blanca Spring,18786,Valid,Stony,70000.0,Fell,1946.0,30.125,-103.11667,Exact
+Petersburg,18801,Valid,Stony,1800.0,Fell,1855.0,35.3,-86.63333,Exact
+Phillips County (stone),18808,Valid,Stony,57900.0,Fell,1901.0,40.0,-99.25,Exact
+Pitts,18837,Valid,Iron,3760.0,Fell,1921.0,31.95,-83.51667,Exact
+Plantersville,18846,Valid,Stony,2085.0,Fell,1930.0,30.7,-96.11667,Exact
+Portales Valley,18874,Valid,Stony,71400.0,Fell,1998.0,34.175,-103.295,Exact
+Pricetown,18888,Valid,Stony,900.0,Fell,1893.0,39.11667,-83.85,Exact
+Red Canyon Lake,53502,Valid,Stony,18.41,Fell,2007.0,38.13742,-119.75812,Exact
+Rich Mountain,22597,Valid,Stony,668.0,Fell,1903.0,35.03333,-83.03333,Exact
+Richardton,22599,Valid,Stony,90000.0,Fell,1918.0,46.88333,-102.31667,Exact
+Richland Springs,22602,Valid,Stony,1900.0,Fell,1980.0,31.25,-99.03333,Exact
+Richmond,22603,Valid,Stony,1800.0,Fell,1828.0,37.46667,-77.5,Exact
+Rochester,22637,Valid,Stony,340.0,Fell,1876.0,41.08333,-86.28333,Exact
+Rose City,22766,Valid,Stony,10600.0,Fell,1921.0,44.51667,-83.95,Exact
+Salem,23107,Valid,Stony,61.4,Fell,1981.0,44.97917,-122.96944,Exact
+San Juan Capistrano,23128,Valid,Stony,56.0,Fell,1973.0,33.48472,-117.6625,Exact
+Schenectady,23458,Valid,Stony,283.3,Fell,1968.0,42.86083,-73.95028,Exact
+Searsmont,23472,Valid,Stony,5400.0,Fell,1871.0,44.36667,-69.2,Exact
+Sharps,23525,Valid,Stony,1265.0,Fell,1921.0,37.83333,-76.7,Exact
+Shelburne,23529,Valid,Stony,18600.0,Fell,1904.0,44.05,-80.16667,Exact
+Sioux County,23614,Valid,Stony,4100.0,Fell,1933.0,42.58333,-103.66667,Exact
+St. Louis,23089,Valid,Stony,1000.0,Fell,1950.0,38.7,-90.23333,Exact
+St. Mary's County,23091,Valid,stony,24.3,Fell,1919.0,38.16667,-76.38333,Exact
+Stratford,23728,Valid,Stony,50.0,Fell,1974.0,41.2,-73.13333,Exact
+St-Robert,23733,Valid,Stony,25400.0,Fell,1994.0,45.96861,-72.97806,Exact
+Success,23736,Valid,Stony,3500.0,Fell,1924.0,36.48333,-90.66667,Exact
+Sutter's Mill,55529,Valid,Stony,992.5,Fell,2012.0,38.80389,-120.90806,Exact
+Sylacauga,23773,Valid,Stony,5560.0,Fell,1954.0,33.18836,-86.2945,Exact
+Tilden,23998,Valid,Stony,74800.0,Fell,1927.0,38.2,-89.68333,Exact
+Torrington,24032,Valid,Stony,259.1,Fell,1944.0,42.06667,-104.16667,Exact
+Troup,24054,Valid,Stony,1020.0,Fell,1917.0,32.16667,-95.1,Exact
+Turtle Lake,47343,Valid,Stony,89.3,Fell,1996.0,45.34583,-92.05167,Exact
+Vernon County,24168,Valid,Stony,1500.0,Fell,1865.0,43.5,-91.16667,Exact
+Walters,24210,Valid,Stony,28100.0,Fell,1946.0,34.33333,-98.3,Exact
+Warrenton,24215,Valid,Stony,1600.0,Fell,1877.0,38.68333,-91.15,Exact
+Washougal,24218,Valid,Stony,225.0,Fell,1939.0,45.58333,-122.35,Exact
+Weston,24249,Valid,Stony,150000.0,Fell,1807.0,41.266667,-73.266667,Exact
+Wethersfield (1971),24250,Valid,Stony,350.0,Fell,1971.0,41.7,-72.65,Exact
+Wethersfield (1982),24251,Valid,Stony,2756.0,Fell,1982.0,41.71056,-72.67361,Exact
+Whetstone Mountains,49514,Valid,Stony,2138.74,Fell,2009.0,31.96185,-110.434183,Exact
+Worden,24337,Valid,Stony,1551.0,Fell,1997.0,42.38467,-83.6115,Exact
+Yorktown (New York),30370,Valid,Stony,250.0,Fell,1869.0,41.28333,-73.81667,Exact
+Abajo,4,Valid,Stony,331.0,Found,1982.0,26.8,-105.41667,Exact
+Abbott,5,Valid,Stony,21100.0,Found,1951.0,36.3,-104.28333,Exact
+Abernathy,7,Valid,Stony,2914.0,Found,1941.0,33.85,-101.8,Exact
+Achilles,369,Valid,Stony,16000.0,Found,1924.0,39.77667,-100.81333,Exact
+Ackerly,55379,Valid,Stony,3046.0,Found,1995.0,32.59033,-101.77217,Exact
+Acme,371,Valid,Stony,75000.0,Found,1947.0,33.63333,-104.26667,Exact
+Acomita,372,Valid,Stony_iron,3956.0,Found,1962.0,35.05,-107.56667,Exact
+Acuña,373,Valid,Iron,217700.0,Found,1981.0,29.31667,-100.96667,Exact
+Adams County,375,Valid,Stony,5700.0,Found,1928.0,39.96667,-103.76667,Exact
+Admire,380,Valid,Stony_iron,180000.0,Found,1881.0,38.7,-96.1,Exact
+Adrian,388,Valid,Stony,22600.0,Found,1936.0,35.15,-102.71667,Exact
+Ahumada,419,Valid,Stony_iron,52600.0,Found,1909.0,30.7,-105.5,Exact
+Aiken,421,Valid,Stony,956.0,Found,1936.0,34.2,-101.5,Exact
+Ainsworth,422,Valid,Iron,80650.0,Found,1907.0,42.6,-99.8,Exact
+Akron (1940),430,Valid,Stony,1050.0,Found,1940.0,40.15,-103.16667,Exact
+Akron (1961),431,Valid,Stony,4000.0,Found,1961.0,40.15,-103.16667,Exact
+Alamogordo,449,Valid,Stony,13600.0,Found,1938.0,32.9,-105.93333,Exact
+Alamosa,450,Valid,Stony,1800.0,Found,1937.0,37.46667,-105.86667,Exact
+Albin (pallasite),455,Valid,Stony_iron,37600.0,Found,1915.0,41.5,-104.1,Exact
+Albin (stone),456,Valid,Stony,15400.0,Found,1949.0,41.41667,-104.1,Exact
+Albion,457,Valid,Iron,12280.0,Found,1966.0,46.83333,-117.25,Exact
+Aldama (a),459,Valid,Iron,11000.0,Found,1985.0,28.83333,-105.86667,Exact
+Aldama (b),460,Valid,Stony,66.5,Found,1996.0,25.05,-106.0,Exact
+Alexander County,464,Valid,Iron,192.0,Found,1875.0,35.75,-81.25,Exact
+Algoma,470,Valid,Iron,4100.0,Found,1887.0,44.65,-87.46667,Exact
+Alkali,474,Valid,Stony,30.47,Found,1998.0,37.86667,-117.4,Exact
+Alkali Flat,55662,Valid,Stony,28.0,Found,2011.0,32.306,-108.9038,Exact
+Allen,2277,Valid,Stony,1407.0,Found,1923.0,33.1,-96.7,Exact
+Allred,2280,Valid,Stony,6570.0,Found,1978.0,33.1,-102.95,Exact
+Almelo Township,2281,Valid,Stony,3180.0,Found,1949.0,39.6,-100.11667,Exact
+Altonah,2286,Valid,Iron,21500.0,Found,1932.0,40.56667,-110.48333,Exact
+Alvord,2287,Valid,Iron,17500.0,Found,1976.0,43.32222,-96.28889,Exact
+Amber,2291,Valid,Stony,4532.0,Found,1934.0,35.16667,-97.88333,Exact
+Amherst,2293,Valid,Stony,8500.0,Found,1947.0,40.8,-99.2,Exact
+Angelica,2300,Valid,Iron,14800.0,Found,1916.0,44.25,-88.25,Exact
+Anoka,2307,Valid,Iron,1108.0,Found,1961.0,45.2,-93.43333,Exact
+Anson,2308,Valid,Stony,3900.0,Found,1972.0,39.33333,-97.56167,Exact
+Antelope,57455,Valid,Stony,754.0,Found,2012.0,40.90183,-118.54465,Exact
+Anthony,2310,Valid,Stony,20000.0,Found,1919.0,37.08333,-98.05,Exact
+Anthony Gap,56391,Valid,Stony,347.36,Found,2011.0,32.00584,-106.56028,Exact
+Anton,2311,Valid,Stony,41800.0,Found,1965.0,33.7825,-102.18111,Exact
+Apex,2315,Valid,Stony,6.1,Found,1938.0,39.75,-105.2,Exact
+Arapahoe,2323,Valid,Stony,19083.0,Found,1940.0,38.8,-102.2,Exact
+Arcadia,2326,Valid,Stony,19400.0,Found,1937.0,41.41667,-99.1,Exact
+Arch,2327,Valid,Stony,985.8,Found,1972.0,34.15,-103.22,Exact
+Arches,2328,Valid,Stony,534.0,Found,2001.0,38.68867,-109.58517,Exact
+Argonia,2331,Valid,Stony_iron,84.0,Found,1940.0,37.26667,-97.76667,Exact
+Arispe,2332,Valid,Iron,683000.0,Found,1896.0,30.33333,-109.98333,Exact
+Arivaca,47346,Valid,Stony,30.1,Found,1999.0,31.59391,-111.37023,Exact
+Arlington,2333,Valid,Iron,8940.0,Found,1894.0,44.6,-94.1,Exact
+Armel,2336,Valid,Stony,9200.0,Found,1967.0,39.76667,-102.13333,Exact
+Arriba,2339,Valid,Stony,31100.0,Found,1936.0,39.3,-103.25,Exact
+Asheville,2347,Valid,Iron,800.0,Found,1839.0,35.58333,-82.53333,Exact
+Ashfork,2348,Valid,Iron,27000.0,Found,1901.0,35.25,-112.5,Exact
+Ashmore,2349,Valid,Stony,55400.0,Found,1969.0,32.9,-102.28333,Exact
+Atlanta,4886,Valid,Stony,5500.0,Found,1938.0,31.8,-92.75,Exact
+Attica,4890,Valid,Stony,5622.0,Found,1996.0,37.25,-98.13333,Exact
+Atwood,4891,Valid,Stony,2100.0,Found,1963.0,40.51667,-103.26667,Exact
+Atwood (b),4892,Valid,Stony,77.0,Found,1964.0,40.51667,-103.26667,Exact
+Aubrey Hills,56393,Valid,Stony,560.8,Found,2010.0,34.38063,-114.16705,Exact
+Auburn,4894,Valid,Iron,3630.0,Found,1867.0,32.63333,-85.5,Exact
+Augusta County,4897,Valid,Iron,76000.0,Found,1858.0,38.16667,-79.08333,Exact
+Aurora,4901,Valid,Stony,1000.0,Found,1938.0,36.33333,-105.05,Exact
+Axtell,4911,Valid,Stony,6200.0,Found,1943.0,31.66,-96.97167,Exact
+Babb's Mill (Blake's Iron),4915,Valid,Iron,136000.0,Found,1876.0,36.3,-82.88333,Exact
+Babb's Mill (Troost's Iron),4916,Valid,Iron,6400.0,Found,1842.0,36.3,-82.88333,Exact
+Bacubirito,4919,Valid,Iron,22000000.0,Found,1863.0,26.2,-107.83333,Exact
+Bagdad,4920,Valid,Iron,2200.0,Found,1959.0,34.613317,-113.398967,Exact
+Bald Eagle,4924,Valid,Iron,3200.0,Found,1891.0,41.28333,-77.05,Exact
+Ballinger,4930,Valid,Iron,1250.0,Found,1927.0,31.76667,-99.98333,Exact
+Barrilla,4952,Valid,Stony,11100.0,Found,1994.0,30.78333,-103.46667,Exact
+Bartlett,4953,Valid,Iron,8590.0,Found,1938.0,30.83333,-97.5,Exact
+Barwise,4955,Valid,Stony,10400.0,Found,1950.0,34.0,-101.5,Exact
+Batesland,4973,Valid,Stony,2500.0,Found,1961.0,43.13333,-102.1,Exact
+Bayard,4978,Valid,Stony,75000.0,Found,1982.0,41.81667,-103.36667,Exact
+Bear Creek,4982,Valid,Iron,227000.0,Found,1866.0,39.6,-105.3,Exact
+Bear Lodge,4983,Valid,Iron,48500.0,Found,1931.0,44.5,-104.2,Exact
+Beaver,4985,Valid,Stony,25628.0,Found,1940.0,36.8,-100.53333,Exact
+Beaver-Harrison,4987,Valid,Stony,925.0,Found,1979.0,38.48417,-113.13639,Exact
+Beeler,4994,Valid,Stony,11620.0,Found,1924.0,38.53333,-100.21667,Exact
+Beenham,4995,Valid,Stony,44400.0,Found,1937.0,36.21667,-103.65,Exact
+Beer Bottle Pass,4996,Valid,Stony,8.9,Found,1999.0,35.66117,-115.33333,Exact
+Bella Roca,5003,Valid,Iron,33000.0,Found,1888.0,24.9,-105.4,Exact
+Belle Plaine,5004,Valid,Stony,78800.0,Found,1950.0,37.31667,-97.25,Exact
+Belmont,5008,Valid,Stony,25300.0,Found,1958.0,42.73333,-90.35,Exact
+Benedict,5017,Valid,Iron,16380.0,Found,1970.0,41.0,-97.53333,Exact
+Benjamin,5020,Valid,Stony,51800.0,Found,1969.0,33.58333,-99.8,Exact
+Bennett County,5022,Valid,Iron,89000.0,Found,1934.0,43.5,-101.25,Exact
+Bethel (a),5030,Valid,Stony,18.3,Found,1968.0,34.23333,-103.38333,Exact
+Bethel (b),5031,Valid,Stony,56.8,Found,1968.0,34.24667,-103.395,Exact
+Bethune,5033,Valid,Stony,67.0,Found,1941.0,39.3,-102.41667,Exact
+Big Horn Mountains,50765,Valid,Stony,91.9,Found,2006.0,33.71333,-113.275,Exact
+Billings,5047,Valid,Iron,24500.0,Found,1903.0,37.06667,-93.55,Exact
+Bishop Canyon,5058,Valid,Iron,8600.0,Found,1912.0,38.0,-108.5,Exact
+Bison,5061,Valid,Stony,11000.0,Found,1958.0,38.30667,-99.71,Exact
+Black Mountain,5066,Valid,Iron,800.0,Found,1839.0,35.58333,-82.35,Exact
+Black Rock 001,32765,Valid,Stony,152.0,Found,2003.0,40.86717,-119.18352,Exact
+Blackwater Draw,5067,Valid,Stony,1500.0,Found,1979.0,34.20583,-103.22222,Exact
+Blackwood Creek,5069,Valid,Stony,67.0,Found,1998.0,40.5,-101.08333,Exact
+Blakeman,56564,Valid,Stony,113.7,Found,1983.0,39.91667,-101.2,Exact
+Bledsoe,5074,Valid,Stony,30500.0,Found,1970.0,33.59167,-103.02667,Exact
+Blithfield,5075,Valid,Stony,1830.0,Found,1910.0,45.5,-77.0,Exact
+Blue Eagle,45972,Valid,Stony,70.0,Found,2006.0,38.66167,-115.51833,Exact
+Bluebird,30445,Valid,Stony,3650.0,Found,2002.0,35.8675,-114.19167,Exact
+Bluewater,5078,Valid,Iron,9540.0,Found,1946.0,35.26667,-107.96667,Exact
+Bluewing 001,5079,Valid,Stony,6.1,Found,2000.0,40.2495,-118.93683,Exact
+Bluewing 002,5080,Valid,Stony,23.0,Found,1999.0,40.24148,-118.94763,Exact
+Bluewing 003,5081,Valid,Stony,95.0,Found,1999.0,40.26752,-118.94308,Exact
+Bluewing 004,5082,Valid,Stony,113.0,Found,1999.0,40.27537,-118.9461,Exact
+Bluewing 005,5083,Valid,Stony,7200.0,Found,1999.0,40.28563,-118.94657,Exact
+Bluewing 006,5084,Valid,Stony,355.0,Found,1999.0,40.28338,-118.94808,Exact
+Bluewing 007,5085,Valid,Stony,324.0,Found,1999.0,40.28247,-118.94872,Exact
+Bluewing 008,5086,Valid,Stony,451.7,Found,2001.0,40.27957,-118.94642,Exact
+Bluewing 029,45959,Valid,Stony,83.8,Found,2006.0,40.2628,-118.95912,Exact
+Bluewing 030,51574,Valid,Stony,18.81,Found,1999.0,40.26667,-118.93333,Exact
+Bluewing 031,51575,Valid,Stony,170.0,Found,1999.0,40.26667,-118.93333,Exact
+Bluewing 032,54474,Valid,Stony,78.0,Found,1999.0,40.26667,-118.93333,Exact
+Bluewing 033,51576,Valid,Stony,287.44,Found,1999.0,40.26667,-118.93333,Exact
+Bluewing 034,51577,Valid,Stony,34.0,Found,1999.0,40.26667,-118.93333,Exact
+Bluewing 035,51578,Valid,Stony,12.56,Found,1999.0,40.26667,-118.93333,Exact
+Bluewing 036,51579,Valid,Stony,10.47,Found,1999.0,40.26667,-118.93333,Exact
+Bluewing 037,52962,Valid,Stony,37.2,Found,2009.0,40.2819,-118.94693,Exact
+Bluff (a),5087,Valid,Stony,153300.0,Found,1878.0,29.87861,-96.87222,Exact
+Bluff (b),5088,Valid,Stony,16000.0,Found,1917.0,29.86306,-96.92667,Exact
+Boaz (stone),5091,Valid,Stony,1800.0,Found,1968.0,33.65167,-103.70833,Exact
+Boerne,5095,Valid,Stony,1100.0,Found,1932.0,29.8,-98.8,Exact
+Bonita Springs,5104,Valid,Stony,41800.0,Found,1938.0,26.26667,-81.75,Exact
+Bonnie Claire 001,5105,Valid,Stony,23.03,Found,1998.0,37.21667,-117.08333,Exact
+Bonnie Claire 002,5106,Valid,Stony,80.8,Found,1998.0,37.21667,-117.08333,Exact
+Borrego,5115,Valid,Stony,2126.0,Found,1930.0,33.26667,-116.38333,Exact
+Botetourt County,5116,Valid,Iron,500.0,Found,1850.0,37.5,-79.75,Exact
+Boulder Mine,52852,Valid,Stony,1560.0,Found,2008.0,34.685,-114.323,Exact
+Bouse,35487,Valid,Stony,147.4,Found,2004.0,33.96667,-114.06667,Exact
+Bowesmont,5124,Valid,Stony,2270.0,Found,1962.0,48.68333,-97.16667,Exact
+Bowesmont (b),5125,Valid,Stony,1300.0,Found,1972.0,48.78333,-97.35,Exact
+Brady,5129,Valid,Stony,927.0,Found,1937.0,31.05,-99.46667,Exact
+Brainard,5131,Valid,Iron,138300.0,Found,1978.0,41.15333,-96.955,Exact
+Brandon,5132,Valid,Stony,7580.0,Found,1975.0,40.81,-101.80167,Exact
+Brenham,5136,Valid,Stony_iron,4300000.0,Found,1882.0,37.5825,-99.16361,Exact
+Brewster,5137,Valid,Stony,17000.0,Found,1940.0,39.25,-101.33333,Exact
+Bridgewater,5139,Valid,Iron,13600.0,Found,1890.0,35.71667,-81.86667,Exact
+Briggsdale,5141,Valid,Iron,2230.0,Found,1949.0,40.66667,-104.31667,Exact
+Briscoe,5142,Valid,Stony,1773.0,Found,1940.0,34.35,-101.4,Exact
+Bristol,5143,Valid,Iron,20000.0,Found,1937.0,36.56667,-82.18333,Exact
+Broken Bow,5145,Valid,Stony,6800.0,Found,1937.0,41.43333,-99.7,Exact
+Bronco,5147,Valid,Stony,972.0,Found,1971.0,33.28333,-102.96667,Exact
+Bronco (b),5148,Valid,Stony,101.0,Found,1980.0,33.275,-102.96,Exact
+Bronco (c),5149,Valid,Stony,53.0,Found,1980.0,33.275,-102.96,Exact
+Brownell,5150,Valid,Stony,2000.0,Found,1971.0,38.69667,-99.70833,Exact
+Brownfield (1937),5151,Valid,Stony,40960.0,Found,1937.0,33.21667,-102.18333,Exact
+Brownfield (1964),5152,Valid,Stony,4100.0,Found,1964.0,33.21667,-102.18333,Exact
+Brownfield (c),5153,Valid,Stony,1550.0,Found,1974.0,33.135,-102.27833,Exact
+Brownfield (iron),5154,Valid,Iron,1626.0,Found,1960.0,33.21667,-102.18333,Exact
+Bruceville,5155,Valid,Stony,83000.0,Found,1998.0,38.295,-121.405,Exact
+Buck Mountain Wash,30446,Valid,Stony,798.0,Found,2004.0,34.72453,-114.20883,Exact
+Buck Mountains 001,35488,Valid,Stony,50.0,Found,2004.0,34.73245,-114.22257,Exact
+Buck Mountains 002,35489,Valid,Stony,18.4,Found,2004.0,34.71933,-114.20783,Exact
+Buck Mountains 003,44705,Valid,Stony,34200.0,Found,2005.0,34.7345,-114.21717,Exact
+Buck Mountains 004,55342,Valid,Stony,145.8,Found,2005.0,34.70108,-114.18845,Exact
+Buck Mountains 005,55334,Valid,Stony,859.7,Found,2007.0,34.70337,-114.19097,Exact
+Buenaventura,5162,Valid,Iron,113600.0,Found,1969.0,29.8,-107.55,Exact
+Buffalo Gap,51831,Valid,Iron,9300.0,Found,2003.0,32.24611,-99.99306,Exact
+Bunker Hill,54611,Valid,Stony,28000.0,Found,2002.0,38.84833,-98.72383,Exact
+Burdett,5167,Valid,Stony,8600.0,Found,1940.0,38.23333,-99.53333,Exact
+Burkett,5170,Valid,Iron,8400.0,Found,1913.0,32.03333,-99.25,Exact
+Burlington,5172,Valid,Iron,68000.0,Found,1819.0,42.75,-75.18333,Exact
+Burns,57342,Valid,Iron,18400.0,Found,2003.0,39.86667,-106.88333,Exact
+Burns Flat,5174,Valid,Stony,1987.0,Found,1971.0,35.33333,-99.15,Exact
+Bushnell,5180,Valid,Stony,1240.0,Found,1939.0,41.23333,-103.9,Exact
+Butler,5182,Valid,Iron,41000.0,Found,1874.0,38.3,-94.36667,Exact
+Caddo County,5192,Valid,Iron,18000.0,Found,1987.0,35.0,-98.33333,Exact
+Caldwell,5197,Valid,Stony,12900.0,Found,1961.0,37.03333,-97.625,Exact
+Calico Rock,5198,Valid,Iron,7275.0,Found,1938.0,36.08333,-92.15,Exact
+Calliham,5201,Valid,Stony,40000.0,Found,1958.0,28.41667,-98.25,Exact
+Cambria,5203,Valid,Iron,16300.0,Found,1818.0,43.2,-78.8,Exact
+Camp Creek,53490,Valid,Stony,3016.0,Found,2009.0,33.88098,-111.78558,Exact
+Campbellsville,5245,Valid,Iron,15400.0,Found,1929.0,37.36667,-85.36667,Exact
+Canton,5254,Valid,Iron,7030.0,Found,1894.0,34.2,-84.48333,Exact
+Canyon,5255,Valid,Stony,860.0,Found,1957.0,34.96667,-101.93333,Exact
+Canyon City,5256,Valid,Iron,8600.0,Found,1875.0,40.9,-123.1,Exact
+Canyon Diablo,5257,Valid,Iron,30000000.0,Found,1891.0,35.05,-111.03333,Exact
+Canyonlands,5258,Valid,Stony,1520.0,Found,1961.0,38.18333,-109.88333,Exact
+Carbo,5266,Valid,Iron,454000.0,Found,1923.0,29.66667,-111.5,Exact
+Cargo Muchacho Mountains,50912,Valid,Stony,2860.0,Found,2000.0,32.91745,-114.767183,Exact
+Carichic,5270,Valid,Stony,17000.0,Found,1983.0,27.93333,-107.05,Exact
+Carlton,5277,Valid,Iron,81200.0,Found,1887.0,31.91667,-98.03333,Exact
+Carnegie,5278,Valid,Stony,132700.0,Found,1963.0,35.16667,-98.64389,Exact
+Carthage,5282,Valid,Iron,127000.0,Found,1840.0,36.26667,-85.98333,Exact
+Carver,5284,Valid,Iron,94000.0,Found,1935.0,32.0,-86.0,Exact
+Casas Grandes,5285,Valid,Iron,1545000.0,Found,1867.0,30.4,-107.8,Exact
+Casey County,5286,Valid,Iron,723.0,Found,1877.0,37.25,-85.0,Exact
+Cashion,5287,Valid,Stony,5896.8,Found,1936.0,35.84778,-97.70333,Exact
+Cat Mountain,5297,Valid,Stony,2700.0,Found,1981.0,32.14833,-111.11167,Exact
+Cave Creek,5299,Valid,Stony,1492.0,Found,1992.0,31.7045,-110.77917,Exact
+Cavour,5300,Valid,Stony,26210.0,Found,1938.0,44.221494,-98.059192,Exact
+Cedar (Kansas),5302,Valid,Stony,4900.0,Found,1937.0,39.7,-98.98333,Exact
+Cedar (Texas),5303,Valid,Stony,26000.0,Found,1900.0,29.82806,-96.90861,Exact
+Cedartown,5304,Valid,Iron,11300.0,Found,1898.0,34.01667,-85.26667,Exact
+Cee Vee,5305,Valid,Stony,3600.0,Found,1959.0,34.2,-100.48333,Exact
+Chamberlin,5317,Valid,Stony,2400.0,Found,1941.0,36.2,-102.45,Exact
+Chambord,5318,Valid,Iron,6600.0,Found,1904.0,48.45,-72.06667,Exact
+Chandler,53491,Valid,Stony,350.4,Found,2009.0,33.24558,-111.89633,Exact
+Channing,5324,Valid,Stony,15300.0,Found,1936.0,35.71667,-102.28333,Exact
+Chesterville,5343,Valid,Iron,16500.0,Found,1849.0,34.7,-81.2,Exact
+Chicago Valley,44706,Valid,Stony,26.0,Found,2004.0,36.00217,-116.19633,Exact
+Chico,5346,Valid,Stony,104800.0,Found,1954.0,36.5,-104.2,Exact
+Chico Hills,5347,Valid,Stony,8030.0,Found,1951.0,36.0,-104.5,Exact
+Chico Mountains,5348,Valid,Iron,212.0,Found,1915.0,29.0,-103.25,Exact
+Chihuahua City,5350,Valid,Iron,54000.0,Found,1929.0,28.66667,-106.11667,Exact
+Chocolate Mountains,52013,Valid,Stony,699.0,Found,2004.0,33.01222,-114.86667,Exact
+Chuckwalla,5361,Valid,Iron,1802.0,Found,1992.0,35.25,-118.09067,Exact
+Chulafinnee,5362,Valid,Iron,16220.0,Found,1873.0,33.5,-85.66667,Exact
+Chupaderos,5363,Valid,Iron,24300000.0,Found,1852.0,27.0,-105.1,Exact
+Cincinnati,5366,Valid,Iron,1500.0,Found,1870.0,39.11667,-84.5,Exact
+Circle Back,5367,Valid,Stony,2268.0,Found,1977.0,34.02806,-102.68,Exact
+Clarendon (a),5369,Valid,Stony,1964.0,Found,1979.0,34.905,-100.91333,Exact
+Clarendon (b),5370,Valid,Stony,26.8,Found,1981.0,34.93611,-100.94167,Exact
+Clareton,5371,Valid,Stony,1050.0,Found,1931.0,43.7,-104.7,Exact
+Clark County,5373,Valid,Iron,11300.0,Found,1937.0,38.0,-84.16667,Exact
+Claytonville,5375,Valid,Stony,15600.0,Found,1964.0,34.34667,-101.49,Exact
+Claytonville (b),5376,Valid,Stony,5136.0,Found,1978.0,34.34833,-101.65833,Exact
+Cleburne,5377,Valid,Iron,6800.0,Found,1907.0,32.31667,-97.41667,Exact
+Cleo Springs,5378,Valid,Stony,24000.0,Found,1960.0,36.43333,-98.43333,Exact
+Cleveland,5379,Valid,Iron,115000.0,Found,1860.0,34.88333,-84.78333,Exact
+Clifford,5380,Valid,Stony,11360.0,Found,1962.0,39.1,-103.25833,Exact
+Clinton,5381,Valid,Iron,7700.0,Found,1950.0,36.08333,-84.2,Exact
+Clover Springs,5384,Valid,Stony_iron,7700.0,Found,1954.0,34.45,-111.36667,Exact
+Clovis (no. 1),5385,Valid,Stony,283000.0,Found,1961.0,34.3,-103.13472,Exact
+Clovis (no. 2),5386,Valid,Stony,41300.0,Found,1963.0,34.3,-103.13333,Exact
+Coahuila,5387,Valid,Iron,2100000.0,Found,1837.0,28.7,-102.73333,Exact
+Coffeyville,51051,Valid,Stony,35900.0,Found,2006.0,37.01667,-95.66667,Exact
+Colby (Kansas),5394,Valid,Stony,2400.0,Found,1940.0,39.41667,-101.05,Exact
+Coldwater (iron),5398,Valid,Iron,18400.0,Found,1923.0,37.26667,-99.33333,Exact
+Coldwater (stone),5399,Valid,Stony,16000.0,Found,1924.0,37.26667,-99.33333,Exact
+Cole Creek,5400,Valid,Stony,16300.0,Found,1991.0,41.35,-99.11667,Exact
+Colfax,5402,Valid,Iron,2300.0,Found,1880.0,35.3,-81.73333,Exact
+Colony,5407,Valid,Stony,3912.0,Found,1975.0,35.35,-98.68333,Exact
+Colton,5410,Valid,Iron,19670.0,Found,1993.0,46.57056,-117.09861,Exact
+Columbus,5411,Valid,Stony,165.0,Found,1997.0,31.82967,-107.3945,Exact
+Comanche (iron),5414,Valid,Iron,19700.0,Found,1940.0,32.01667,-98.7,Exact
+Comanche (stone),5415,Valid,Stony,2400.0,Found,1956.0,31.99167,-98.65167,Exact
+Conception Junction,53877,Valid,Stony_iron,17000.0,Found,2006.0,40.266667,-94.683333,Exact
+Concho,5417,Valid,Stony,93500.0,Found,1939.0,32.0,-101.5,Exact
+Cookeville,5431,Valid,Iron,2300.0,Found,1913.0,36.16667,-85.51667,Exact
+Coolidge,5434,Valid,Stony,4500.0,Found,1937.0,38.03333,-101.98333,Exact
+Coon Butte,5436,Valid,Stony,2750.0,Found,1905.0,35.0,-111.0,Exact
+Coopertown,5438,Valid,Iron,16800.0,Found,1860.0,36.43333,-87.0,Exact
+Cope,5440,Valid,Stony,12000.0,Found,1934.0,39.66667,-102.83333,Exact
+Cope (b),5441,Valid,Stony,817.0,Found,1967.0,39.68333,-102.845,Exact
+Cordes,44707,Valid,Stony,54.5,Found,1998.0,34.30333,-112.16617,Exact
+Corn,54859,Valid,Stony,5176.0,Found,1994.0,35.405,-98.74889,Exact
+Correo,5447,Valid,Stony,1400.0,Found,1979.0,34.95,-107.16667,Exact
+Cortez,5449,Valid,Stony,715.6,Found,1940.0,37.35,-108.68333,Exact
+Cosby's Creek,5450,Valid,Iron,960000.0,Found,1837.0,35.78333,-83.25,Exact
+Costilla Peak,5453,Valid,Iron,35500.0,Found,1881.0,36.83333,-105.23333,Exact
+Cotesfield,5454,Valid,Stony,1160.0,Found,1928.0,41.36667,-98.63333,Exact
+Cotopaxi,30451,Valid,Iron,243.0,Found,2000.0,38.46483,-105.7015,Exact
+Cottonwood,5455,Valid,Stony,800.0,Found,1955.0,34.83333,-112.01667,Exact
+Covert,5456,Valid,Stony,61000.0,Found,1896.0,39.2,-98.78333,Exact
+Coyote Dry Lake 001,30452,Valid,Stony,338.0,Found,1995.0,35.05017,-116.76683,Exact
+Coyote Dry Lake 002,30453,Valid,Stony,106.7,Found,1998.0,35.04753,-116.73092,Exact
+Coyote Dry Lake 003,30454,Valid,Stony,255.72,Found,1998.0,35.08808,-116.75398,Exact
+Coyote Dry Lake 024,30455,Valid,Stony,2430.0,Found,1999.0,35.0715,-116.77205,Exact
+Coyote Dry Lake 033,30456,Valid,Stony,5220.0,Found,1999.0,35.05605,-116.7763,Exact
+Coyote Dry Lake 040,30457,Valid,Stony,344.0,Found,1999.0,35.09373,-116.76343,Exact
+Coyote Dry Lake 054,30458,Valid,Stony,392.8,Found,1999.0,35.07667,-116.74667,Exact
+Coyote Dry Lake 061,30459,Valid,Stony,2134.0,Found,1999.0,35.05242,-116.7667,Exact
+Coyote Dry Lake 063,30460,Valid,Stony,67.61,Found,1999.0,35.05878,-116.773,Exact
+Coyote Dry Lake 064,30461,Valid,Stony,1364.31,Found,1999.0,35.05817,-116.7743,Exact
+Coyote Dry Lake 067,30462,Valid,Stony,412.05,Found,1999.0,35.03815,-116.7531,Exact
+Coyote Dry Lake 080,30463,Valid,Stony,278.1,Found,1999.0,35.07402,-116.76117,Exact
+Coyote Dry Lake 105,30464,Valid,Stony,61.5,Found,1999.0,35.05073,-116.76698,Exact
+Coyote Dry Lake 110,30465,Valid,Stony,68.02,Found,1999.0,35.04625,-116.73547,Exact
+Coyote Dry Lake 115,30466,Valid,Stony,1369.0,Found,1999.0,35.05865,-116.76872,Exact
+Coyote Dry Lake 116,30467,Valid,Stony,4.4,Found,1999.0,35.05847,-116.769,Exact
+Coyote Dry Lake 117,30468,Valid,Stony,162.0,Found,1999.0,35.0501,-116.74443,Exact
+Coyote Dry Lake 119,30469,Valid,Stony,3.2,Found,1999.0,35.03815,-116.7531,Exact
+Coyote Dry Lake 120,30470,Valid,Stony,18.5,Found,1999.0,35.05893,-116.76872,Exact
+Coyote Dry Lake 121,30471,Valid,Stony,14.2,Found,1999.0,35.05947,-116.7685,Exact
+Coyote Dry Lake 129,30472,Valid,Stony,140.0,Found,2000.0,35.06917,-116.7502,Exact
+Coyote Dry Lake 130,30473,Valid,Stony,6.1,Found,2000.0,35.06785,-116.7494,Exact
+Coyote Dry Lake 132,30474,Valid,Stony,17.4,Found,2000.0,35.07028,-116.74847,Exact
+Coyote Dry Lake 134,30475,Valid,Stony,117.5,Found,2000.0,35.0925,-116.76083,Exact
+Coyote Dry Lake 138,30476,Valid,Stony,18.3,Found,2000.0,35.05283,-116.76645,Exact
+Coyote Dry Lake 139,30477,Valid,Stony,10.4,Found,2000.0,35.05283,-116.76538,Exact
+Coyote Dry Lake 142,30478,Valid,Stony,32.22,Found,2000.0,35.06725,-116.74853,Exact
+Coyote Dry Lake 151,30479,Valid,Stony,90.04,Found,2001.0,35.05602,-116.72368,Exact
+Coyote Dry Lake 152,30480,Valid,Stony,10.84,Found,2001.0,35.05607,-116.72365,Exact
+Coyote Dry Lake 153,30481,Valid,Stony,13.87,Found,2001.0,35.07362,-116.76372,Exact
+Coyote Dry Lake 155,30482,Valid,Stony,17.02,Found,2001.0,35.06847,-116.76905,Exact
+Coyote Dry Lake 159,30483,Valid,Stony,17.7,Found,2001.0,35.05865,-116.76872,Exact
+Coyote Dry Lake 160,30484,Valid,Stony,76.88,Found,2002.0,35.06152,-116.76295,Exact
+Coyote Dry Lake 162,30485,Valid,Stony,9.87,Found,2002.0,35.07802,-116.76777,Exact
+Coyote Dry Lake 163,30486,Valid,Stony,16.66,Found,2002.0,35.07,-116.77,Exact
+Coyote Dry Lake 164,30487,Valid,Stony,43.0,Found,2002.0,35.05835,-116.77403,Exact
+Coyote Dry Lake 165,30488,Valid,Stony,42.57,Found,2002.0,35.06888,-116.76197,Exact
+Coyote Dry Lake 175,30489,Valid,Stony,36.35,Found,2002.0,35.05475,-116.75432,Exact
+Coyote Dry Lake 176,30490,Valid,Stony,187.55,Found,2003.0,35.05452,-116.73005,Exact
+Coyote Dry Lake 194,30491,Valid,Stony,1.47,Found,2004.0,35.08838,-116.75283,Exact
+Coyote Dry Lake 221,30492,Valid,Stony,54.31,Found,2003.0,35.05717,-116.7205,Exact
+Coyote Dry Lake 222,30493,Valid,Stony,22.5,Found,2004.0,35.04008,-116.75553,Exact
+Coyote Dry Lake 223,30494,Valid,Stony,512.0,Found,2004.0,35.03842,-116.75818,Exact
+Coyote Dry Lake 230,30495,Valid,Stony,16.36,Found,2004.0,35.08958,-116.75007,Exact
+Coyote Dry Lake 235,30496,Valid,Stony,81.4,Found,2004.0,35.05628,-116.73377,Exact
+Coyote Dry Lake 249,30497,Valid,Stony,71.8,Found,2004.0,35.08758,-116.74603,Exact
+Coyote Dry Lake 274,45960,Valid,Stony,7.5,Found,2006.0,35.05902,-116.76892,Exact
+Coyote Dry Lake 275,45961,Valid,Stony,16.2,Found,2006.0,35.05122,-116.76742,Exact
+Coyote Dry Lake 276,45962,Valid,Stony,47.2,Found,2006.0,35.07118,-116.77162,Exact
+Coyote Dry Lake 277,45963,Valid,Stony,21.3,Found,2006.0,35.0742,-116.7637,Exact
+Coyote Dry Lake 318,52804,Valid,Stony,7.2,Found,2009.0,35.0751,-116.75038,Exact
+Coyote Mountains,5459,Valid,Stony,23.04,Found,1998.0,31.91667,-111.5,Exact
+Coyote Spring,44708,Valid,Stony,240.0,Found,2005.0,36.99367,-114.99367,Exact
+Crab Orchard,5461,Valid,Stony_iron,48500.0,Found,1887.0,35.83333,-84.91667,Exact
+Cranberry Plains,5462,Valid,Iron,90.0,Found,1852.0,37.23333,-80.73333,Exact
+Cranfills Gap,5464,Valid,Stony,6000.0,Found,1940.0,31.75,-97.75,Exact
+Cricket Mountains,5472,Valid,Stony,10.6,Found,1985.0,38.90306,-112.82111,Exact
+Crow Peak,44709,Valid,Iron,6320.0,Found,1958.0,44.47733,-103.972,Exact
+Cruz del Aire,5478,Valid,Iron,23000.0,Found,1911.0,26.5,-100.0,Exact
+Cuddeback Dry Lake 001,5480,Valid,Stony,32.5,Found,1999.0,35.29575,-117.4668,Exact
+Cuddeback Dry Lake 002,5481,Valid,Stony,95.0,Found,2000.0,35.2755,-117.47833,Exact
+Cuddeback Dry Lake 003,5482,Valid,Stony,7.5,Found,2000.0,35.29183,-117.47067,Exact
+Cuddeback Dry Lake 004,5483,Valid,Stony,40.0,Found,2000.0,35.30233,-117.46017,Exact
+Cuddeback Dry Lake 005,5484,Valid,Stony,35.0,Found,2000.0,35.31232,-117.45315,Exact
+Cuddeback Dry Lake 006,5485,Valid,Stony,0.5,Found,2000.0,35.31227,-117.453,Exact
+Cuddeback Dry Lake 007,5486,Valid,Stony,96.7,Found,2000.0,35.3114,-117.45342,Exact
+Cuddeback Dry Lake 008,5487,Valid,Stony,18.02,Found,2000.0,35.28333,-117.48333,Exact
+Cuddeback Dry Lake 009,5488,Valid,Stony,19.0,Found,2000.0,35.31833,-117.46667,Exact
+Cuddeback Dry Lake 010,5489,Valid,Stony,10.5,Found,2000.0,35.3112,-117.45465,Exact
+Cuddeback Dry Lake 011,5490,Valid,Stony,10.69,Found,2000.0,35.2758,-117.47877,Exact
+Cuddeback Dry Lake 012,5491,Valid,Stony,0.72,Found,2002.0,35.31217,-117.453,Exact
+Cuddeback Dry Lake 013,52974,Valid,Stony,1.6,Found,2008.0,35.31218,-117.45303,Exact
+Cuddeback Dry Lake 017,52978,Valid,Stony,23.1,Found,2008.0,35.28528,-117.48305,Exact
+Cuddeback Dry Lake 018,52979,Valid,Stony,8.5,Found,2008.0,35.28638,-117.48305,Exact
+Cuddeback Dry Lake 019,52980,Valid,Stony,10.1,Found,2008.0,35.30455,-117.45817,Exact
+Cuddeback Dry Lake 021,51573,Valid,Stony,31.72,Found,2004.0,35.3,-117.4605,Exact
+Cuddeback Dry Lake 023,52856,Valid,Stony,123.0,Found,1986.0,35.3248,-117.47983,Exact
+Cuddeback Dry Lake 028,52967,Valid,Stony,19.5,Found,2008.0,35.296,-117.472,Exact
+Cuddeback Dry Lake 029,52968,Valid,Stony,22.2,Found,2008.0,35.296,-117.472,Exact
+Cuero,5493,Valid,Stony,46500.0,Found,1936.0,29.01667,-97.28333,Exact
+Culbertson,5494,Valid,Stony,5900.0,Found,1913.0,40.23333,-100.83333,Exact
+Cullison,5495,Valid,Stony,10000.0,Found,1911.0,37.61667,-98.91667,Exact
+Cumpas,5497,Valid,Iron,28600.0,Found,1903.0,30.0,-109.66667,Exact
+Cushing,5499,Valid,Stony,567.0,Found,1932.0,35.96667,-96.76667,Exact
+Dale Dry Lake,5505,Valid,Stony,300.0,Found,1957.0,34.08333,-115.78333,Exact
+Dalhart,5508,Valid,Stony,4400.0,Found,1968.0,36.04333,-102.40833,Exact
+Dalton,5509,Valid,Iron,53000.0,Found,1879.0,34.8,-84.98333,Exact
+Danby Dry Lake,5510,Valid,Stony,8991.0,Found,2000.0,34.216667,-115.05,Exact
+Davis Mountains,6615,Valid,Iron,689000.0,Found,1903.0,30.75,-104.25,Exact
+Davy (a),6616,Valid,Stony,50600.0,Found,1940.0,29.1,-97.6,Exact
+Davy (b),6617,Valid,Stony,3770.0,Found,1981.0,29.00833,-97.70556,Exact
+Dawn (a),6618,Valid,Stony,7682.0,Found,1981.0,34.86,-102.12,Exact
+Dawn (b),6619,Valid,Stony,257.6,Found,1981.0,34.86,-102.12,Exact
+Dayton,6620,Valid,Iron,26300.0,Found,1892.0,39.75,-84.16667,Exact
+De Kalb,6623,Valid,Stony,566.0,Found,1969.0,39.59167,-94.92194,Exact
+De Nova,6624,Valid,Stony,12700.0,Found,1940.0,39.85,-102.95,Exact
+Deep Springs,6637,Valid,Iron,11500.0,Found,1846.0,36.5,-79.75,Exact
+Del Rio,6639,Valid,Iron,3596.0,Found,1965.0,29.36667,-100.96667,Exact
+Delaware,6640,Valid,Stony,8346.0,Found,1972.0,35.28333,-93.5,Exact
+Delphos (a),6645,Valid,Stony,1244.7,Found,1968.0,34.08333,-103.525,Exact
+Delphos (b),6646,Valid,Stony,548.0,Found,1968.0,34.09,-103.61167,Exact
+Delphos (c),6647,Valid,Stony,885.0,Found,1977.0,34.05,-103.63333,Exact
+Delphos (d),6648,Valid,Stony,276.0,Found,1969.0,34.05,-103.55,Exact
+Deming,55792,Valid,Stony,784.0,Found,2009.0,32.22548,-107.90459,Exact
+Densmore (1879),6656,Valid,Stony,37200.0,Found,1879.0,39.65,-99.68333,Exact
+Densmore (1950),6657,Valid,Stony,11300.0,Found,1950.0,39.56583,-99.64722,Exact
+Denton County,6659,Valid,Iron,5400.0,Found,1856.0,33.0,-97.0,Exact
+Denver City,6661,Valid,Iron,26100.0,Found,1975.0,33.07139,-102.80028,Exact
+Deport,6662,Valid,Iron,15000.0,Found,1926.0,33.51667,-95.3,Exact
+Deport (a),6663,Valid,Stony,604.0,Found,1944.0,33.51667,-95.3,Exact
+Desert Willow,48655,Valid,Stony,11.3,Found,2007.0,32.319,-111.077,Exact
+Devil Peak,6695,Valid,Stony,34.7,Found,1999.0,35.65917,-115.37283,Exact
+Dexter,6697,Valid,Iron,1724.0,Found,1889.0,33.81667,-97.0,Exact
+Diablo Pass,35516,Valid,Stony,246.6,Found,2004.0,33.66348,-114.29207,Exact
+Diamond Valley,7641,Valid,Stony,440.0,Found,2001.0,40.08173,-115.93673,Exact
+Dimmitt,7645,Valid,Stony,200000.0,Found,1942.0,34.58333,-102.16667,Exact
+Dimmitt (b),7646,Valid,Stony,2800.0,Found,1981.0,34.48333,-102.32833,Exact
+Dispatch,7648,Valid,Stony,220.0,Found,1956.0,39.5,-98.53333,Exact
+Dix,7651,Valid,Stony,44000.0,Found,1927.0,41.23333,-103.48333,Exact
+Dora (pallasite),7712,Valid,Stony_iron,7600.0,Found,1955.0,33.92667,-103.955,Exact
+Dora (stone),7713,Valid,Stony,1570.0,Found,1970.0,33.92333,-103.35,Exact
+Dos Cabezas,7721,Valid,Stony,755.0,Found,1998.0,32.295,-109.67,Exact
+Dougherty,7724,Valid,Stony,1113.0,Found,2002.0,33.97917,-101.2,Exact
+Doyleville,7727,Valid,Stony,112.0,Found,1887.0,38.41667,-106.58333,Exact
+Drayton,7729,Valid,Stony,2350.0,Found,1982.0,48.66667,-97.11667,Exact
+Dresden (Kansas),7730,Valid,Stony,6760.0,Found,1953.0,39.61667,-100.46306,Exact
+Drum Mountains,7733,Valid,Iron,529000.0,Found,1944.0,39.5,-112.9,Exact
+Dry Lake Valley,7734,Valid,Stony,3.5,Found,2000.0,37.72683,-114.7865,Exact
+Duchesne,7737,Valid,Iron,22700.0,Found,1906.0,40.38333,-110.86667,Exact
+Duel Hill (1854),7738,Valid,Iron,21800.0,Found,1854.0,35.85,-82.7,Exact
+Duel Hill (1873),7739,Valid,Iron,11300.0,Found,1873.0,35.85,-82.7,Exact
+Dumas (a),7741,Valid,Stony,46050.0,Found,1956.0,35.9,-101.9,Exact
+Dumas (b),7742,Valid,Stony,2284.0,Found,1980.0,35.925,-101.895,Exact
+Dumont,47341,Valid,Iron,27420.0,Found,1994.0,33.81667,-100.51667,Exact
+Duncanville,7744,Valid,Stony,17800.0,Found,1961.0,32.63333,-96.86667,Exact
+Dungannon,7747,Valid,Iron,13000.0,Found,1922.0,36.85,-82.45,Exact
+Dutch Flat,7753,Valid,Iron,48.8,Found,2002.0,34.48333,-113.91667,Exact
+Dwight,7756,Valid,Stony,4100.0,Found,1940.0,38.85,-96.58333,Exact
+Eads,7759,Valid,Stony,4860.0,Found,1975.0,38.47,-102.82667,Exact
+Eagle Station,7761,Valid,Stony_iron,36000.0,Found,1880.0,38.61667,-84.96667,Exact
+Edmond,7767,Valid,Stony,4000.0,Found,1983.0,39.76667,-99.91667,Exact
+Edmonson (a),7768,Valid,Stony,12000.0,Found,1955.0,34.28333,-101.83333,Exact
+Edmonson (b),7769,Valid,Stony,14402.0,Found,1981.0,34.28333,-101.83333,Exact
+Edmonton (Kentucky),7771,Valid,Iron,10200.0,Found,1942.0,37.03333,-85.63333,Exact
+El Burro,7793,Valid,Iron,35900.0,Found,1939.0,29.33333,-101.83333,Exact
+El Capitan,7794,Valid,Iron,27500.0,Found,1893.0,33.5,-105.5,Exact
+El Carmen,7795,Valid,Stony,629.0,Found,1987.0,26.86667,-105.23333,Exact
+El Mirage,7809,Valid,Iron,598.0,Found,1972.0,33.68333,-112.26667,Exact
+El Mirage Dry Lake 001,7810,Valid,Stony,1.5,Found,2000.0,34.65433,-117.59638,Exact
+El Mirage Dry Lake 002,7811,Valid,Stony,13.0,Found,2001.0,34.64667,-117.58108,Exact
+El Mirage Dry Lake 003,53845,Valid,Stony,6.9,Found,2010.0,34.63432,-117.56217,Exact
+El Mirage Dry Lake 004,54570,Valid,Stony,271.0,Found,2011.0,34.65783,-117.59892,Exact
+El Paso,7812,Valid,Stony,276.0,Found,1950.0,31.78333,-106.23333,Exact
+El Pozo,7814,Valid,Stony,460.0,Found,1998.0,26.93333,-105.4,Exact
+El Rancho Grande,7816,Valid,Stony_iron,40.7,Found,1954.0,37.0,-105.0,Exact
+Elba,7821,Valid,Stony,4175.0,Found,1966.0,39.83333,-103.21667,Exact
+Elida (a),10014,Valid,Stony,936.8,Found,1968.0,33.78333,-103.57667,Exact
+Elida (b),10015,Valid,Stony,537.8,Found,1968.0,33.91667,-103.51833,Exact
+Elida (c),10016,Valid,Stony,385.5,Found,1968.0,33.79,-103.56333,Exact
+Elkhart,10017,Valid,Stony,573.0,Found,1936.0,37.01667,-101.88333,Exact
+Ellicott,10021,Valid,Iron,15700.0,Found,1960.0,38.80778,-104.56944,Exact
+Ellis County,10022,Valid,Stony,4692.0,Found,1948.0,38.78333,-99.33333,Exact
+Elm Creek,10024,Valid,Stony,7000.0,Found,1906.0,38.5,-96.2,Exact
+Elton,10029,Valid,Iron,1900.0,Found,1936.0,33.71667,-100.83333,Exact
+Elyria,10030,Valid,Iron,10900.0,Found,1971.0,38.28,-97.365,Exact
+Emery,10031,Valid,Stony_iron,16700.0,Found,1962.0,43.56333,-97.58333,Exact
+Emmitsburg,10034,Valid,Iron,450.0,Found,1854.0,39.71667,-77.3,Exact
+Enigma,10036,Valid,Stony,94.0,Found,1967.0,31.33333,-82.31667,Exact
+Enon,10037,Valid,Iron,763.0,Found,1883.0,39.86667,-83.95,Exact
+Erie,10045,Valid,Stony,3300.0,Found,1965.0,40.03167,-105.05667,Exact
+Escalón,10050,Valid,Stony,54.3,Found,1979.0,27.0,-104.0,Exact
+Essex,10056,Valid,Stony,5000.0,Found,2002.0,34.61167,-115.03333,Exact
+Estacado,10057,Valid,Stony,290000.0,Found,1883.0,33.9,-101.75,Exact
+Etter,10062,Valid,Stony,450000.0,Found,1965.0,35.98333,-101.9,Exact
+Euclid,10063,Valid,Stony,2500.0,Found,1970.0,47.95833,-96.7,Exact
+Eunice,10064,Valid,Stony,2300.0,Found,1961.0,34.47,-101.75833,Exact
+Eustis,10065,Valid,Stony,502.0,Found,1918.0,28.83333,-81.68333,Exact
+Eva,10066,Valid,Stony,6700.0,Found,1965.0,36.81667,-101.90833,Exact
+Fairburn,56565,Valid,Iron,445.0,Found,1907.0,43.603,-103.026,Exact
+Fairfield,10069,Valid,Iron,1600.0,Found,1974.0,39.33333,-84.6,Exact
+Fairview,10070,Valid,Iron,28800.0,Found,1986.0,34.10139,-102.65,Exact
+Faith,10071,Valid,Stony,105000.0,Found,1952.0,45.33333,-102.08333,Exact
+Falsey Draw,10072,Valid,Stony,4180.0,Found,1995.0,33.84333,-103.93667,Exact
+Farley,10073,Valid,Stony,19400.0,Found,1936.0,36.33333,-104.05,Exact
+Farnum,10076,Valid,Stony,4200.0,Found,1937.0,40.25,-100.23333,Exact
+Faucett,10077,Valid,Stony,100000.0,Found,1966.0,39.61667,-94.86667,Exact
+Felt,10083,Valid,Stony,5400.0,Found,1970.0,36.55,-102.78333,Exact
+Felt (b),10084,Valid,Stony,5590.0,Found,1990.0,36.58333,-102.7,Exact
+Ferguson Switch,10089,Valid,Stony,1700.0,Found,1937.0,34.0,-101.5,Exact
+Fife,30563,Valid,Stony,8600.0,Found,2003.0,31.38972,-99.40583,Exact
+Finney,10104,Valid,Stony,10700.0,Found,1962.0,34.26667,-101.56667,Exact
+Finney (c),10105,Valid,Stony,492.0,Found,1978.0,34.29833,-101.68333,Exact
+Fish Canyon,10106,Valid,Iron,27.3,Found,1992.0,31.735,-110.75333,Exact
+Fitzwater Pass,51738,Valid,Iron,65.4,Found,1974.0,42.03839,-120.58942,Exact
+Flagg,10108,Valid,Stony,7000.0,Found,1954.0,34.43333,-102.51667,Exact
+Flagler,30564,Valid,Stony,4100.0,Found,1972.0,39.23,-102.99,Exact
+Flandreau,10109,Valid,Stony,21360.0,Found,1983.0,44.04833,-96.59167,Exact
+Fleming,10110,Valid,Stony,1750.0,Found,1940.0,40.68333,-102.81667,Exact
+Florey,10112,Valid,Stony,110800.0,Found,1978.0,32.5225,-102.705,Exact
+Floyd,10113,Valid,Stony,13000.0,Found,1966.0,34.19333,-103.575,Exact
+Floydada,10114,Valid,Iron,12500.0,Found,1912.0,33.98333,-101.28333,Exact
+Floydada (b),10115,Valid,Stony,6266.0,Found,1999.0,33.98333,-101.33333,Exact
+Fluvanna (a),10116,Valid,Stony,9500.0,Found,1967.0,32.8,-101.11667,Exact
+Fluvanna (b),10117,Valid,Stony,4110.0,Found,1976.0,32.90333,-101.16278,Exact
+Forestburg (a),10121,Valid,Stony,26100.0,Found,1957.0,33.50667,-97.65139,Exact
+Forestburg (b),10122,Valid,Stony,26600.0,Found,1957.0,33.49556,-97.58861,Exact
+Forsyth County,10165,Valid,Iron,22700.0,Found,1891.0,36.1,-80.2,Exact
+Fort Pierre,10167,Valid,Iron,15900.0,Found,1856.0,44.35,-100.38333,Exact
+Fort Stockton,10168,Valid,Iron,4762.8,Found,1952.0,30.91667,-103.06667,Exact
+Foster,10170,Valid,Stony,1992.0,Found,1975.0,33.1,-102.26667,Exact
+Fountain Hills,30565,Valid,Stony,60.0,Found,2002.0,33.61,-111.72,Exact
+Four Corners,10172,Valid,Iron,25000.0,Found,1924.0,37.0,-109.05,Exact
+Franceville,10173,Valid,Iron,18800.0,Found,1890.0,38.81667,-104.61667,Exact
+Franconia,10174,Valid,Stony,100000.0,Found,2002.0,34.71637,-114.22197,Exact
+Frankel City,10175,Valid,Stony,4700.0,Found,1977.0,32.33333,-102.745,Exact
+Frankfort (iron),10176,Valid,Iron,10900.0,Found,1866.0,38.2,-84.83333,Exact
+Franklin,10178,Valid,Stony,9062.0,Found,1921.0,36.71667,-86.56667,Exact
+Franklinville,10179,Valid,Stony,108.0,Found,1888.0,38.5,-100.0,Exact
+Freda,10180,Valid,Iron,268.0,Found,1919.0,46.38333,-101.23333,Exact
+Fremont Butte,10181,Valid,Stony,6647.0,Found,1963.0,38.5,-105.5,Exact
+Friona,10184,Valid,Stony,21900.0,Found,1981.0,34.54,-102.56833,Exact
+Gahanna,10842,Valid,Iron,1201.0,Found,1950.0,40.01667,-82.86667,Exact
+Gail,10843,Valid,Stony,4650.0,Found,1948.0,32.7,-101.6,Exact
+Gaines County Park,10844,Valid,Stony,13700.0,Found,1977.0,32.83333,-102.73333,Exact
+Galatia,10847,Valid,Stony,23900.0,Found,1971.0,38.64167,-98.88333,Exact
+Galleta Flat,52414,Valid,Stony,392.0,Found,2009.0,32.00415,-110.37503,Exact
+Garnett,10862,Valid,Stony,4788.0,Found,1938.0,38.26667,-95.25,Exact
+Garrison,10864,Valid,Stony,5116.0,Found,1969.0,33.86333,-103.34667,Exact
+Gaylord,10868,Valid,Stony,8480.0,Found,1983.0,39.61667,-98.7,Exact
+Georgetown,10904,Valid,Stony,687.0,Found,1967.0,39.7,-105.7,Exact
+Gila Bend,30664,Valid,Stony,3700.0,Found,2000.0,33.03333,-112.61667,Exact
+Gladstone (stone),10921,Valid,Stony,57300.0,Found,1936.0,36.3,-104.0,Exact
+Glasgow,10927,Valid,Iron,20400.0,Found,1922.0,37.01667,-85.91667,Exact
+Glasston,10928,Valid,Stony,1990.0,Found,1969.0,48.71667,-97.3,Exact
+Glen Rose (iron),10932,Valid,Iron,11000.0,Found,1934.0,32.25,-97.71667,Exact
+Glorieta Mountain,10935,Valid,Stony_iron,148000.0,Found,1884.0,35.6,-105.8,Exact
+Gold Basin,10940,Valid,Stony,61000.0,Found,1995.0,35.875,-114.23333,Exact
+Golden Mile,10941,Valid,Stony,378.8,Found,2000.0,35.89,-114.16667,Exact
+Golden Rule,10942,Valid,Stony,797.6,Found,1999.0,35.87333,-114.2,Exact
+Goldstone Dry Lake,10943,Valid,Stony,1.1,Found,1999.0,35.37333,-116.90833,Exact
+Gomez,10944,Valid,Stony,47000.0,Found,1974.0,33.18139,-102.40139,Exact
+Goodland,10945,Valid,Stony,3628.0,Found,1923.0,39.35,-101.66667,Exact
+Goose Creek,10946,Valid,Stony,2132.3,Found,1999.0,37.435,-98.31833,Exact
+Goose Lake,10947,Valid,Iron,1169500.0,Found,1938.0,41.98,-120.54167,Exact
+Grady (1933),10951,Valid,Stony,4230.0,Found,1933.0,34.8,-103.31667,Exact
+Grady (1937),10952,Valid,Stony,9300.0,Found,1937.0,34.8,-103.31667,Exact
+Grady (c),10953,Valid,Stony,5700.0,Found,1970.0,34.8,-103.31667,Exact
+Granada Creek,10954,Valid,Stony,479.0,Found,1975.0,37.96667,-102.33333,Exact
+Grand Rapids,10955,Valid,Iron,51700.0,Found,1883.0,42.96667,-85.76667,Exact
+Grandview,47730,Valid,Stony,6400.0,Found,2008.0,32.788333,-101.938333,Exact
+Grant,10957,Valid,Iron,525000.0,Found,1929.0,35.16667,-107.88333,Exact
+Grant County,10958,Valid,Stony,2300.0,Found,1936.0,37.46667,-101.43333,Exact
+Grassland,10959,Valid,Stony,4400.0,Found,1964.0,33.11667,-101.58333,Exact
+Grayton,11177,Valid,Stony,11300.0,Found,1983.0,30.31167,-86.16667,Exact
+Great Bend,11180,Valid,Stony,28770.0,Found,1983.0,38.395,-98.91583,Exact
+Greaterville,11193,Valid,Stony,48.0,Found,1995.0,31.76167,-110.75,Exact
+Greenbrier County,11194,Valid,Iron,5000.0,Found,1880.0,37.83333,-80.31667,Exact
+Greener Reservoir,30666,Valid,Stony,45.0,Found,2004.0,39.49133,-112.942,Exact
+Greenwell Springs,11195,Valid,Stony,664.0,Found,1987.0,30.51528,-91.01222,Exact
+Gretna,11201,Valid,Stony,82000.0,Found,1912.0,39.93333,-99.21667,Exact
+Grier (a),11202,Valid,Stony,12.4,Found,1969.0,34.38167,-103.39167,Exact
+Grier (b),11203,Valid,Stony,929.4,Found,1969.0,34.26667,-103.38333,Exact
+Griffith,11204,Valid,Iron,6000.0,Found,1985.0,33.71667,-102.81667,Exact
+Griffith Wash,55289,Valid,Stony,93.0,Found,2011.0,35.06639,-114.0975,Exact
+Gruver,11428,Valid,Stony,13100.0,Found,1934.0,36.33333,-101.4,Exact
+Guadaloupe County,11430,Valid,Iron,20.5,Found,1950.0,29.5,-98.0,Exact
+Guadalupe y Calvo,11431,Valid,Iron,58630.0,Found,1971.0,26.1,-106.96667,Exact
+Guffey,11441,Valid,Iron,309000.0,Found,1907.0,38.76667,-105.51667,Exact
+Guilford County,11444,Valid,Iron,1100.0,Found,1822.0,35.56667,-79.83333,Exact
+Guin,11445,Valid,Iron,34500.0,Found,1969.0,33.96667,-87.91667,Exact
+Gun Creek,11451,Valid,Iron,22700.0,Found,1909.0,34.0,-111.0,Exact
+Gunlock,11453,Valid,Stony,6800.0,Found,1982.0,37.28333,-113.78333,Exact
+Hagersville,11470,Valid,Iron,30000.0,Found,1999.0,42.96667,-80.15,Exact
+Hale Center (no. 1),11477,Valid,Stony,610.0,Found,1936.0,34.05,-101.75,Exact
+Hale Center (no. 2),11478,Valid,Stony,695.0,Found,1936.0,34.05,-101.75,Exact
+Hamilton (Texas),11484,Valid,Stony,2700.0,Found,1965.0,31.59333,-98.25,Exact
+Hammond,11813,Valid,Iron,24000.0,Found,1884.0,44.91667,-92.43333,Exact
+Hangman Crossing,11816,Valid,Stony,1300.0,Found,1976.0,38.91972,-85.94722,Exact
+Happy (a),11818,Valid,Stony,2860.0,Found,1971.0,35.68,-101.99333,Exact
+Happy (b),11819,Valid,Stony,2505.0,Found,1972.0,34.59333,-101.99333,Exact
+Happy (c),11820,Valid,Stony,884.3,Found,1971.0,34.58333,-102.05,Exact
+Happy Canyon,11821,Valid,Stony,16300.0,Found,1971.0,34.80167,-101.56667,Exact
+Hardesty,11825,Valid,Iron,8580.0,Found,1986.0,36.57,-101.19,Exact
+Harding County,11826,Valid,Stony,3075.0,Found,1941.0,45.5,-103.5,Exact
+Hardtner,11827,Valid,Stony,13000.0,Found,1972.0,37.06667,-98.66167,Exact
+Hardwick,11828,Valid,Stony,7800.0,Found,1937.0,43.8,-96.16667,Exact
+Harlowton,11831,Valid,Iron,4000.0,Found,1975.0,46.43333,-109.83333,Exact
+Harper Dry Lake 001,11832,Valid,Stony,13.0,Found,1999.0,35.05102,-117.30672,Exact
+Harper Dry Lake 002,11833,Valid,Stony,12.0,Found,1999.0,35.05067,-117.30095,Exact
+Harper Dry Lake 003,11834,Valid,Stony,95.0,Found,1999.0,35.0425,-117.30837,Exact
+Harper Dry Lake 004,11835,Valid,Stony,37.0,Found,1999.0,35.05523,-117.30257,Exact
+Harper Dry Lake 005,11836,Valid,Stony,24.0,Found,1999.0,35.05063,-117.30188,Exact
+Harper Dry Lake 006,11837,Valid,Stony,26.0,Found,1999.0,35.04722,-117.30752,Exact
+Harper Dry Lake 007,11838,Valid,Stony,166.7,Found,2000.0,35.04953,-117.26357,Exact
+Harper Dry Lake 008,11839,Valid,Stony,12.5,Found,2000.0,35.05193,-117.26138,Exact
+Harper Dry Lake 017,45964,Valid,Stony,16.4,Found,2007.0,35.04102,-117.27465,Exact
+Harper Dry Lake 018,52983,Valid,Stony,39.7,Found,2007.0,35.0421,-117.27512,Exact
+Harper Dry Lake 019,45965,Valid,Stony,118.7,Found,2007.0,35.04015,-117.27283,Exact
+Harper Dry Lake 029,52112,Valid,Stony,11.56,Found,2008.0,35.04568,-117.26658,Exact
+Harper Dry Lake 036,52853,Valid,Stony,85.5,Found,2010.0,35.03333,-117.28333,Exact
+Harriman (Of),11840,Valid,Iron,30000.0,Found,1947.0,35.95,-84.56667,Exact
+Harriman (Om),11841,Valid,Iron,13000.0,Found,1938.0,35.95,-84.56667,Exact
+Harrison Township,11843,Valid,Stony,3263.0,Found,1945.0,38.33333,-101.71167,Exact
+Harrisonville,11844,Valid,Stony,46500.0,Found,1933.0,38.65,-94.33333,Exact
+Hart,56555,Valid,Stony,966.0,Found,2010.0,34.37718,-102.11672,Exact
+Hart Camp,11846,Valid,Stony,1200.0,Found,1970.0,33.99833,-102.17667,Exact
+Hartley,11847,Valid,Stony,2100.0,Found,1967.0,35.94167,-102.16,Exact
+Hartsel,30725,Valid,Stony,490.0,Found,2000.0,38.83333,-105.8,Exact
+Haskell,11849,Valid,Stony,36000.0,Found,1909.0,33.21333,-99.73167,Exact
+Hasparos,11850,Valid,Iron,12880.0,Found,1935.0,34.0,-105.5,Exact
+Hassayampa,11851,Valid,Stony,16000.0,Found,1963.0,33.75,-112.66667,Exact
+Hat Creek,11853,Valid,Stony,8900.0,Found,1939.0,42.91667,-104.41667,Exact
+Hatfield,11854,Valid,Iron,21.0,Found,1941.0,34.48333,-94.45,Exact
+Haven,11858,Valid,Stony,6100.0,Found,1950.0,37.96417,-97.75583,Exact
+Haviland (a),11860,Valid,Stony,1035.0,Found,1937.0,37.61667,-99.1,Exact
+Haviland (b),11861,Valid,Stony,2092.0,Found,1976.0,37.59667,-99.125,Exact
+Hawk Springs,11862,Valid,Stony,367.0,Found,1935.0,41.78333,-104.28333,Exact
+Haxtun,11863,Valid,Stony,15500.0,Found,1975.0,40.45667,-102.57834,Exact
+Hayden Creek,11864,Valid,Iron,270.0,Found,1895.0,45.0,-114.0,Exact
+Hayes Center,11865,Valid,Stony,4500.0,Found,1941.0,40.51667,-101.03333,Exact
+Hebron,11867,Valid,Stony,21820.0,Found,1965.0,40.16667,-97.6,Exact
+Hendersonville,11873,Valid,Stony,6000.0,Found,1901.0,35.31667,-81.46667,Exact
+Hereford,11876,Valid,Stony,2276.0,Found,1970.0,33.795,-102.24167,Exact
+Hesston,11879,Valid,Stony,12900.0,Found,1951.0,38.11667,-97.43333,Exact
+Hickiwan,11881,Valid,Stony,1928.0,Found,1974.0,32.35833,-112.40889,Exact
+Hildreth,11885,Valid,Stony,3060.0,Found,1894.0,40.33333,-99.03333,Exact
+Hill City,11886,Valid,Iron,11700.0,Found,1947.0,39.36667,-99.85,Exact
+Hobbs,11891,Valid,Stony,2300.0,Found,1933.0,32.73333,-103.1,Exact
+Hobbs (b),11892,Valid,Stony,1600.0,Found,1933.0,32.73333,-103.1,Exact
+Holland's Store,11896,Valid,Iron,12200.0,Found,1887.0,34.36667,-85.43333,Exact
+Holliday,11897,Valid,Iron,12.0,Found,1950.0,33.75,-98.83333,Exact
+Holly,11898,Valid,Stony,299.0,Found,1937.0,38.06667,-102.1,Exact
+Holyoke,11900,Valid,Stony,11200.0,Found,1933.0,40.56667,-102.3,Exact
+Hope,11905,Valid,Iron,6800.0,Found,1955.0,33.68333,-93.6,Exact
+Hopper,11907,Valid,Iron,1800.0,Found,1889.0,36.55,-79.78333,Exact
+Horace,11908,Valid,Stony,19700.0,Found,1940.0,38.35,-101.78333,Exact
+Horse Creek,11910,Valid,Iron,570.0,Found,1937.0,37.58333,-102.76667,Exact
+Hot Springs,11912,Valid,Iron,4700.0,Found,1995.0,39.66667,-118.96667,Exact
+Howe,11914,Valid,Stony,8630.0,Found,1938.0,33.5,-96.6,Exact
+Hualapai Wash,11917,Valid,Stony,240.0,Found,2000.0,35.86333,-114.19333,Exact
+Hualapai Wash 020,11918,Valid,Stony,60.9,Found,2003.0,35.83833,-114.16617,Exact
+Hualapai Wash 021,11919,Valid,Stony,20.5,Found,1997.0,35.8895,-114.192,Exact
+Hub,11921,Valid,Stony,6452.0,Found,1991.0,34.54,-102.59433,Exact
+Hueco Tanks,11923,Valid,Stony,314.0,Found,1985.0,31.91667,-106.15,Exact
+Hueco Tanks (b),11924,Valid,Stony,150.0,Found,1985.0,31.91667,-106.15,Exact
+Hugo (stone),11983,Valid,Stony,80.0,Found,1936.0,39.13333,-103.48333,Exact
+Hugoton,11984,Valid,Stony,350000.0,Found,1927.0,37.2,-101.35,Exact
+Huizopa,11985,Valid,Iron,140000.0,Found,1907.0,28.9,-108.56667,Exact
+Hunter,11987,Valid,Stony,74600.0,Found,1962.0,36.56,-97.66667,Exact
+Huntsman,11988,Valid,Stony,14500.0,Found,1910.0,41.18333,-103.0,Exact
+Hyattville,52755,Valid,Stony,8911.0,Found,2008.0,44.33823,-107.67405,Exact
+Idalia,11998,Valid,Stony,7400.0,Found,1968.0,39.695,-102.295,Exact
+Ider,11999,Valid,Iron,140000.0,Found,1957.0,34.68333,-85.65,Exact
+Illinois Gulch,12024,Valid,Iron,2500.0,Found,1899.0,46.68333,-112.55,Exact
+Imlay,52855,Valid,Stony,770.0,Found,2009.0,40.74018,-118.17285,Exact
+Imperial,12026,Valid,Stony,4.0,Found,1908.0,32.86667,-115.58333,Exact
+Indian Valley,12029,Valid,Iron,14100.0,Found,1887.0,36.93333,-80.5,Exact
+Indianola,12030,Valid,Stony,4000.0,Found,1939.0,40.23333,-100.41667,Exact
+Ingalls,12033,Valid,Stony,226.0,Found,1937.0,37.83333,-100.45,Exact
+Inman,12036,Valid,Stony,7250.0,Found,1966.0,38.25,-97.66667,Exact
+Ioka,12040,Valid,Stony,31500.0,Found,1931.0,40.25,-110.08333,Exact
+Iredell,12046,Valid,Iron,1500.0,Found,1898.0,31.96667,-97.86667,Exact
+Iron River,12048,Valid,Iron,1420.0,Found,1889.0,46.07944,-88.55972,Exact
+Ivanpah,12062,Valid,Iron,58000.0,Found,1880.0,35.33333,-115.31667,Exact
+Jackson County,12066,Valid,Iron,450.0,Found,1846.0,36.41667,-85.5,Exact
+Jamestown,12071,Valid,Iron,4000.0,Found,1885.0,46.61667,-98.5,Exact
+Jaralito,12073,Valid,Iron,11138.0,Found,1977.0,26.26583,-103.885,Exact
+Jay Bird Springs,47731,Valid,Stony_iron,292.0,Found,2003.0,32.133333,-82.983333,Exact
+Jenkins,12080,Valid,Iron,55400.0,Found,1946.0,36.82444,-93.76111,Exact
+Jenny's Creek,12081,Valid,Iron,12000.0,Found,1883.0,37.9,-82.38333,Exact
+Jerome (Idaho),12082,Valid,Stony,6800.0,Found,1954.0,42.63333,-114.83333,Exact
+Jerome (Kansas),12083,Valid,Stony,29600.0,Found,1894.0,38.76667,-100.73333,Exact
+Joe Wright Mountain,12174,Valid,Iron,42600.0,Found,1884.0,35.76667,-91.5,Exact
+Johannesburg,55765,Valid,Stony,63.0,Found,2012.0,35.37788,-117.63728,Exact
+Johnson City,12197,Valid,Stony,10400.0,Found,1937.0,37.55,-101.68333,Exact
+Jonah,12200,Valid,Stony,1304.0,Found,1963.0,30.625,-97.53333,Exact
+Jonesboro,12201,Valid,Iron,30.0,Found,1891.0,36.3,-82.46667,Exact
+Juanita de Angeles,12204,Valid,Stony,85000.0,Found,1992.0,28.41667,-105.08333,Exact
+Julesburg,12208,Valid,Stony,57900.0,Found,1983.0,39.975,-102.26667,Exact
+Junction,12212,Valid,Stony,241.0,Found,1932.0,30.5,-99.83333,Exact
+Jungo 001,50762,Valid,Stony,70.7,Found,2007.0,40.89055,-118.36278,Exact
+Jungo 002,50763,Valid,Stony,27.8,Found,2007.0,40.89805,-118.35388,Exact
+Jungo 003,50764,Valid,Stony,29.1,Found,2007.0,40.95805,-118.35305,Exact
+Kackley,45966,Valid,Stony,1368.0,Found,2006.0,39.71633,-97.8545,Exact
+Kaffir (a),12223,Valid,Stony,1874.9,Found,1965.0,34.62333,-101.91667,Exact
+Kaffir (b),12224,Valid,Stony,3500.0,Found,1966.0,34.67167,-101.815,Exact
+Kaffir (c),12225,Valid,Stony,7947.0,Found,1980.0,34.67167,-101.815,Exact
+Kaffir (d),12226,Valid,Stony,26760.0,Found,1981.0,34.67167,-101.815,Exact
+Kennard,12279,Valid,Stony,8200.0,Found,1961.0,41.48333,-96.16667,Exact
+Kalkaska,12234,Valid,Iron,9399.0,Found,1947.0,44.64694,-85.13667,Exact
+Kalvesta,12237,Valid,Stony,10000.0,Found,1968.0,38.08333,-100.25,Exact
+Kansas City (1903),12248,Valid,Stony,36000.0,Found,1903.0,39.1,-94.63333,Exact
+Kansas State University,30739,Valid,Stony,301.0,Found,2004.0,39.27556,-96.25944,Exact
+Karval,12265,Valid,Stony,1104.0,Found,1936.0,38.71667,-103.51667,Exact
+Kaufman,12267,Valid,Stony,23000.0,Found,1893.0,32.58333,-96.41667,Exact
+Kearney,12269,Valid,Stony,10000.0,Found,1934.0,40.68333,-99.06667,Exact
+Keen Mountain,12271,Valid,Iron,6690.0,Found,1950.0,37.21667,-82.0,Exact
+Kelly,12273,Valid,Stony,44300.0,Found,1937.0,40.46667,-103.03333,Exact
+Kendall County,12274,Valid,Iron,21000.0,Found,1887.0,29.4,-98.5,Exact
+Kenna,12277,Valid,Stony,10900.0,Found,1972.0,33.9,-103.55333,Exact
+Kenna (b),12278,Valid,Stony,453.0,Found,1972.0,33.70833,-103.76667,Exact
+Kenton County,12280,Valid,Iron,194000.0,Found,1889.0,38.81667,-84.6,Exact
+Keyes,12287,Valid,Stony,142000.0,Found,1939.0,36.71667,-102.5,Exact
+Keystone Lake,57290,Valid,Stony,787.0,Found,2003.0,36.28402,-96.43701,Exact
+Kimble County,12311,Valid,Stony,153800.0,Found,1918.0,30.41667,-99.4,Exact
+King Tut,12315,Valid,Stony,19.51,Found,1997.0,35.92333,-114.10167,Exact
+Kingfisher,12317,Valid,Stony,8180.0,Found,1950.0,35.83333,-97.93333,Exact
+Kingston,12318,Valid,Iron,12900.0,Found,1891.0,32.9,-107.73333,Exact
+Klamath Falls,12330,Valid,Iron,17000.0,Found,1952.0,42.16667,-121.85,Exact
+Knowles,12334,Valid,Iron,161000.0,Found,1903.0,36.9,-100.21667,Exact
+Kofa,12339,Valid,Iron,490.0,Found,1893.0,33.5,-114.0,Exact
+Kokomo,12340,Valid,Iron,1800.0,Found,1862.0,40.48333,-86.36667,Exact
+Kossuth,12350,Valid,Iron,5900.0,Found,1975.0,40.66667,-84.35,Exact
+Kramer Creek,12354,Valid,Stony,2300.0,Found,1966.0,38.3925,-104.17667,Exact
+Kress (a),12358,Valid,Stony,12500.0,Found,1951.0,34.35833,-101.73,Exact
+Kress (b),12359,Valid,Stony,2600.0,Found,1966.0,34.35833,-101.73,Exact
+Kress (c),12360,Valid,Stony,5600.0,Found,1978.0,34.33833,-101.71667,Exact
+Kress (d),12361,Valid,Stony,57.0,Found,1994.0,34.38333,-101.71667,Exact
+Krider,12362,Valid,Stony,2386.0,Found,1978.0,34.46667,-103.92167,Exact
+Kumiva Valley,12376,Valid,Stony,30.15,Found,2001.0,40.37972,-119.08639,Exact
+Kyle,12389,Valid,Stony,7780.0,Found,1965.0,29.975,-97.86667,Exact
+La Ciénega,51052,Valid,Stony,7632.0,Found,2007.0,30.20186,-111.93587,Exact
+La Esmeralda,12398,Valid,Stony,483.0,Found,1999.0,27.06667,-103.43333,Exact
+La Grange,12399,Valid,Iron,50800.0,Found,1860.0,38.4,-85.36667,Exact
+La Lande,12400,Valid,Stony,30000.0,Found,1933.0,34.45,-104.13333,Exact
+La Luz,48962,Valid,Stony,4798.0,Found,2005.0,33.00383,-105.85083,Exact
+La Porte,12401,Valid,Iron,14540.0,Found,1900.0,41.6,-86.71667,Exact
+La Villa,12405,Valid,Stony,19800.0,Found,1956.0,26.27167,-97.90167,Exact
+Lac Dodon,12409,Valid,Iron,800.0,Found,1993.0,45.95,-73.91667,Exact
+Ladder Creek,12410,Valid,Stony,35100.0,Found,1937.0,38.61667,-101.63333,Exact
+Lafayette (stone),12412,Valid,Stony,800.0,Found,1931.0,40.41667,-86.88333,Exact
+Lahoma,12432,Valid,Stony,21800.0,Found,1963.0,36.38333,-98.08333,Exact
+Lake Murray,12446,Valid,Iron,270000.0,Found,1933.0,34.1,-97.0,Exact
+Laketon,12448,Valid,Stony,3600.0,Found,1937.0,35.56667,-100.66667,Exact
+Lakeview,12449,Valid,Stony,1238.0,Found,1970.0,34.53333,-101.7,Exact
+Lakewood,12450,Valid,Stony,46500.0,Found,1955.0,32.62972,-104.35,Exact
+Lamesa,12452,Valid,Iron,16900.0,Found,1981.0,32.88333,-101.88333,Exact
+Lamont,12453,Valid,Stony_iron,38690.0,Found,1940.0,38.07778,-96.02639,Exact
+Lancaster County,12454,Valid,Iron,13000.0,Found,1903.0,40.66667,-96.75,Exact
+Landes,12457,Valid,Iron,69800.0,Found,1930.0,38.9,-79.18333,Exact
+Lanton,12463,Valid,Iron,13780.0,Found,1932.0,36.53333,-91.8,Exact
+Larned,50998,Valid,Stony,28100.0,Found,1977.0,38.1995,-99.162,Exact
+Lasher Creek,12735,Valid,Iron,639.5,Found,1948.0,42.83333,-74.5,Exact
+Laughlin,53492,Valid,Stony,10.0,Found,2008.0,35.16867,-114.455,Exact
+Laurens County,12741,Valid,Iron,2150.0,Found,1857.0,34.5,-82.03333,Exact
+Lawrence,12744,Valid,Stony,515.0,Found,1928.0,38.96667,-95.16667,Exact
+Lazbuddie,12746,Valid,Stony,8600.0,Found,1970.0,34.5,-102.75,Exact
+Lea County 001,12750,Valid,Stony,498.0,Found,1988.0,32.03333,-103.15,Exact
+Lea County 002,12751,Valid,Stony,11.0,Found,1988.0,32.03333,-103.16667,Exact
+Lea County 003,12752,Valid,Stony,4.91,Found,1999.0,32.04333,-103.15333,Exact
+Leander,12753,Valid,Stony,760.0,Found,1940.0,30.6,-97.9,Exact
+Lemmon,12762,Valid,Stony,6680.0,Found,1984.0,45.93333,-102.18333,Exact
+Leon,12764,Valid,Stony,30000.0,Found,1943.0,37.66667,-96.76667,Exact
+Leoville,12766,Valid,Stony,8100.0,Found,1961.0,39.63333,-100.46722,Exact
+Leoville (b),12767,Valid,Stony,2500.0,Found,1969.0,39.60833,-100.475,Exact
+Leslie,12771,Valid,Stony,895.0,Found,1968.0,34.61139,-100.855,Exact
+Lewiston,14643,Valid,Stony,4416.0,Found,1983.0,34.00833,-103.60278,Exact
+Lexington County,14644,Valid,Iron,4760.0,Found,1880.0,34.0,-81.25,Exact
+Lick Creek,14647,Valid,Iron,1240.0,Found,1879.0,35.66667,-80.25,Exact
+Lider (a),14648,Valid,Stony,2160.0,Found,1972.0,34.655,-101.64,Exact
+Lider (b),14649,Valid,Stony,1800.0,Found,1972.0,34.655,-101.64,Exact
+Lime Creek,14651,Valid,Iron,20000.0,Found,1834.0,31.55,-87.51667,Exact
+Lincoln County,14654,Valid,Stony,4500.0,Found,1937.0,39.36667,-103.16667,Exact
+Linville,14656,Valid,Iron,442.0,Found,1882.0,35.86667,-81.91667,Exact
+Linwood,14657,Valid,Iron,46000.0,Found,1940.0,41.43333,-96.96667,Exact
+Little Ash Creek,14662,Valid,Stony,21.4,Found,2001.0,34.38667,-112.02833,Exact
+Little Harquahala Mountains,53484,Valid,Stony,262.2,Found,2006.0,33.69177,-113.63612,Exact
+Little River (a),14665,Valid,Stony,4400.0,Found,1967.0,38.38333,-98.01667,Exact
+Little River (b),14666,Valid,Stony,11700.0,Found,1965.0,38.44,-98.06667,Exact
+Little Spring Creek,30743,Valid,Stony,2950.0,Found,1937.0,37.68333,-105.7,Exact
+Littlerock,14667,Valid,Stony,19050.0,Found,1979.0,34.51667,-117.98333,Exact
+Livingston (Montana),14668,Valid,Iron,1600.0,Found,1936.0,45.6,-110.58333,Exact
+Livingston (Tennessee),14669,Valid,Iron,235.0,Found,1937.0,36.41667,-85.25,Exact
+Llano River,53635,Valid,Iron,4318.0,Found,1975.0,30.52213,-99.73698,Exact
+Lockney,14672,Valid,Stony,824.0,Found,1944.0,34.15,-101.3,Exact
+Locust Grove,14673,Valid,Iron,10000.0,Found,1857.0,33.33333,-84.1,Exact
+Logan,14677,Valid,Stony,1315.0,Found,1918.0,36.58333,-100.2,Exact
+Lombard,14679,Valid,Iron,7000.0,Found,1953.0,46.1,-111.4,Exact
+Lonaconing,14680,Valid,Iron,1400.0,Found,1888.0,39.41667,-79.15,Exact
+Lone Star,14682,Valid,Stony,4300.0,Found,1965.0,34.25972,-101.40833,Exact
+Lone Tree,14683,Valid,Stony,20676.0,Found,1971.0,41.5,-91.47917,Exact
+Long Island,14694,Valid,Stony,564000.0,Found,1891.0,39.93333,-99.6,Exact
+Loomis,14698,Valid,Stony,3020.0,Found,1933.0,40.46667,-99.5,Exact
+Loop,14702,Valid,Stony,5600.0,Found,1962.0,32.9,-102.28333,Exact
+Loop (b),14703,Valid,Stony,1600.0,Found,1964.0,32.99167,-102.38833,Exact
+Loop (c),14704,Valid,Stony,861.0,Found,1964.0,32.98333,-102.38833,Exact
+Lorenzo,44717,Valid,Stony,611.9,Found,1941.0,41.03333,-102.88333,Exact
+Loreto,14705,Valid,Iron,94800.0,Found,1896.0,26.01667,-111.36667,Exact
+Los Lunas,14707,Valid,Stony,94.5,Found,1978.0,34.8125,-106.79167,Exact
+Lost Creek,14712,Valid,Stony,4018.0,Found,1916.0,39.12417,-98.16778,Exact
+Lost Draw,14713,Valid,Stony,309.0,Found,1980.0,33.28944,-102.54306,Exact
+Lost Lake,14714,Valid,Stony,11.0,Found,1931.0,37.65,-105.73333,Exact
+Losttown,14715,Valid,Iron,3000.0,Found,1868.0,34.25,-84.5,Exact
+Lubbock,14722,Valid,Stony,1457.8,Found,1938.0,33.6,-101.73333,Exact
+Lucerne Valley 001,14725,Valid,Stony,15.8,Found,1963.0,34.5,-116.95,Exact
+Lucerne Valley 002,14726,Valid,Stony,5.8,Found,1963.0,34.5,-116.95,Exact
+Lucerne Valley 003,14727,Valid,Stony,7.5,Found,1963.0,34.5,-116.95,Exact
+Lucerne Valley 004,14728,Valid,Stony,37.4,Found,1963.0,34.5,-116.95,Exact
+Lucerne Valley 005,14729,Valid,Stony,3.1,Found,1963.0,34.5,-116.95,Exact
+Lucerne Valley 006,14730,Valid,Stony,26.9,Found,1963.0,34.5,-116.95,Exact
+Lucerne Valley 007,14731,Valid,Stony,4.8,Found,1963.0,34.5,-116.95,Exact
+Lucerne Valley 008,14732,Valid,Stony,2.0,Found,1964.0,34.5,-116.95,Exact
+Lucerne Valley 009,14733,Valid,Stony,3.0,Found,1965.0,34.5,-116.95,Exact
+Lucerne Valley 010,14734,Valid,Stony,6.4,Found,1965.0,34.5,-116.95,Exact
+Lucerne Valley 011,14735,Valid,Stony,3.8,Found,1968.0,34.5,-116.95,Exact
+Lucerne Valley 012,14736,Valid,Stony,1.2,Found,1968.0,34.5,-116.95,Exact
+Lucerne Valley 013,14737,Valid,Stony,14.0,Found,1992.0,34.5,-116.95,Exact
+Lucerne Valley 014,14738,Valid,Stony,3.4,Found,1998.0,34.50133,-116.96467,Exact
+Lucerne Valley 015,14739,Valid,Stony,12.5,Found,1998.0,34.5095,-116.95583,Exact
+Lucerne Valley 016,14740,Valid,Stony,4.1,Found,1998.0,34.5125,-116.95083,Exact
+Lucerne Valley 017,14741,Valid,Stony,12.8,Found,1999.0,34.5,-116.95,Exact
+Lucerne Valley 018,14742,Valid,Stony,0.97,Found,2002.0,34.48793,-116.9488,Exact
+Lucerne Valley 019,14743,Valid,Stony,3.91,Found,2002.0,34.48868,-116.94985,Exact
+Lucerne Valley 020,14744,Valid,Stony,18.4,Found,2002.0,34.4918,-116.943,Exact
+Lucerne Valley 021,14745,Valid,Stony,3.92,Found,2002.0,34.49312,-116.94662,Exact
+Lucerne Valley 022,14746,Valid,Stony,16.49,Found,2002.0,34.49058,-116.95032,Exact
+Lucerne Valley 023,14747,Valid,Stony,7.56,Found,2002.0,34.49095,-116.95038,Exact
+Lucerne Valley 024,14748,Valid,Stony,2.71,Found,2003.0,34.49553,-116.9471,Exact
+Lucerne Valley 025,31364,Valid,Stony,21.0,Found,2003.0,34.51087,-116.93545,Exact
+Lucerne Valley 026,30746,Valid,Stony,5.6,Found,2003.0,34.5001,-116.94217,Exact
+Lucerne Valley 027,30747,Valid,Stony,3.1,Found,2003.0,34.48715,-116.95337,Exact
+Lucerne Valley 028,35466,Valid,Stony,3.0,Found,2003.0,34.4875,-116.95567,Exact
+Lucerne Valley 029,35467,Valid,Stony,10.1,Found,2003.0,34.487,-116.956,Exact
+Lucerne Valley 030,35468,Valid,Stony,4.12,Found,2004.0,34.48708,-116.95797,Exact
+Lucerne Valley 031,35469,Valid,Stony,3.22,Found,2004.0,34.4871,-116.9578,Exact
+Lucerne Valley 032,35470,Valid,Stony,11.87,Found,2004.0,34.49015,-116.94985,Exact
+Lucerne Valley 035,35471,Valid,Stony,0.92,Found,2004.0,34.4868,-116.95837,Exact
+Lucerne Valley 036,35472,Valid,Stony,2.48,Found,2004.0,34.48793,-116.95638,Exact
+Lucerne Valley 037,35473,Valid,Stony,0.9,Found,2004.0,34.48887,-116.95223,Exact
+Lucerne Valley 040,31365,Valid,Stony,5.21,Found,2004.0,34.4921,-116.94308,Exact
+Lucerne Valley 041,31366,Valid,Stony,0.84,Found,2004.0,34.48975,-116.94277,Exact
+Lucerne Valley 042,31367,Valid,Stony,2.17,Found,2004.0,34.48595,-116.9637,Exact
+Lucerne Valley 043,31368,Valid,Stony,1.75,Found,2004.0,34.48457,-116.96255,Exact
+Lucerne Valley 044,31369,Valid,Stony,106.22,Found,2004.0,34.48413,-116.96083,Exact
+Lucerne Valley 045,31370,Valid,Stony,38.56,Found,2004.0,34.487,-116.96512,Exact
+Lucerne Valley 046,31371,Valid,Stony,10.32,Found,2004.0,34.48742,-116.9735,Exact
+Lucerne Valley 047,31372,Valid,Stony,30.43,Found,2004.0,34.48613,-116.9739,Exact
+Lucerne Valley 048,31373,Valid,Stony,2.29,Found,2004.0,34.48667,-116.95833,Exact
+Lucerne Valley 049,30748,Valid,Stony,9.2,Found,2004.0,34.48472,-116.96107,Exact
+Lucerne Valley 050,32766,Valid,Stony,6.85,Found,2005.0,34.48728,-116.95833,Exact
+Lucerne Valley 051,44718,Valid,Stony,6.0,Found,2003.0,34.525,-116.95333,Exact
+Lucerne Valley 057,45967,Valid,Stony,13.15,Found,2005.0,34.486,-116.97275,Exact
+Lucerne Valley 058,45968,Valid,Stony,0.85,Found,2006.0,34.51092,-116.93962,Exact
+Lucerne Valley 089,52460,Valid,Stony,2.6,Found,2007.0,34.48972,-116.98128,Exact
+Lucerne Valley 090,52461,Valid,Stony,30.7,Found,2007.0,34.48823,-116.97797,Exact
+Lucerne Valley 091,52462,Valid,Stony,12.7,Found,2007.0,34.48075,-116.9788,Exact
+Lucerne Valley 092,52463,Valid,Stony,0.6,Found,2007.0,34.48148,-116.95325,Exact
+Lucerne Valley 093,52464,Valid,Stony,3.93,Found,2007.0,34.4887,-116.9788,Exact
+Lucerne Valley 094,52526,Valid,Stony,3.5,Found,2008.0,34.48712,-116.96147,Exact
+Lucerne Valley 095,52527,Valid,Stony,1.1,Found,2008.0,34.48657,-116.9592,Exact
+Lucerne Valley 096,52528,Valid,Stony,7.3,Found,2008.0,34.48662,-116.9564,Exact
+Lucerne Valley 097,52529,Valid,Stony,6.5,Found,2008.0,34.48565,-116.95673,Exact
+Lucerne Valley 098,52530,Valid,Stony,1.5,Found,2008.0,34.48703,-116.95595,Exact
+Lucerne Valley 099,52531,Valid,Stony,3.2,Found,2008.0,34.48733,-116.96055,Exact
+Lucerne Valley 100,52532,Valid,Stony,0.8,Found,2008.0,34.48738,-116.96065,Exact
+Lucerne Valley 101,52533,Valid,Stony,4.0,Found,2008.0,34.48598,-116.95593,Exact
+Lucerne Valley 120,52465,Valid,Stony,43.1,Found,2010.0,34.48388,-116.9501,Exact
+Lueders,14750,Valid,Iron,35400.0,Found,1973.0,32.83611,-99.60417,Exact
+Luis Lopez,14751,Valid,Iron,7000.0,Found,1896.0,34.0,-106.96667,Exact
+Lunar Dry Lake,30749,Valid,Stony,32.5,Found,2003.0,38.39918,-115.9967,Exact
+Luray,14758,Valid,Stony,861.0,Found,1976.0,39.11667,-98.68333,Exact
+Lushton,14760,Valid,Stony,6700.0,Found,1914.0,40.74972,-97.74972,Exact
+Lusk,14761,Valid,Iron,46.0,Found,1940.0,42.76667,-104.35,Exact
+Macy,15378,Valid,Stony,42000.0,Found,1984.0,34.21667,-103.91667,Exact
+Madoc,15381,Valid,Iron,168000.0,Found,1854.0,44.5,-77.46667,Exact
+Majuba,30752,Valid,Stony,370.0,Found,1999.0,40.6265,-118.41033,Exact
+Majuba 002,30753,Valid,Stony,2420.0,Found,2003.0,40.62832,-118.4167,Exact
+Majuba 003,30754,Valid,Stony,1306.0,Found,2003.0,40.63078,-118.40918,Exact
+Majuba 007,54684,Valid,Stony,1823.3,Found,2007.0,40.61667,-118.38472,Exact
+Mandalay Spring,57454,Valid,Stony,2854.0,Found,2012.0,40.89201,-118.55319,Exact
+Mangum,55331,Valid,Stony,750.0,Found,2008.0,34.849,-99.704,Exact
+Manitouwabing,15406,Valid,Iron,39000.0,Found,1962.0,45.44,-79.87556,Exact
+Mapleton,15410,Valid,Iron,49000.0,Found,1939.0,42.18333,-95.71667,Exact
+Marengo,15415,Valid,Stony,68.0,Found,1991.0,42.29111,-88.62556,Exact
+Maricopa,15420,Valid,Stony,50.0,Found,1980.0,33.25,-112.05,Exact
+Marion (Kansas),15425,Valid,Stony,2890.0,Found,1955.0,38.36667,-97.03333,Exact
+Marlow,15428,Valid,Stony,68000.0,Found,1936.0,34.6,-97.91667,Exact
+Marshall County,15433,Valid,Iron,6800.0,Found,1860.0,37.0,-88.25,Exact
+Marsland,15434,Valid,Stony,6850.0,Found,1933.0,42.45,-103.3,Exact
+Mart,15435,Valid,Iron,7140.0,Found,1898.0,31.5,-96.88333,Exact
+Mayday,15448,Valid,Stony,6900.0,Found,1955.0,39.47444,-96.925,Exact
+Mayfield,15450,Valid,Stony,38400.0,Found,1972.0,37.30833,-97.545,Exact
+Mayodan,15452,Valid,Iron,15400.0,Found,1920.0,36.38333,-79.86667,Exact
+McAddo,15457,Valid,Stony,1100.0,Found,1935.0,33.75,-100.93333,Exact
+McCook,15459,Valid,Stony,3602.0,Found,1965.0,40.02,-100.78333,Exact
+McCracken,15460,Valid,Stony,1530.0,Found,1980.0,38.525,-99.81,Exact
+McKenzie Draw (a),15461,Valid,Stony,11800.0,Found,1989.0,32.925,-102.625,Exact
+McKenzie Draw (b),15462,Valid,Stony,2990.0,Found,1989.0,32.925,-102.625,Exact
+McKinney,15463,Valid,Stony,150000.0,Found,1870.0,33.18333,-96.71667,Exact
+McLean,15464,Valid,Stony,4300.0,Found,1939.0,35.23333,-100.6,Exact
+Meadow (a),15465,Valid,Stony,1495.0,Found,1975.0,33.33139,-102.26889,Exact
+Meadow (b),15466,Valid,Stony,691.0,Found,1981.0,33.33139,-102.26889,Exact
+Melrose (a),15475,Valid,Stony,36400.0,Found,1933.0,34.38333,-103.61667,Exact
+Melrose (b),15476,Valid,Stony,50.5,Found,1971.0,34.39833,-103.605,Exact
+Melvern Lake,15477,Valid,Stony,7746.0,Found,1950.0,38.525,-95.78056,Exact
+Mereta,15488,Valid,Stony,1417.5,Found,1941.0,31.42611,-100.13333,Exact
+Mertzon,15490,Valid,Iron,3720.0,Found,1943.0,31.26667,-100.83333,Exact
+Mesa Verde Park,15494,Valid,Iron,3500.0,Found,1922.0,37.16667,-108.5,Exact
+Miami,16630,Valid,Stony,57700.0,Found,1930.0,35.66667,-100.6,Exact
+Midland,16633,Valid,Iron,34.0,Found,1960.0,44.75,-79.88333,Exact
+Millen,16644,Valid,Stony,40800.0,Found,1975.0,32.83528,-81.87389,Exact
+Miller (Kansas),16646,Valid,Stony,970.0,Found,1950.0,38.625,-96.02278,Exact
+Mills,16687,Valid,Stony,88000.0,Found,1970.0,36.23,-104.11889,Exact
+Milnesand (stone),16690,Valid,Stony,34.0,Found,1981.0,33.63333,-103.33333,Exact
+Milton,16691,Valid,Stony_iron,2040.0,Found,2000.0,40.2875,-95.37667,Exact
+Mincy,16694,Valid,Stony_iron,89400.0,Found,1857.0,36.55,-93.1,Exact
+Mission,16704,Valid,Stony,12000.0,Found,1949.0,43.31667,-100.76667,Exact
+Moapa Valley,48952,Valid,Stony,698.8,Found,2004.0,36.55722,-114.42694,Exact
+Moctezuma,16710,Valid,Iron,1700.0,Found,1889.0,29.8,-109.66667,Exact
+Modoc (1948),16712,Valid,Stony,1800.0,Found,1948.0,38.5,-101.1,Exact
+Mohawk,34059,Valid,Iron,586.0,Found,2000.0,32.73,-113.71,Exact
+Monahans (1938),16718,Valid,Iron,27900.0,Found,1938.0,31.48333,-102.88333,Exact
+Monticello,16728,Valid,Stony,210.0,Found,1982.0,36.95,-84.9,Exact
+Monument Draw,16732,Valid,Stony,524.5,Found,1985.0,32.50333,-102.74333,Exact
+Moriarty,16744,Valid,Stony,330.0,Found,1975.0,34.98333,-106.05,Exact
+Morland,16746,Valid,Stony,295000.0,Found,1890.0,39.33333,-100.06667,Exact
+Morrill,16749,Valid,Iron,1387.0,Found,1920.0,42.18333,-103.93333,Exact
+Morristown,16750,Valid,Stony_iron,16300.0,Found,1887.0,36.2,-83.38333,Exact
+Morrow County,51707,Valid,Stony,18200.0,Found,1999.0,45.5,-119.5,Exact
+Morton,16753,Valid,Stony,6400.0,Found,1980.0,33.71667,-102.76667,Exact
+Mosca,16755,Valid,Stony,6220.0,Found,1942.0,37.63333,-105.83333,Exact
+Mosquero,16757,Valid,Stony,1800.0,Found,1963.0,35.75,-103.93333,Exact
+Mount Joy,16779,Valid,Iron,384000.0,Found,1887.0,39.78333,-77.21667,Exact
+Mount Morris (New York),16782,Valid,Stony,12.5,Found,1897.0,42.7,-77.88333,Exact
+Mount Morris (Wisconsin),16783,Valid,Iron,676.0,Found,1937.0,44.0,-89.25,Exact
+Mount Ouray,16784,Valid,Iron,900.0,Found,1898.0,38.41667,-106.21667,Exact
+Mount Vernon,16806,Valid,Stony_iron,159000.0,Found,1868.0,36.93333,-87.4,Exact
+Mud Dry Lake,16840,Valid,Stony,18255.0,Found,2002.0,37.8594,-117.02097,Exact
+Mulberry Draw,16845,Valid,Stony,9716.0,Found,1963.0,35.63333,-100.13333,Exact
+Muleshoe,16846,Valid,Stony,3600.0,Found,1972.0,34.12167,-102.695,Exact
+Murfreesboro,16877,Valid,Iron,8600.0,Found,1847.0,35.83333,-86.41667,Exact
+Muroc,16879,Valid,Stony,18.4,Found,1936.0,34.91667,-117.83333,Exact
+Muroc Dry Lake,16880,Valid,Stony,223.0,Found,1936.0,34.91667,-117.83333,Exact
+Murphy,16881,Valid,Iron,7700.0,Found,1899.0,35.1,-84.03333,Exact
+Myersville,16886,Valid,Stony,5397.0,Found,1969.0,28.95,-97.40278,Exact
+Naruna (a),16916,Valid,Stony,672.3,Found,1935.0,30.95,-98.26667,Exact
+Naruna (b),16917,Valid,Stony,513.3,Found,1942.0,30.95,-98.28333,Exact
+Nashville (iron),16920,Valid,Iron,18000.0,Found,1934.0,35.96667,-77.96667,Exact
+Nashville (stone),16921,Valid,Stony,25000.0,Found,1939.0,37.45,-98.41667,Exact
+Navajo,16926,Valid,Iron,2184000.0,Found,1921.0,35.33333,-109.5,Exact
+Naviska,48657,Valid,Iron,147.0,Found,2004.0,32.5,-111.28,Exact
+Nazareth (a),16928,Valid,Stony,44.0,Found,1938.0,34.5,-102.25,Exact
+Nazareth (b),16929,Valid,Stony,3600.0,Found,1967.0,34.5,-102.25,Exact
+Nazareth (c),16930,Valid,Stony,222.0,Found,1970.0,34.58333,-102.08333,Exact
+Nazareth (d),16931,Valid,Stony,1500.0,Found,1968.0,34.58333,-102.08333,Exact
+Nazareth (e),16932,Valid,Stony,13100.0,Found,1977.0,34.58333,-102.05,Exact
+Nazareth (iron),16933,Valid,Iron,11310.0,Found,1968.0,34.52667,-102.105,Exact
+Needles,16936,Valid,Iron,45300.0,Found,1962.0,34.44417,-114.8325,Exact
+Needmore,16937,Valid,Stony,1793.0,Found,1976.0,34.04472,-102.79917,Exact
+Neenach,16938,Valid,Stony,13800.0,Found,1948.0,34.8,-118.5,Exact
+Nelson County,16942,Valid,Iron,73030.0,Found,1856.0,37.75,-85.5,Exact
+Ness County (1894),16946,Valid,Stony,82000.0,Found,1894.0,38.5,-99.6,Exact
+Ness County (1938),16947,Valid,Stony,652.0,Found,1938.0,38.48333,-99.91667,Exact
+New Almelo,16951,Valid,Stony,8000.0,Found,1917.0,39.66667,-100.0,Exact
+New Baltimore,16952,Valid,Iron,20000.0,Found,1922.0,40.0,-78.85,Exact
+New Deal,52094,Valid,Stony,266.0,Found,2010.0,33.721,-101.8389,Exact
+New Leipzig,16955,Valid,Iron,20000.0,Found,1936.0,46.36667,-101.95,Exact
+New Lynn,16956,Valid,Stony,800.0,Found,1986.0,33.17,-101.63833,Exact
+New Mexico,16957,Valid,Iron,130.0,Found,1935.0,34.5,-107.0,Exact
+New Moore (a),16958,Valid,Stony,100.3,Found,1972.0,33.11667,-102.11667,Exact
+New Moore (b),16959,Valid,Stony,200.0,Found,1975.0,33.11833,-102.11333,Exact
+New Raymer,30758,Valid,Stony,3400.0,Found,1995.0,40.62583,-103.84033,Exact
+New Westville,16961,Valid,Iron,4800.0,Found,1941.0,39.8,-84.81667,Exact
+New York,55760,Valid,Iron,2950.0,Found,1965.0,40.7,-74.0,Guessed
+Newport,16962,Valid,Stony_iron,5600.0,Found,1923.0,35.6,-91.26667,Exact
+Newsom,16963,Valid,Stony,892.0,Found,1939.0,37.6,-105.83333,Exact
+Niagara,16969,Valid,Iron,115.0,Found,1879.0,48.0,-97.93333,Exact
+Norcateur,16991,Valid,Stony,3200.0,Found,1940.0,39.81667,-100.2,Exact
+Nordheim,16992,Valid,Iron,15150.0,Found,1932.0,28.86667,-97.61667,Exact
+Norfolk,16993,Valid,Iron,23000.0,Found,1907.0,36.9,-76.3,Exact
+Norristown,16997,Valid,Iron,4200.0,Found,1965.0,32.51667,-82.55,Exact
+Northampton,17009,Valid,Iron,353.0,Found,1963.0,42.31667,-72.63333,Exact
+Northbranch,17010,Valid,Stony,76000.0,Found,1972.0,39.99167,-98.34167,Exact
+Nuevo Laredo,17937,Valid,Stony,500.0,Found,1950.0,27.5,-99.5,Exact
+Ocate,48976,Valid,Iron,6400.0,Found,1986.0,36.29533,-105.04833,Exact
+Oakley (iron),17972,Valid,Iron,111000.0,Found,1926.0,42.33333,-113.7,Exact
+Oakley (stone),17973,Valid,Stony,27700.0,Found,1895.0,38.95,-101.01667,Exact
+Oasis State Park,17974,Valid,Stony,606.0,Found,1968.0,34.22833,-103.35833,Exact
+Oberlin,17975,Valid,Stony,2500.0,Found,1911.0,39.8,-100.51667,Exact
+Ocotillo,17980,Valid,Iron,28570.0,Found,1990.0,32.83333,-116.06667,Exact
+Octave Mine,35633,Valid,Stony,1304.2,Found,2004.0,34.13228,-112.70225,Exact
+Odessa (iron),17985,Valid,Iron,1600000.0,Found,1922.0,31.71667,-102.4,Exact
+O'Donnell,17987,Valid,Stony,12700.0,Found,1992.0,32.91217,-101.91867,Exact
+Ogallala,17992,Valid,Iron,3300.0,Found,1918.0,41.16667,-101.66667,Exact
+Okechobee,18001,Valid,Stony,1000.0,Found,1916.0,26.68333,-80.8,Exact
+Oktibbeha County,18003,Valid,Iron,156.0,Found,1854.0,33.5,-89.0,Exact
+Old Dominion Mine,18004,Valid,Stony,42.0,Found,2000.0,34.85958,-116.22113,Exact
+Old Woman,18007,Valid,Iron,2753000.0,Found,1976.0,34.46667,-115.23333,Exact
+Oldman Mountain,56392,Valid,Stony,198.96,Found,2008.0,33.67248,-114.2917,Exact
+Oliver,18014,Valid,Stony,6690.0,Found,1984.0,41.2,-103.68333,Exact
+Olton,18016,Valid,Stony,953.0,Found,1948.0,34.16722,-102.13361,Exact
+Oro Grande,18031,Valid,Stony,513.0,Found,1971.0,32.37167,-106.25833,Exact
+Oroville,18032,Valid,Iron,24500.0,Found,1893.0,39.68333,-121.63333,Exact
+Oscuro Mountains,18035,Valid,Iron,3600.0,Found,1895.0,33.63333,-106.38333,Exact
+Oshkosh,18036,Valid,Stony,144.8,Found,1961.0,44.07694,-88.56278,Exact
+Osseo,18037,Valid,Iron,46300.0,Found,1931.0,47.63333,-80.08333,Exact
+Otis,18044,Valid,Stony,2600.0,Found,1940.0,38.53333,-99.05,Exact
+Otto,18047,Valid,Stony,28.0,Found,1970.0,35.16667,-105.98333,Exact
+Overland Park,18056,Valid,Stony,1374.0,Found,1998.0,38.96667,-94.66667,Exact
+Ovid,18057,Valid,Stony,6169.0,Found,1939.0,40.96667,-102.4,Exact
+Ovid (b),31283,Valid,Stony,860.0,Found,1943.0,40.75833,-102.375,Exact
+Owasco,18060,Valid,Stony,168400.0,Found,1984.0,41.2,-103.68333,Exact
+Owens Valley,18061,Valid,Iron,192800.0,Found,1913.0,37.46667,-118.0,Exact
+Oxford,18063,Valid,Stony,6000.0,Found,1985.0,40.16667,-99.66667,Exact
+Ozona,18066,Valid,Stony,127500.0,Found,1929.0,30.73333,-101.3,Exact
+Page City,18070,Valid,Iron,13630.0,Found,1980.0,39.16667,-101.28333,Exact
+Palmersville,18078,Valid,Stony,9979.0,Found,1908.0,36.4665,-88.60283,Exact
+Palo Blanco Creek,18080,Valid,Stony,1482.0,Found,1954.0,36.5,-104.5,Exact
+Palo Verde Mine,31284,Valid,Stony,9158.0,Found,2004.0,34.71457,-114.19142,Exact
+Paloduro,18081,Valid,Iron,3000.0,Found,1935.0,34.9,-101.21667,Exact
+Panhandle,18096,Valid,Stony,1360.0,Found,1969.0,35.33333,-101.38333,Exact
+Park,18104,Valid,Stony,13000.0,Found,1969.0,39.11,-100.36167,Exact
+Parma Canyon,18107,Valid,Iron,2150.0,Found,1940.0,43.8,-117.0,Exact
+Patricia,18115,Valid,Stony,14900.0,Found,1983.0,32.5,-102.03333,Exact
+Paulding County,18172,Valid,Iron,725.0,Found,1901.0,34.0,-84.8,Exact
+Paymaster Mine,44796,Valid,Stony,159.0,Found,2004.0,33.18667,-114.91783,Exact
+Payson,18178,Valid,Stony,1728.0,Found,2001.0,34.23333,-111.4,Exact
+Peck's Spring,18182,Valid,Stony,1600.0,Found,1926.0,32.0,-102.0,Exact
+Pedernales,34062,Valid,Iron,691.0,Found,1980.0,30.33333,-98.95,Exact
+Peetz,18783,Valid,Stony,11500.0,Found,1937.0,40.95,-103.08333,Exact
+Pelona Mountain,18785,Valid,Stony,618.0,Found,1999.0,33.66667,-108.1,Exact
+Penokee,18788,Valid,Stony,3580.0,Found,1947.0,39.35,-99.91667,Exact
+Pep,18791,Valid,Stony,591.0,Found,1966.0,33.73,-102.57667,Exact
+Perryton,18794,Valid,Stony,2114.0,Found,1975.0,36.35333,-100.73167,Exact
+Perryville,18795,Valid,Iron,17500.0,Found,1906.0,37.73333,-89.85,Exact
+Persimmon Creek,18796,Valid,Iron,5000.0,Found,1893.0,35.05,-84.23333,Exact
+Phillips County (pallasite),18807,Valid,Stony_iron,1360.0,Found,1935.0,40.45,-102.38333,Exact
+Picacho,18814,Valid,Iron,22000.0,Found,1952.0,33.2,-105.0,Exact
+Pickens County,18815,Valid,Stony,400.0,Found,1908.0,34.5,-84.5,Exact
+Pierceville (iron),18819,Valid,Iron,100000.0,Found,1917.0,37.86667,-100.66667,Exact
+Pierceville (stone),18820,Valid,Stony,2125.0,Found,1939.0,37.86667,-100.66667,Exact
+Pima County,18823,Valid,Iron,210.0,Found,1947.0,32.2,-111.0,Exact
+Pine Bluffs,18824,Valid,Stony,2700.0,Found,1935.0,41.18333,-104.06667,Exact
+Pine River,18826,Valid,Iron,3600.0,Found,1931.0,44.21667,-89.1,Exact
+Piñon,18828,Valid,Iron,17850.0,Found,1928.0,32.66667,-105.1,Exact
+Pinto Mountains,18829,Valid,Stony,17900.0,Found,1954.0,34.0,-115.78333,Exact
+Pipe Creek,18830,Valid,Stony,13600.0,Found,1887.0,29.68333,-98.91667,Exact
+Pittsburg,18838,Valid,Iron,600.0,Found,1850.0,40.43333,-80.0,Exact
+Plains,18839,Valid,Stony,34300.0,Found,1964.0,33.28333,-102.76667,Exact
+Plains (d),18840,Valid,Stony,280.0,Found,1991.0,33.26667,-102.9,Exact
+Plainview (1917),18841,Valid,Stony,700000.0,Found,1917.0,34.11667,-101.78333,Exact
+Plainview (1950),18842,Valid,Stony,2200.0,Found,1950.0,34.11667,-101.78333,Exact
+Plainview (c),18843,Valid,Stony,631.0,Found,1963.0,34.125,-101.75667,Exact
+Plainview (d),18844,Valid,Stony,700.0,Found,1979.0,34.1875,-101.70417,Exact
+Plainview (e),54437,Valid,Stony,1250.0,Found,2010.0,34.18513,-101.70558,Exact
+Pleasanton,18848,Valid,Stony,2300.0,Found,1935.0,38.18333,-94.71667,Exact
+Plymouth,18850,Valid,Iron,14000.0,Found,1893.0,41.33333,-86.31667,Exact
+Point of Rocks (iron),18855,Valid,Iron,18000.0,Found,1956.0,36.5,-104.5,Exact
+Point of Rocks (stone),18856,Valid,Stony,800.0,Found,1954.0,36.5,-104.5,Exact
+Poison Spring,18857,Valid,Iron,524.0,Found,1971.0,38.17,-110.36667,Exact
+Pony Creek,18866,Valid,Stony,4642.0,Found,1947.0,31.66333,-99.95,Exact
+Portales (a),18871,Valid,Stony,3240.0,Found,1967.0,34.06667,-103.5,Exact
+Portales (b),18872,Valid,Stony,595.8,Found,1967.0,34.06667,-103.5,Exact
+Portales (c),18873,Valid,Stony,6000.0,Found,1967.0,34.1,-103.41667,Exact
+Portis,18875,Valid,Stony,30.0,Found,1959.0,39.56667,-98.68333,Exact
+Post,18877,Valid,Stony,2000.0,Found,1965.0,33.11667,-101.38333,Exact
+Potter,18878,Valid,Stony,261000.0,Found,1941.0,41.23333,-103.3,Exact
+Powell Peak 001,54561,Valid,Stony,42.8,Found,2011.0,34.68222,-114.33046,Exact
+Powell Peak 002,54526,Valid,Stony,1062.0,Found,2008.0,34.7049,-114.34572,Exact
+Powellsville,18880,Valid,Stony,4310.0,Found,1990.0,38.66667,-82.78333,Exact
+Prairie Dog Creek,18882,Valid,Stony,2900.0,Found,1893.0,39.63333,-100.5,Exact
+Primm,18889,Valid,Stony,3383.0,Found,1997.0,35.66667,-115.36667,Exact
+Providence,18893,Valid,Iron,6804.0,Found,1903.0,38.56667,-85.23333,Exact
+Puente del Zacate,18894,Valid,Iron,30790.0,Found,1904.0,27.86667,-101.5,Exact
+Puente-Ladron,18895,Valid,Stony,7.7,Found,1944.0,34.4,-106.85,Exact
+Puerto Libertad,18897,Valid,Stony,66.0,Found,1973.0,29.9,-112.68333,Exact
+Purmela,32771,Valid,Iron,4500.0,Found,1977.0,29.5,-98.05,Exact
+Putnam County,18906,Valid,Iron,32700.0,Found,1839.0,33.25,-83.25,Exact
+Quartz Mountain,18910,Valid,Iron,4832.0,Found,1935.0,37.2,-116.7,Exact
+Quartzsite,35634,Valid,Stony,69.7,Found,2002.0,33.68085,-114.1958,Exact
+Quinn Canyon,22364,Valid,Iron,1450000.0,Found,1908.0,38.08333,-115.53333,Exact
+Rabbit Dry Lake,22366,Valid,Stony,20.0,Found,2000.0,34.44567,-117.01083,Exact
+Ragged Top,22370,Valid,Stony,122.7,Found,1997.0,32.44667,-111.34667,Exact
+Ragland,22372,Valid,Stony,12100.0,Found,1982.0,34.76778,-103.55,Exact
+Ragland Hill,56382,Valid,Stony,11800.0,Found,1980.0,34.78333,-103.66667,Exact
+Randsburg,44798,Valid,Stony,112.9,Found,2005.0,35.4005,-117.66617,Exact
+Ransom,22393,Valid,Stony,15000.0,Found,1938.0,38.61667,-99.93333,Exact
+Reager,22401,Valid,Stony,230.0,Found,1948.0,39.78333,-100.0,Exact
+Red Dry Lake 002,22539,Valid,Stony,21.5,Found,2001.0,35.65306,-114.02437,Exact
+Red Dry Lake 003,22540,Valid,Stony,94.0,Found,2001.0,35.64552,-114.03069,Exact
+Red Dry Lake 004,22541,Valid,Stony,13.5,Found,2001.0,35.6464,-114.02849,Exact
+Red Dry Lake 005,22542,Valid,Stony,12.0,Found,2001.0,35.64645,-114.02853,Exact
+Red Dry Lake 006,22543,Valid,Stony,40.0,Found,2001.0,35.62705,-114.04336,Exact
+Red Dry Lake 009,22544,Valid,Stony,13.0,Found,2001.0,35.62723,-114.04323,Exact
+Red Dry Lake 022,22545,Valid,Stony,17.0,Found,2002.0,35.66185,-114.0271,Exact
+Red Dry Lake 023,22546,Valid,Stony,5.9,Found,2002.0,35.66375,-114.02698,Exact
+Red Dry Lake 024,31306,Valid,Stony,17.9,Found,2003.0,35.69732,-114.032,Exact
+Red Dry Lake 025,31307,Valid,Stony,6.55,Found,2003.0,35.67947,-114.04338,Exact
+Red Dry Lake 028,31308,Valid,Stony,11.3,Found,2004.0,35.6448,-114.03452,Exact
+Red Dry Lake 029,31309,Valid,Stony,5.25,Found,2004.0,35.62682,-114.04373,Exact
+Red Dry Lake 031,22547,Valid,Stony,4.8,Found,2002.0,35.69733,-114.06167,Exact
+Red Dry Lake 063,45969,Valid,Stony,6.0,Found,2006.0,35.63333,-114.08333,Exact
+Red Dry Lake 064,45970,Valid,Stony,6.0,Found,2006.0,35.64133,-114.09,Exact
+Red Dry Lake 065,45971,Valid,Stony,3.0,Found,2006.0,35.647,-114.0955,Exact
+Red Dry Lake 067,52886,Valid,Stony,6.2,Found,2009.0,35.65868,-114.02573,Exact
+Red Dry Lake 068,52891,Valid,Stony,26.2,Found,2008.0,35.64,-114.03285,Exact
+Red Dry Lake 071,52971,Valid,Stony,4.35,Found,2010.0,35.62453,-114.04688,Exact
+Red River,22548,Valid,Iron,800000.0,Found,1808.0,32.0,-95.0,Exact
+Red Rock,22549,Valid,Iron,47600.0,Found,1976.0,35.41667,-117.91667,Exact
+Red Willow,22550,Valid,Iron,2750.0,Found,1899.0,40.25,-100.5,Exact
+Reed City,22552,Valid,Iron,20000.0,Found,1895.0,43.86667,-85.51667,Exact
+Renfrow,22588,Valid,Stony,81600.0,Found,1986.0,36.98667,-97.555,Exact
+Republican River,22591,Valid,Stony,135.0,Found,1942.0,40.08333,-98.91667,Exact
+Rhineland,22595,Valid,Stony,6240.0,Found,1961.0,33.53333,-99.61667,Exact
+Richfield,22600,Valid,Stony,40800.0,Found,1983.0,37.22222,-101.68139,Exact
+Richland,22601,Valid,Iron,50600.0,Found,1951.0,31.9,-96.4,Exact
+Ridgecrest,22604,Valid,Stony,9.69,Found,1958.0,35.58333,-117.56667,Exact
+Rifle,22605,Valid,Iron,102700.0,Found,1948.0,38.51667,-107.83333,Exact
+Rio Rancho,55670,Valid,Stony,1001.0,Found,2011.0,35.3,-106.63333,Exact
+Roach,22616,Valid,Stony,10.56,Found,1998.0,35.63333,-115.36667,Exact
+Roach Dry Lake 002,22617,Valid,Stony,5.0,Found,2000.0,35.65933,-115.37167,Exact
+Roach Dry Lake 003,22618,Valid,Stony,4.2,Found,2000.0,35.6717,-115.36722,Exact
+Roach Dry Lake 006,22619,Valid,Stony,6.53,Found,2001.0,35.68345,-115.34703,Exact
+Roach Dry Lake 021,32763,Valid,Stony,59.2,Found,2001.0,35.67298,-115.36717,Exact
+Roach Dry Lake 027,22620,Valid,Stony,18.65,Found,2002.0,35.68078,-115.34062,Exact
+Roach Dry Lake 030,22621,Valid,Stony,10.13,Found,2002.0,35.67405,-115.36807,Exact
+Roach Dry Lake 031,22622,Valid,Stony,36.2,Found,2002.0,35.6701,-115.37248,Exact
+Roach Dry Lake 064,22623,Valid,Stony,18.26,Found,2002.0,35.67725,-115.3566,Exact
+Roach Dry Lake 075,22624,Valid,Stony,29.9,Found,2002.0,35.67355,-115.35067,Exact
+Roach Dry Lake 113,52982,Valid,Stony,39.6,Found,2010.0,35.66594,-115.37081,Exact
+Roosevelt County 007,22662,Valid,Stony,5.2,Found,1979.0,34.08333,-103.5,Exact
+Roosevelt County 008,22663,Valid,Stony,25.3,Found,1979.0,34.08333,-103.5,Exact
+Roosevelt County 009,22664,Valid,Stony,2.1,Found,1979.0,34.08333,-103.5,Exact
+Rock Creek,22638,Valid,Stony,1641.0,Found,1980.0,34.42222,-101.4975,Exact
+Rock Springs,22639,Valid,Stony,52.7,Found,2003.0,41.65,-109.025,Exact
+Rodeo,22643,Valid,Iron,44000.0,Found,1852.0,25.33333,-104.66667,Exact
+Rogers,22645,Valid,Stony,982.0,Found,1974.0,34.065,-103.40833,Exact
+Rolla (1936),22646,Valid,Stony,440.0,Found,1936.0,37.11667,-101.6,Exact
+Rolla (1939),22647,Valid,Stony,207.5,Found,1939.0,37.11667,-101.6,Exact
+Rolla (1941),22648,Valid,Stony,435.0,Found,1941.0,37.08333,-101.6,Exact
+Rolla (d),22649,Valid,Stony,50.0,Found,1942.0,37.08333,-101.6,Exact
+Romero,22651,Valid,Stony,17200.0,Found,1938.0,35.76667,-102.95,Exact
+Roosevelt,22655,Valid,Stony,5200.0,Found,1972.0,34.86667,-98.95,Exact
+Roosevelt County 001,22656,Valid,Stony,462.0,Found,1968.0,33.78333,-103.56667,Exact
+Roosevelt County 002,22657,Valid,Stony,18.2,Found,1973.0,33.71667,-103.65,Exact
+Roosevelt County 003,22658,Valid,Stony,30.3,Found,1976.0,33.88333,-103.56667,Exact
+Roosevelt County 004,22659,Valid,Stony,882.0,Found,1977.0,34.08333,-103.5,Exact
+Roosevelt County 005,22660,Valid,Stony,12.0,Found,1978.0,34.21667,-103.28333,Exact
+Roosevelt County 006,22661,Valid,Stony,9.7,Found,1979.0,34.08333,-103.5,Exact
+Roosevelt County 010,22665,Valid,Stony,23.6,Found,1979.0,33.08333,-103.5,Exact
+Roosevelt County 011,22666,Valid,Stony,2.9,Found,1980.0,33.75,-103.13333,Exact
+Roosevelt County 012,22667,Valid,Stony,173.1,Found,1981.0,34.1,-103.48333,Exact
+Roosevelt County 013,22668,Valid,Stony,35.2,Found,1981.0,34.1,-103.48333,Exact
+Roosevelt County 014,22669,Valid,Stony,74.7,Found,1981.0,34.1,-103.48333,Exact
+Roosevelt County 015,22670,Valid,Stony,16.3,Found,1981.0,34.1,-103.48333,Exact
+Roosevelt County 016,22671,Valid,Stony,138.2,Found,1981.0,34.1,-103.48333,Exact
+Roosevelt County 017,22672,Valid,Stony,177.8,Found,1981.0,34.21667,-103.2,Exact
+Roosevelt County 018,22673,Valid,Stony,10.8,Found,1981.0,34.31667,-103.41667,Exact
+Roosevelt County 019,22674,Valid,Stony,450.0,Found,1982.0,34.11667,-103.56667,Exact
+Roosevelt County 020,22675,Valid,Stony,528.0,Found,1983.0,34.13333,-103.56667,Exact
+Roosevelt County 021,22676,Valid,Stony,96.0,Found,1983.0,33.81806,-103.20694,Exact
+Roosevelt County 022,22677,Valid,Stony,8.7,Found,1983.0,34.21667,-103.28333,Exact
+Roosevelt County 023,22678,Valid,Stony,59.2,Found,1984.0,34.18333,-103.23333,Exact
+Roosevelt County 024,22679,Valid,Stony,5.6,Found,1984.0,34.08333,-103.5,Exact
+Roosevelt County 025,22680,Valid,Stony,4.3,Found,1984.0,34.08333,-103.5,Exact
+Roosevelt County 026,22681,Valid,Stony,12.4,Found,1984.0,34.15,-104.01667,Exact
+Roosevelt County 027,22682,Valid,Stony,22.3,Found,1984.0,33.8,-103.25,Exact
+Roosevelt County 028,22683,Valid,Stony,67.3,Found,1984.0,34.08333,-103.5,Exact
+Roosevelt County 029,22684,Valid,Stony,4.9,Found,1984.0,34.08333,-103.5,Exact
+Roosevelt County 030,22685,Valid,Stony,3.1,Found,1984.0,34.28333,-103.43333,Exact
+Roosevelt County 031,22686,Valid,Stony,397.1,Found,1984.0,33.78333,-103.55,Exact
+Roosevelt County 032,22687,Valid,Stony,141.1,Found,1968.0,34.08333,-103.5,Exact
+Roosevelt County 033,22688,Valid,Stony,21.8,Found,1968.0,34.08333,-103.5,Exact
+Roosevelt County 034,22689,Valid,Stony,118.5,Found,1968.0,34.08333,-103.61667,Exact
+Roosevelt County 035,22690,Valid,Stony,81.59999999999998,Found,1968.0,34.08333,-103.61667,Exact
+Roosevelt County 036,22691,Valid,Stony,65.2,Found,1968.0,34.08333,-103.61667,Exact
+Roosevelt County 037,22692,Valid,Stony,94.3,Found,1968.0,34.08333,-103.51667,Exact
+Roosevelt County 038,22693,Valid,Stony,49.4,Found,1968.0,34.3,-103.45,Exact
+Roosevelt County 039,22694,Valid,Stony,38.0,Found,1969.0,34.08333,-103.5,Exact
+Roosevelt County 040,22695,Valid,Stony,71.1,Found,1969.0,34.08333,-103.5,Exact
+Roosevelt County 041,22696,Valid,Stony,32.4,Found,1969.0,34.08333,-103.5,Exact
+Roosevelt County 042,22697,Valid,Stony,32.6,Found,1969.0,34.08333,-103.51667,Exact
+Roosevelt County 043,22698,Valid,Stony,52.1,Found,1969.0,34.08333,-103.61667,Exact
+Roosevelt County 044,22699,Valid,Stony,439.1,Found,1970.0,34.25,-103.51667,Exact
+Roosevelt County 045,22700,Valid,Stony,55.5,Found,1970.0,34.23333,-103.25,Exact
+Roosevelt County 046,22701,Valid,Stony,120.4,Found,1970.0,34.1,-103.48333,Exact
+Roosevelt County 047,22702,Valid,Stony,30.3,Found,1970.0,34.13333,-103.36667,Exact
+Roosevelt County 048,22703,Valid,Stony,57.3,Found,1970.0,33.61667,-103.45,Exact
+Roosevelt County 049,22704,Valid,Stony,22.8,Found,1971.0,34.08333,-103.5,Exact
+Roosevelt County 050,22705,Valid,Stony,13.1,Found,1971.0,34.08333,-103.5,Exact
+Roosevelt County 051,22706,Valid,Stony,29.4,Found,1971.0,34.21667,-103.35,Exact
+Roosevelt County 052,22707,Valid,Stony,17.7,Found,1971.0,34.1,-103.48333,Exact
+Roosevelt County 053,22708,Valid,Stony,10.8,Found,1971.0,33.88333,-103.7,Exact
+Roosevelt County 054,22709,Valid,Stony,361.5,Found,1971.0,34.3,-103.43333,Exact
+Roosevelt County 055,22710,Valid,Stony,7.9,Found,1971.0,34.3,-103.43333,Exact
+Roosevelt County 056,22711,Valid,Stony,10.3,Found,1972.0,34.41667,-103.58333,Exact
+Roosevelt County 057,22712,Valid,Stony,7.7,Found,1973.0,34.21667,-103.28333,Exact
+Roosevelt County 058,22713,Valid,Stony,12.0,Found,1968.0,34.08333,-103.5,Exact
+Roosevelt County 059,22714,Valid,Stony,26.2,Found,1968.0,34.08333,-103.5,Exact
+Roosevelt County 060,22715,Valid,Stony,34.2,Found,1968.0,34.08333,-103.61667,Exact
+Roosevelt County 061,22716,Valid,Stony,49.5,Found,1968.0,34.08333,-103.51667,Exact
+Roosevelt County 062,22717,Valid,Stony,16.2,Found,1969.0,34.21667,-103.5,Exact
+Roosevelt County 063,22718,Valid,Stony,34.7,Found,1969.0,34.08333,-103.5,Exact
+Roosevelt County 064,22719,Valid,Stony,24.8,Found,1969.0,34.08333,-103.5,Exact
+Roosevelt County 065,22720,Valid,Stony,405.8,Found,1971.0,33.61667,-103.45,Exact
+Roosevelt County 066,22721,Valid,Stony,4.9,Found,1988.0,34.1,-103.48333,Exact
+Roosevelt County 067,22722,Valid,Stony,2.1,Found,1988.0,34.1,-103.48333,Exact
+Roosevelt County 068,22723,Valid,Stony,13.9,Found,1988.0,34.1,-103.48333,Exact
+Roosevelt County 069,22724,Valid,Stony,4.8,Found,1989.0,34.1,-103.48333,Exact
+Roosevelt County 070,22725,Valid,Stony,2.3,Found,1989.0,34.1,-103.48333,Exact
+Roosevelt County 071,22726,Valid,Stony,5.3,Found,1989.0,34.1,-103.48333,Exact
+Roosevelt County 072,22727,Valid,Stony,9.8,Found,1989.0,34.1,-103.48333,Exact
+Roosevelt County 073,22728,Valid,Stony,288.0,Found,1989.0,34.08333,-103.48333,Exact
+Roosevelt County 074,22729,Valid,Stony,22.2,Found,1990.0,34.08333,-103.51667,Exact
+Roosevelt County 075,22730,Valid,Stony,258.0,Found,1990.0,34.18333,-103.43333,Exact
+Roosevelt County 076,22731,Valid,Stony,3.3,Found,1992.0,34.08333,-103.5,Exact
+Roosevelt County 077,22732,Valid,Stony,10.9,Found,1992.0,34.08333,-103.5,Exact
+Roosevelt County 078,22733,Valid,Stony,6.9,Found,1992.0,34.08333,-103.5,Exact
+Roosevelt County 079,22734,Valid,Stony,30.2,Found,1993.0,34.1,-103.58333,Exact
+Roosevelt County 080,22735,Valid,Stony,727.8,Found,1968.0,34.05,-103.5,Exact
+Roosevelt County 081,22736,Valid,Stony,522.2,Found,1969.0,33.63333,-103.16667,Exact
+Roosevelt County 082,22737,Valid,Stony,137.0,Found,1969.0,34.08333,-103.56667,Exact
+Roosevelt County 083,22738,Valid,Stony,14.8,Found,1969.0,33.66667,-103.41667,Exact
+Roosevelt County 084,22739,Valid,Stony,69.6,Found,1969.0,34.2,-103.23333,Exact
+Roosevelt County 085,22740,Valid,Stony,140.0,Found,1969.0,34.31667,-103.38333,Exact
+Roosevelt County 086,22741,Valid,Stony,9.0,Found,1974.0,34.28333,-103.28333,Exact
+Roosevelt County 087,22742,Valid,Stony,8.2,Found,1977.0,34.06667,-103.51667,Exact
+Roosevelt County 088,22743,Valid,Stony,7.5,Found,1978.0,33.88333,-103.56667,Exact
+Roosevelt County 089,22744,Valid,Stony,1615.0,Found,1980.0,34.13333,-103.53333,Exact
+Roosevelt County 090,22745,Valid,Stony,6.4,Found,1993.0,34.28333,-103.51667,Exact
+Roosevelt County 091,22746,Valid,Stony,3.15,Found,1994.0,34.08333,-103.5,Exact
+Roosevelt County 092,22747,Valid,Stony,34.29,Found,1994.0,34.08333,-103.5,Exact
+Roosevelt County 093,22748,Valid,Stony,2.78,Found,1994.0,34.08333,-103.5,Exact
+Roosevelt County 094,22749,Valid,Stony,3.55,Found,1994.0,34.08333,-103.5,Exact
+Roosevelt County 095,22750,Valid,Stony,12.1,Found,1995.0,34.09167,-103.50167,Exact
+Roosevelt County 096,22751,Valid,Stony,212.2,Found,1996.0,34.09167,-103.67667,Exact
+Roosevelt County 097,22752,Valid,Stony,56.0,Found,1996.0,33.95833,-103.93833,Exact
+Roosevelt County 098,22753,Valid,Stony,15.0,Found,1969.0,34.21667,-103.55,Exact
+Roosevelt County 099,22754,Valid,Stony,9.8,Found,1969.0,33.6,-103.3,Exact
+Roosevelt County 100,22755,Valid,Stony,6.8,Found,1970.0,34.3,-103.45,Exact
+Roosevelt County 101,22756,Valid,Stony,12.6,Found,1979.0,34.05,-103.58333,Exact
+Roosevelt County 102,22757,Valid,Stony,8345.0,Found,1988.0,33.995,-103.25,Exact
+Roosevelt County 103,22758,Valid,Stony,10.0,Found,1998.0,33.73883,-103.65,Exact
+Roosevelt County 104,22759,Valid,Stony,51.7,Found,1998.0,33.72217,-103.67333,Exact
+Roosevelt County 105,22760,Valid,Stony,30.0,Found,1998.0,34.18833,-103.94167,Exact
+Roosevelt County 106,22761,Valid,Stony,98.8,Found,2001.0,34.21667,-103.93333,Exact
+Roosevelt County 107,22762,Valid,Stony,81.2,Found,2000.0,34.21667,-103.13333,Exact
+Roosevelt County 108,47360,Valid,Stony,4.75,Found,2004.0,34.21667,-103.18333,Exact
+Roosevelt County 109,48914,Valid,Stony,17.3,Found,2005.0,34.21667,-103.18333,Exact
+Roosevelt County 110,48991,Valid,Stony,73.7,Found,1987.0,33.736667,-103.623333,Exact
+Rosamond,57434,Valid,Stony,11.1,Found,2012.0,34.82793,-118.1464,Exact
+Rosamond Dry Lake,22764,Valid,Stony,850.0,Found,1940.0,34.83333,-118.06667,Exact
+Rosebud,22767,Valid,Stony,54900.0,Found,1915.0,30.81667,-97.05,Exact
+Round Top (a),22768,Valid,Stony,9935.0,Found,1934.0,30.05806,-96.65139,Exact
+Round Top (b),22769,Valid,Stony,7166.0,Found,1939.0,30.06667,-96.7,Exact
+Roundsprings,22770,Valid,Stony,6000.0,Found,1986.0,39.16667,-98.43333,Exact
+Roundup,22771,Valid,Iron,17590.0,Found,1990.0,46.78333,-108.56667,Exact
+Roy (1933),22774,Valid,Stony,47200.0,Found,1933.0,35.95,-104.2,Exact
+Roy (1934),22775,Valid,Stony,5619.0,Found,1934.0,35.95,-104.2,Exact
+Ruff's Mountain,22779,Valid,Iron,53070.0,Found,1844.0,34.3,-81.4,Exact
+Rush County,22785,Valid,Stony,4300.0,Found,1948.0,39.5,-85.5,Exact
+Rush Creek,22786,Valid,Stony,9300.0,Found,1938.0,38.61667,-102.71667,Exact
+Rushville,22787,Valid,Stony,50.0,Found,1866.0,39.61667,-85.45,Exact
+Russel Gulch,22788,Valid,Iron,13200.0,Found,1863.0,39.8,-105.5,Exact
+Ryan Field,22789,Valid,Stony,8.9,Found,1982.0,32.13333,-111.13333,Exact
+Sacramento Mountains,22794,Valid,Iron,237200.0,Found,1890.0,32.91667,-104.66667,Exact
+Sacramento Wash 001,34065,Valid,Stony,98.9,Found,2003.0,34.75637,-114.23435,Exact
+Sacramento Wash 002,34066,Valid,Stony,892.8,Found,2004.0,34.75635,-114.2343,Exact
+Sacramento Wash 003,34067,Valid,Stony,89.2,Found,2004.0,34.75873,-114.23342,Exact
+Sacramento Wash 004,34068,Valid,Stony,28.6,Found,2004.0,34.75078,-114.22717,Exact
+Sacramento Wash 005,45974,Valid,Stony,52.3,Found,2004.0,34.74667,-114.21,Exact
+Saginaw,22797,Valid,Iron,44500.0,Found,1979.0,32.86583,-97.32306,Exact
+Saint Augustine,23080,Valid,Iron,22000.0,Found,1974.0,40.71667,-90.41667,Exact
+Salaices,23105,Valid,Stony,24500.0,Found,1971.0,27.0,-105.25,Exact
+Salina,23108,Valid,Iron,235.0,Found,1908.0,38.98333,-111.85,Exact
+Saline,23109,Valid,Stony,30800.0,Found,1901.0,39.4,-100.4,Exact
+Salt Lake City,23112,Valid,Stony,875.0,Found,1869.0,40.91667,-111.66667,Exact
+Salt River,23113,Valid,Iron,3600.0,Found,1850.0,37.95,-85.78333,Exact
+Sam's Valley,23116,Valid,Iron,6920.0,Found,1894.0,42.53333,-122.875,Exact
+San Angelo,23117,Valid,Iron,88000.0,Found,1897.0,31.41667,-100.35,Exact
+San Bernardino Wash,55265,Valid,Stony,258.0,Found,2010.0,34.00056,-115.72972,Exact
+San Emigdio,23122,Valid,Stony,36000.0,Found,1887.0,36.0,-119.0,Exact
+San Francisco Mountains,23124,Valid,Iron,1700.0,Found,1920.0,35.0,-112.0,Exact
+San Joaquin,47356,Valid,Stony,31.8,Found,2005.0,32.16657,-111.11718,Exact
+San José,23125,Valid,Stony,532.0,Found,1944.0,24.7,-99.08333,Exact
+San Pedro Springs,23131,Valid,Stony,72.0,Found,1887.0,29.5,-98.5,Exact
+Sand Creek,23133,Valid,Stony,2443.0,Found,1986.0,39.43,-99.995,Exact
+Sand Draw,23134,Valid,Stony,1200.0,Found,1947.0,40.81667,-102.25,Exact
+Sanderson,23135,Valid,Iron,6800.0,Found,1936.0,30.13333,-102.15,Exact
+Sandy Creek,23158,Valid,Stony,1330.0,Found,1999.0,40.43333,-98.06667,Exact
+Sandia Mountains,23156,Valid,Iron,45000.0,Found,1925.0,35.25,-106.5,Exact
+Sandtown,23157,Valid,Iron,9350.0,Found,1938.0,35.93333,-91.63333,Exact
+Santa Rosalia,23168,Valid,Stony_iron,1631.0,Found,1950.0,27.33333,-112.33333,Exact
+Sappa,23175,Valid,Stony,5950.0,Found,1983.0,39.84433,-100.51,Exact
+Sardis,23177,Valid,Iron,800000.0,Found,1940.0,32.94889,-81.865,Exact
+Savannah,23189,Valid,Iron,60000.0,Found,1923.0,35.16667,-88.18333,Exact
+Sawtooth Knob,23191,Valid,Iron,18.54,Found,2002.0,40.86217,-118.54167,Exact
+Sawyer,53806,Valid,Stony,8100.0,Found,2006.0,37.52392,-98.62993,Exact
+Scott City,23462,Valid,Stony,2135.0,Found,1905.0,38.46667,-100.93333,Exact
+Scottsville,23466,Valid,Iron,10000.0,Found,1867.0,36.76667,-86.16667,Exact
+Scurry,23468,Valid,Stony,118000.0,Found,1937.0,32.5,-101.0,Exact
+Seagraves,23469,Valid,Stony,13000.0,Found,1962.0,32.93333,-102.58333,Exact
+Seagraves (b),23470,Valid,Stony,4600.0,Found,1976.0,32.91722,-102.5,Exact
+Seagraves (c),23471,Valid,Stony,26810.0,Found,1989.0,32.98333,-102.56667,Exact
+Seguin,23478,Valid,Stony,750.0,Found,1956.0,39.36667,-100.63333,Exact
+Seibert (a),23479,Valid,Stony,3500.0,Found,1941.0,39.3,-102.83333,Exact
+Seibert (b),23480,Valid,Stony,8600.0,Found,1991.0,39.27667,-102.88667,Exact
+Selden,23484,Valid,Stony,1560.0,Found,1960.0,39.53333,-100.56667,Exact
+Seligman,23485,Valid,Iron,2200.0,Found,1949.0,35.28333,-112.86667,Exact
+Selma,23486,Valid,Stony,140600.0,Found,1906.0,32.4,-87.0,Exact
+Seminole,23488,Valid,Stony,43900.0,Found,1961.0,32.68333,-102.61667,Exact
+Seminole (b),23489,Valid,Stony,1184.0,Found,1965.0,32.54333,-102.705,Exact
+Seminole (c),23490,Valid,Stony,1711.0,Found,1967.0,32.55,-102.39167,Exact
+Seminole (d),23491,Valid,Stony,1710.0,Found,1976.0,32.71667,-102.65,Exact
+Seminole (e),23492,Valid,Stony,758.2,Found,1977.0,32.71667,-102.65,Exact
+Seminole (f),54436,Valid,Stony,5421.0,Found,2008.0,32.70038,-102.67268,Exact
+Seminole (g),55293,Valid,Stony,640.4,Found,1999.0,32.71667,-102.65,Exact
+Seminole Draw (a),23493,Valid,Stony,478.0,Found,1976.0,32.71667,-102.65,Exact
+Seminole Draw (b),23494,Valid,Stony,1192.7,Found,1976.0,32.71667,-102.65,Exact
+Seneca,23497,Valid,Stony,1900.0,Found,1936.0,39.83333,-96.06667,Exact
+Seneca Falls,23498,Valid,Iron,4000.0,Found,1850.0,42.91667,-76.78333,Exact
+Seneca Township,23499,Valid,Iron,11500.0,Found,1923.0,41.78333,-84.18333,Exact
+Seth Ward,23505,Valid,Stony,3800.0,Found,1977.0,34.26889,-101.64722,Exact
+Seymour,23511,Valid,Iron,25900.0,Found,1940.0,37.2375,-92.78694,Exact
+Shafter Lake,23513,Valid,Stony,3027.0,Found,1933.0,32.4,-102.58333,Exact
+Shallowater,23522,Valid,Stony,4650.0,Found,1936.0,33.7,-101.93333,Exact
+Sharon Springs,23524,Valid,Stony,23400.0,Found,1983.0,38.77083,-101.79833,Exact
+Shaw,23526,Valid,Stony,17500.0,Found,1937.0,39.53333,-103.33333,Exact
+Shawnee,53761,Valid,Iron,8181.0,Found,2010.0,39.0228,-94.7152,Guessed
+Sheephole Valley,23527,Valid,Stony,62.1,Found,1999.0,34.125,-115.56333,Exact
+Sheephole Valley 002,23528,Valid,Stony,4.4,Found,1999.0,34.125,-115.56333,Exact
+Shields,23533,Valid,Stony,9780.0,Found,1962.0,38.7,-100.35,Exact
+Shingle Springs,23535,Valid,Iron,39000.0,Found,1869.0,38.66667,-120.93333,Exact
+Shrewsbury,23581,Valid,Iron,12000.0,Found,1907.0,39.76667,-76.66667,Exact
+Sidney,23585,Valid,Stony,6000.0,Found,1941.0,41.05,-102.9,Exact
+Sierra County,23589,Valid,Stony,1000.0,Found,1962.0,33.0,-107.5,Exact
+Signal Mountain,23592,Valid,Iron,63500.0,Found,1919.0,32.5,-115.5,Exact
+Silurian Dry Lake,23595,Valid,Stony,43.8,Found,2000.0,35.51752,-116.17607,Exact
+Silver Bell,23596,Valid,Iron,5100.0,Found,1939.0,32.48333,-111.56667,Exact
+Silver Crown,23597,Valid,Iron,11600.0,Found,1887.0,41.23333,-104.98333,Exact
+Silver Dry Lake 001,23598,Valid,Stony,218.8,Found,2000.0,35.37333,-116.125,Exact
+Silver Dry Lake 002,23599,Valid,Stony,16.5,Found,2000.0,35.34443,-116.11485,Exact
+Silverton (Texas),23601,Valid,Stony,2576.0,Found,1938.0,34.53333,-101.18333,Exact
+Skiff,23622,Valid,Stony,3540.0,Found,1966.0,49.25,-111.86667,Exact
+Slaton,23625,Valid,Stony,1070.0,Found,1941.0,33.43333,-101.75,Exact
+Sligo,23644,Valid,Stony,78.0,Found,1976.0,33.11861,-102.74056,Exact
+Slovak,23647,Valid,Stony,8220.0,Found,1962.0,34.65,-91.58333,Exact
+Smith Center,23649,Valid,Stony,1585.0,Found,1937.0,39.83333,-99.01667,Exact
+Smithland,23650,Valid,Iron,5000.0,Found,1839.0,37.13333,-88.4,Exact
+Smithonia,23651,Valid,Iron,69900.0,Found,1940.0,34.0,-83.16667,Exact
+Smith's Mountain,23652,Valid,Iron,5000.0,Found,1863.0,36.41667,-80.0,Exact
+Smithville,23654,Valid,Iron,70500.0,Found,1840.0,35.98333,-85.85,Exact
+Smokey Spring,57453,Valid,Stony,254.0,Found,2011.0,40.95465,-118.49693,Exact
+Smyer,23655,Valid,Stony,3273.0,Found,1968.0,33.58333,-102.16667,Exact
+Snyder,23657,Valid,Stony,16900.0,Found,1983.0,32.71667,-100.91667,Exact
+Snyder Hill,23658,Valid,Stony,1160.0,Found,1994.0,32.15833,-111.11333,Exact
+Social Circle,23659,Valid,Iron,99300.0,Found,1927.0,33.7,-83.7,Exact
+Somervell County,23665,Valid,Stony_iron,11800.0,Found,1919.0,32.18333,-97.8,Exact
+Somesbar,23666,Valid,Stony,60.0,Found,1977.0,41.38333,-123.5,Exact
+Soper,23669,Valid,Iron,3700.0,Found,1938.0,34.03333,-95.58333,Exact
+South Bend,23675,Valid,Stony_iron,2500.0,Found,1893.0,41.65,-86.21667,Exact
+South Byron,23676,Valid,Iron,6000.0,Found,1915.0,43.03333,-78.03333,Exact
+South Plains,23680,Valid,Stony,4763.0,Found,1971.0,34.26667,-101.25,Exact
+Southampton,23682,Valid,Stony_iron,3580.0,Found,2001.0,44.50642,-81.37217,Exact
+Spade,23686,Valid,Stony,8860.0,Found,2000.0,34.00111,-102.12833,Exact
+Spearman,23687,Valid,Iron,10400.0,Found,1934.0,36.25,-101.21667,Exact
+Springer,23688,Valid,Stony,8143.0,Found,1965.0,36.34611,-97.185,Exact
+Springfield,23689,Valid,Stony,3200.0,Found,1937.0,37.38333,-102.63333,Exact
+Springfield (b),23690,Valid,Stony,229.3,Found,1937.0,37.48333,-102.67667,Exact
+Springlake,23691,Valid,Stony,17300.0,Found,1980.0,34.34444,-102.22361,Exact
+Spruce 001,56165,Valid,Stony,983.0,Found,2011.0,40.801,-114.701,Exact
+Spruce 002,56166,Valid,Stony,18.0,Found,2011.0,40.792,-114.708,Exact
+St. Ann,23079,Valid,Stony,373.5,Found,1938.0,40.45,-100.75,Exact
+St. Francois County,23085,Valid,Iron,3600.0,Found,1863.0,37.75,-90.5,Exact
+St. Genevieve County,23086,Valid,Iron,244500.0,Found,1888.0,37.96667,-90.31667,Exact
+St. Lawrence,23088,Valid,Stony,2600.0,Found,1965.0,31.73333,-101.505,Exact
+St. Peter,23094,Valid,Stony,6800.0,Found,1957.0,39.4,-100.03333,Exact
+St. Vrain,23095,Valid,Stony,45.5,Found,1971.0,34.31833,-103.47167,Exact
+Starvation Flat,44800,Valid,Stony,1250.0,Found,2002.0,36.7845,-114.94967,Exact
+Statesboro,23715,Valid,Stony,2158.26,Found,2000.0,32.4375,-81.91667,Exact
+Staunton,23716,Valid,Iron,43500.0,Found,1869.0,38.21667,-79.05,Exact
+Sterley,56575,Valid,Stony_iron,1724.8,Found,1950.0,34.21,-101.39,Exact
+Sterling,23723,Valid,Stony_iron,679.5,Found,1900.0,40.6,-103.18333,Exact
+Stewart Valley 001,55530,Valid,Stony,75.59999999999998,Found,2001.0,36.2058,-116.17042,Exact
+Stewart Valley 002,55531,Valid,Stony,28.9,Found,2001.0,36.20758,-116.16918,Exact
+Stewart Valley 003,55588,Valid,Stony,6.8,Found,2001.0,36.21153,-116.16785,Exact
+Stewart Valley 004,55532,Valid,Stony,58.9,Found,2001.0,36.25547,-116.18552,Exact
+Stewart Valley 005,55533,Valid,Stony,62.0,Found,2001.0,36.22907,-116.17935,Exact
+Stewart Valley 006,55534,Valid,Stony,20.1,Found,2001.0,36.23728,-116.1722,Exact
+Stewart Valley 007,55535,Valid,Stony,8.7,Found,2001.0,36.23722,-116.17242,Exact
+Stewart Valley 008,55536,Valid,Stony,4.2,Found,2001.0,36.23743,-116.17223,Exact
+Stewart Valley 009,55537,Valid,Stony,375.0,Found,2003.0,36.17557,-116.159,Exact
+Stewart Valley 010,55538,Valid,Stony,41.7,Found,2003.0,36.18472,-116.14342,Exact
+Stewart Valley 011,55539,Valid,Stony,49.6,Found,2003.0,36.21017,-116.16825,Exact
+Stewart Valley 012,55528,Valid,Stony,130.0,Found,2012.0,36.235,-116.18358,Exact
+Stoneham,31330,Valid,Stony,5000.0,Found,1960.0,40.63783,-103.69717,Exact
+Stonington,23727,Valid,Stony,2700.0,Found,1942.0,37.28333,-102.2,Exact
+Stratton,23730,Valid,Stony,121.0,Found,1964.0,39.22167,-102.59,Exact
+Study Butte,23734,Valid,Stony,417.0,Found,1983.0,29.30167,-103.5,Exact
+Stump Spring 083,52752,Valid,Stony,13700.0,Found,2010.0,35.98728,-115.85828,Exact
+Sublette,23735,Valid,Stony,1300.0,Found,1952.0,37.5,-100.83333,Exact
+Sulphur Springs Draw,23740,Valid,Stony,1892.0,Found,1990.0,32.98333,-102.37833,Exact
+Summerfield,23743,Valid,Stony,6200.0,Found,1979.0,34.76667,-102.41667,Exact
+Summit,23744,Valid,Iron,1000.0,Found,1890.0,34.2,-86.48333,Exact
+Sunray,23746,Valid,Stony,4300.0,Found,1985.0,36.0,-101.83333,Exact
+Sunstone Knoll,23747,Valid,Stony,15.6,Found,1985.0,39.16278,-112.70806,Exact
+Superior Valley 001,23748,Valid,Stony,3.4,Found,2000.0,35.25448,-117.10972,Exact
+Superior Valley 002,23749,Valid,Stony,145.0,Found,2000.0,35.22358,-117.1136,Exact
+Superior Valley 003,23750,Valid,Stony,65.6,Found,2001.0,35.24742,-117.0999,Exact
+Superior Valley 004,23751,Valid,Stony,15.3,Found,2001.0,35.23533,-117.1005,Exact
+Superior Valley 005,23752,Valid,Stony,32.92,Found,2001.0,35.238,-117.0365,Exact
+Superior Valley 006,23753,Valid,Stony,78.5,Found,2001.0,35.23883,-117.02667,Exact
+Superior Valley 007,23754,Valid,Stony,67.21,Found,2001.0,35.23833,-117.03283,Exact
+Superior Valley 008,23755,Valid,Stony,77.44,Found,2001.0,35.236,-117.044,Exact
+Superior Valley 009,23756,Valid,Stony,116.42,Found,2001.0,35.23583,-117.044,Exact
+Superior Valley 010,23757,Valid,Stony,26.26,Found,2001.0,35.23633,-117.04317,Exact
+Superior Valley 011,23758,Valid,Stony,2.52,Found,2001.0,35.23617,-117.043,Exact
+Superior Valley 013,32767,Valid,Stony,2.74,Found,2002.0,35.23333,-117.03945,Exact
+Superior Valley 014,34064,Valid,Stony,1.77,Found,2002.0,35.236,-117.04212,Exact
+Superior Valley 018,32768,Valid,Stony,2.74,Found,2002.0,35.23667,-117.03945,Exact
+Superior Valley 020,31331,Valid,Stony,307.75,Found,2003.0,35.23858,-117.02628,Exact
+Superior Valley 022,31332,Valid,Stony,38.9,Found,2004.0,35.23705,-117.01618,Exact
+Superior Valley 026,44801,Valid,Stony,15.8,Found,2006.0,35.23625,-117.04638,Exact
+Superstition Mountain,23759,Valid,Stony,333.0,Found,2000.0,32.87083,-115.7825,Exact
+Surprise Springs,23761,Valid,Iron,1500.0,Found,1899.0,34.16667,-115.91667,Exact
+Sutton,23763,Valid,Stony,7600.0,Found,1964.0,40.6,-97.86667,Exact
+Suwanee Spring,23768,Valid,Stony,1200.0,Found,1979.0,34.95,-107.16667,Exact
+Sweetwater,23770,Valid,Stony,1760.0,Found,1961.0,32.55,-100.41667,Exact
+Tacoma,23777,Valid,Iron,16.7,Found,1925.0,47.25,-122.41667,Exact
+Tafoya (a),23780,Valid,Stony,270.0,Found,1951.0,36.45,-104.1,Exact
+Tafoya (b),23781,Valid,Stony,490.0,Found,1951.0,36.45,-104.1,Exact
+Taiban,23785,Valid,Stony,25000.0,Found,1934.0,34.45,-104.01667,Exact
+Taiban (b),23786,Valid,Stony,641.0,Found,1984.0,34.45,-104.01667,Exact
+Talpa,23793,Valid,Stony,13000.0,Found,1963.0,31.86667,-99.58333,Exact
+Tamarack,51737,Valid,Iron,41.0,Found,2004.0,44.93389,-116.43167,Exact
+Tarahumara,23876,Valid,Iron,2500.0,Found,1994.0,28.5,-106.25,Exact
+Tarlton,23880,Valid,Stony,226.5,Found,1967.0,39.32,-82.37,Exact
+Tatum,23886,Valid,Stony,1787.0,Found,1938.0,33.23333,-103.44167,Exact
+Tazewell,23891,Valid,Iron,27000.0,Found,1853.0,36.43333,-83.75,Exact
+Techado,23892,Valid,Iron,810.0,Found,1983.0,34.53333,-108.35,Exact
+Tell,23893,Valid,Stony,16600.0,Found,1930.0,34.38333,-100.4,Exact
+Temple,23894,Valid,Stony,5000.0,Found,1959.0,31.11667,-97.3,Exact
+Temple Bar,23895,Valid,Stony,106.0,Found,1998.0,35.91667,-114.43333,Exact
+Texline,23906,Valid,Stony,26200.0,Found,1937.0,36.4,-103.01667,Exact
+Thomson,23973,Valid,Stony,218.0,Found,1888.0,33.46667,-82.48333,Exact
+Thoreau,23974,Valid,Iron,500.0,Found,1954.0,35.28333,-108.26667,Exact
+Thumb Butte,53890,Valid,Stony,105.0,Found,2008.0,35.16993,-114.45585,Exact
+Thurlow,23979,Valid,Iron,5500.0,Found,1888.0,44.75,-77.58333,Exact
+Thurman,23980,Valid,Stony,1959.0,Found,1965.0,39.52167,-103.16667,Exact
+Tierra Blanca,23988,Valid,Stony,860.0,Found,1965.0,34.93333,-102.01667,Exact
+Timber Creek,24000,Valid,Stony,7.0,Found,1982.0,34.98333,-101.73333,Exact
+Timber Lake,57160,Valid,Stony,8660.0,Found,2011.0,45.425,-101.097,Exact
+Tinnie,24006,Valid,Iron,15300.0,Found,1978.0,33.38333,-105.25,Exact
+Tishomingo,24010,Valid,Iron,260000.0,Found,1965.0,34.25,-96.68333,Exact
+Tobe,24014,Valid,Stony,5386.0,Found,1963.0,37.2,-103.58333,Exact
+Tokio (a),24016,Valid,Stony,6600.0,Found,1974.0,33.21667,-102.63167,Exact
+Tokio (b),24017,Valid,Stony,823.0,Found,1974.0,33.205,-102.65833,Exact
+Tombigbee River,24021,Valid,Iron,43000.0,Found,1859.0,32.23333,-88.2,Exact
+Tomhannock Creek,24022,Valid,Stony,1500.0,Found,1863.0,42.88333,-73.6,Exact
+Tonganoxie,24025,Valid,Iron,11800.0,Found,1886.0,39.08333,-95.11667,Exact
+Torreon de Mata,24031,Valid,Stony,610.0,Found,1983.0,26.83333,-105.41667,Exact
+Toulon,24035,Valid,Stony,1214.5,Found,1962.0,41.11667,-89.80833,Exact
+Travis County (a),24040,Valid,Stony,175400.0,Found,1889.0,30.3,-97.7,Exact
+Travis County (b),24041,Valid,Stony,5900.0,Found,1889.0,30.55556,-97.95278,Exact
+Trenton,24045,Valid,Iron,505000.0,Found,1858.0,43.36667,-88.13333,Exact
+Tres Castillos,24047,Valid,Iron,150000.0,Found,1992.0,29.47,-105.8,Exact
+Trilby Wash,35339,Valid,Stony,846.0,Found,2005.0,33.91667,-112.55,Exact
+Truckton,24055,Valid,Stony,43.4,Found,1978.0,38.58139,-104.07667,Exact
+Tryon,24056,Valid,Stony,15900.0,Found,1934.0,41.55,-100.96667,Exact
+Tucson,24061,Valid,Iron,975000.0,Found,1850.0,31.85,-110.96667,Exact
+Tule Draw,24064,Valid,Stony,2300.0,Found,1981.0,34.66667,-102.0,Exact
+Tule Valley,24065,Valid,Stony,17.69,Found,2001.0,38.99861,-113.38167,Exact
+Tule Valley Hardpan 001,54682,Valid,Stony,5.1,Found,2009.0,38.94306,-113.37833,Exact
+Tule Valley Hardpan 002,54683,Valid,Stony,1.32,Found,2009.0,38.945,-113.38222,Exact
+Tulia (a),24066,Valid,Stony,86000.0,Found,1917.0,34.61667,-101.95,Exact
+Tulia (b),24067,Valid,Stony,4800.0,Found,1917.0,34.53333,-101.7,Exact
+Tulia (d),24069,Valid,Stony,17700.0,Found,1981.0,34.60667,-101.76667,Exact
+Tulia (iron),24070,Valid,Iron,190.0,Found,1969.0,34.555,-101.63,Exact
+Tungsten Mountain 001,24072,Valid,Stony,31.73,Found,2000.0,39.63611,-117.65472,Exact
+Tungsten Mountain 002,24073,Valid,Stony,11.3,Found,2001.0,39.67357,-117.60432,Exact
+Tungsten Mountain 003,24074,Valid,Stony,7.8,Found,2001.0,39.68449,-117.62072,Exact
+Tungsten Mountain 004,24075,Valid,Stony,8.1,Found,2001.0,39.68444,-117.62022,Exact
+Tungsten Mountain 005,24076,Valid,Stony,4.7,Found,2001.0,39.6844,-117.62007,Exact
+Tungsten Mountain 006,24077,Valid,Stony,8.8,Found,2001.0,39.68436,-117.62018,Exact
+Tungsten Mountain 007,24078,Valid,Stony,44.0,Found,2001.0,39.68518,-117.62105,Exact
+Tungsten Mountain 008,24079,Valid,Stony,7.0,Found,2001.0,39.68072,-117.62778,Exact
+Tungsten Mountain 009,24080,Valid,Stony,31.0,Found,2001.0,39.68035,-117.62918,Exact
+Tungsten Mountain 010,24081,Valid,Stony,13.4,Found,2001.0,39.68432,-117.62052,Exact
+Tungsten Mountain 011,50908,Valid,Stony,186.52,Found,2003.0,39.683333,-117.616667,Exact
+Tungsten Mountain 113,35730,Valid,Stony,4.48,Found,2004.0,39.67917,-117.62675,Exact
+Tungsten Mountain 204,51585,Valid,Stony,41.6,Found,2005.0,39.67888,-117.62945,Exact
+Tungsten Mountain 533,51851,Valid,Stony,25.3,Found,2007.0,39.68945,-117.62358,Exact
+Tungsten Mountain 535,51852,Valid,Stony,26.1,Found,2007.0,39.68908,-117.62257,Exact
+Tungsten Mountain 541,52014,Valid,Stony,5.7,Found,2007.0,39.6884,-117.62422,Exact
+Tungsten Mountain 542,51853,Valid,Stony,4.6,Found,2007.0,39.6872,-117.62618,Exact
+Tungsten Mountain 543,51854,Valid,Stony,18.1,Found,2007.0,39.68938,-117.62032,Exact
+Tungsten Mountain 563,51855,Valid,Stony,9.3,Found,2007.0,39.6772,-117.62858,Exact
+Tungsten Mountain 572,51856,Valid,Stony,10.7,Found,2007.0,39.68105,-117.61325,Exact
+Tungsten Mountain 573,53844,Valid,Stony,68.0,Found,2010.0,39.68973,-117.61822,Exact
+Tupelo,56551,Valid,Stony,280.0,Found,2012.0,34.24216,-88.77594,Exact
+Turtle River,24085,Valid,Iron,22390.0,Found,1953.0,47.6,-94.76667,Exact
+Twentynine Palms,24089,Valid,Stony,19700.0,Found,1944.0,34.075,-116.01667,Exact
+Twin City,24090,Valid,Iron,5130.0,Found,1955.0,32.58333,-82.01667,Exact
+Two Buttes (a),24091,Valid,Stony,19700.0,Found,1962.0,37.63333,-102.41667,Exact
+Two Buttes (b),24092,Valid,Stony,3000.0,Found,1970.0,37.63333,-102.41667,Exact
+Twodot,24093,Valid,Stony,21400.0,Found,1999.0,46.7,-110.13333,Exact
+Udall Park,24100,Valid,Stony,150.0,Found,1985.0,32.25,-110.83333,Exact
+Ulysses,24110,Valid,Stony,3900.0,Found,1927.0,37.6,-101.25,Exact
+Umbarger,24113,Valid,Stony,13000.0,Found,1954.0,34.95,-102.1175,Exact
+Union County,24122,Valid,Iron,6800.0,Found,1853.0,34.75,-84.0,Exact
+Uruachic,24130,Valid,Iron,13000.0,Found,1989.0,27.85,-108.23333,Exact
+Ute Creek,24134,Valid,Stony,1000.0,Found,1936.0,36.2,-103.9,Exact
+Uvalde,24137,Valid,Stony,8200.0,Found,1915.0,29.2,-99.76667,Exact
+Uwharrie,24139,Valid,Iron,72700.0,Found,1930.0,35.51667,-79.96667,Exact
+Valentine,24148,Valid,Stony,2300.0,Found,1942.0,42.93333,-100.75,Exact
+Valley Wells,24152,Valid,Stony,129.9,Found,1929.0,35.46667,-115.66667,Exact
+Ventura,24159,Valid,Iron,7700.0,Found,1953.0,34.25,-119.3,Exact
+Venus,24160,Valid,Stony,1013.0,Found,1960.0,32.4,-97.08333,Exact
+Vermillion,24167,Valid,Stony_iron,34360.0,Found,1991.0,39.73633,-96.36133,Exact
+Vigo Park,24175,Valid,Stony,35.0,Found,1934.0,34.68333,-101.38333,Exact
+Villa Coronado,24177,Valid,Stony,2900.0,Found,1983.0,26.75,-105.25,Exact
+Villa Natamoros,24178,Valid,Stony,156.0,Found,1987.0,26.75,-105.4,Exact
+Waconda,24195,Valid,Stony,50000.0,Found,1873.0,39.33333,-98.16667,Exact
+Wagon Mound,24196,Valid,Stony,87500.0,Found,1932.0,35.84083,-104.58583,Exact
+Wah Wah Valley,24197,Valid,Stony,9.0,Found,1986.0,38.67667,-113.30167,Exact
+Waka,24200,Valid,Stony,11875.0,Found,1963.0,36.15,-101.05,Exact
+Walcott,24201,Valid,Stony,2000.0,Found,1983.0,32.4,-101.95,Exact
+Waldo,24202,Valid,Stony,1300.0,Found,1937.0,39.1,-98.83333,Exact
+Waldron Ridge,24203,Valid,Iron,13600.0,Found,1887.0,36.63333,-83.83333,Exact
+Walker County,24204,Valid,Iron,74800.0,Found,1832.0,34.0,-87.16667,Exact
+Wallapai,24206,Valid,Iron,430000.0,Found,1927.0,35.8,-113.7,Exact
+Walltown,24208,Valid,Stony,1600.0,Found,1956.0,37.325,-84.71667,Exact
+Walnut Hill,24209,Valid,Stony,220.0,Found,1978.0,43.827,-70.24717,Exact
+Waltman,24211,Valid,Stony,23410.0,Found,1948.0,43.0,-107.16667,Exact
+Wardswell Draw,24214,Valid,Stony,3000.0,Found,1976.0,32.90333,-102.925,Exact
+Warm Springs Wilderness,32769,Valid,Stony,156.9,Found,2003.0,34.78698,-114.25052,Exact
+Washington County,24217,Valid,Iron,5750.0,Found,1927.0,39.7,-103.16667,Exact
+Waterville,24219,Valid,Iron,37125.0,Found,1917.0,47.767778,-119.876389,Exact
+Wathena,24220,Valid,Iron,566.0,Found,1939.0,39.81667,-94.91667,Exact
+Watonga,55758,Valid,Stony,5025.0,Found,1960.0,35.833333,-98.4,Exact
+Waverly,24224,Valid,Iron,4400.0,Found,1983.0,32.68333,-85.56667,Exact
+Wayside,24225,Valid,Stony,23600.0,Found,1973.0,34.80167,-101.68333,Exact
+Weatherford,24226,Valid,Stony,2000.0,Found,1926.0,35.5,-98.7,Exact
+Weaver Mountains,24227,Valid,Iron,38800.0,Found,1898.0,34.25,-112.75,Exact
+Weldona,24234,Valid,Stony,27700.0,Found,1934.0,40.35,-103.95,Exact
+Welland,24235,Valid,Iron,8200.0,Found,1888.0,43.01667,-79.21667,Exact
+Wellington,24236,Valid,Stony,13400.0,Found,1955.0,34.95,-100.25,Exact
+Wellman (a),24237,Valid,Stony,55000.0,Found,1940.0,33.03333,-102.33333,Exact
+Wellman (b),24238,Valid,Stony,343.0,Found,1964.0,33.025,-102.41667,Exact
+Wellman (c),24239,Valid,Stony,45000.0,Found,1964.0,33.03333,-102.33333,Exact
+Wellman (d),24240,Valid,Stony,1615.0,Found,1966.0,33.01667,-102.36667,Exact
+Wellman (e),24241,Valid,Stony,959.0,Found,1973.0,33.67833,-102.315,Exact
+Wells,24242,Valid,stony,4135.0,Found,1985.0,33.05,-101.93333,Exact
+West Point,24246,Valid,Stony,3100.0,Found,1972.0,33.075,-102.045,Exact
+Western Arkansas,24248,Valid,Iron,1750.0,Found,1890.0,35.0,-94.0,Exact
+White Elephant,24252,Valid,Stony,10.4,Found,1997.0,35.89,-114.20333,Exact
+White Hills,24253,Valid,Stony_iron,11.7,Found,1999.0,35.85667,-114.22333,Exact
+Whitman,24254,Valid,Stony,221.0,Found,1937.0,42.03333,-101.5,Exact
+Wichita,24256,Valid,Stony,2367.0,Found,1971.0,37.59183,-97.21497,Exact
+Wichita County,24257,Valid,Iron,145000.0,Found,1836.0,34.06667,-98.91667,Exact
+Wickenburg (stone),24258,Valid,Stony,9200.0,Found,1940.0,33.96667,-112.73333,Exact
+Wikieup,24260,Valid,Stony,372.0,Found,1965.0,34.7,-113.6,Exact
+Wilburton,24262,Valid,Stony,207.8,Found,1940.0,37.08333,-101.76667,Exact
+Wild Horse,24264,Valid,Stony,1360.0,Found,1979.0,39.41667,-103.2,Exact
+Wildcat Peak,24266,Valid,Stony,202.0,Found,1998.0,32.56533,-111.7255,Exact
+Wilder,24267,Valid,Stony,26600.0,Found,1982.0,43.72444,-116.91167,Exact
+Wiley,24268,Valid,Iron,3500.0,Found,1938.0,38.15,-102.66667,Exact
+Willamette,24269,Valid,Iron,15500000.0,Found,1902.0,45.36667,-122.58333,Exact
+Willard (a),24270,Valid,Stony,800.0,Found,1978.0,34.43333,-105.78333,Exact
+Willard (b),24271,Valid,Stony,12700.0,Found,1934.0,34.5,-105.83333,Exact
+Willcox Playa,24273,Valid,Stony,61.5,Found,1979.0,32.125,-109.83333,Exact
+Willcox Playa 002,24274,Valid,Stony,12.0,Found,2001.0,32.18167,-109.7895,Exact
+Willcox Playa 004,51581,Valid,Stony,19.9,Found,2004.0,32.14202,-109.82423,Exact
+Willcox Playa 005,51582,Valid,Stony,278.4,Found,2004.0,32.0939,-109.88412,Exact
+Willcox Playa 006,51583,Valid,Stony,3.1,Found,2004.0,32.11288,-109.89265,Exact
+Willcox Playa 007,51584,Valid,Stony,62.4,Found,2004.0,32.18843,-109.84563,Exact
+Willcox Playa 009,52851,Valid,Stony_iron,160.0,Found,2009.0,32.07667,-109.8455,Exact
+Williston,24275,Valid,Iron,7645.0,Found,1962.0,47.98333,-103.65,Exact
+Willow Creek,24276,Valid,Iron,51000.0,Found,1914.0,43.46667,-106.76667,Exact
+Willow Wash,47353,Valid,Stony,552.0,Found,2006.0,35.37358,-115.34388,Exact
+Willowbar,24278,Valid,Stony,2070.0,Found,1971.0,36.73333,-102.2,Exact
+Willowdale,24279,Valid,Stony,3000.0,Found,1951.0,37.53333,-98.36667,Exact
+Wilmot,24280,Valid,Stony,2000.0,Found,1944.0,37.38333,-96.86667,Exact
+Wimberley,24282,Valid,Iron,7800.0,Found,1976.0,29.96667,-98.11667,Exact
+Winona,24285,Valid,Stony,24000.0,Found,1928.0,35.2,-111.4,Exact
+Winterhaven,47732,Valid,Stony,2100.0,Found,2002.0,32.95,-114.666667,Exact
+Withrow,24320,Valid,Iron,8732.0,Found,1950.0,47.70667,-119.83,Exact
+Wolsey,24328,Valid,Iron,74830.0,Found,1981.0,44.4,-98.53333,Exact
+Wood Lake,50910,Valid,Stony,350.0,Found,2003.0,45.0,-79.06667,Exact
+Woodbine,24330,Valid,Iron,48200.0,Found,1953.0,42.34667,-90.1675,Exact
+Wood's Mountain,24332,Valid,Iron,3867.0,Found,1918.0,35.68333,-82.18333,Exact
+Woodward County,24333,Valid,Stony,45500.0,Found,1923.0,36.5,-99.5,Exact
+Wooster,24336,Valid,Iron,22700.0,Found,1858.0,40.76667,-81.95,Exact
+Wray (a),24338,Valid,Stony,281.7,Found,1936.0,40.05,-102.2,Exact
+Wray (b),24339,Valid,Stony,3884.0,Found,1938.0,40.33083,-102.19583,Exact
+Yelland 001,54765,Valid,Stony,4.5,Found,2011.0,39.55801,-114.42715,Exact
+Yelland Dry Lake,52641,Valid,Stony,76000.0,Found,2007.0,39.35067,-114.40783,Exact
+Yocemento,30364,Valid,Stony,5920.0,Found,1966.0,38.9,-99.43333,Exact
+York (iron),30367,Valid,Iron,835.0,Found,1878.0,40.75,-97.5,Exact
+York (stone),30368,Valid,Stony,1440.0,Found,1928.0,40.86667,-97.6,Exact
+Yorktown (Texas),30371,Valid,Stony,3500.0,Found,1957.0,28.95,-97.40278,Exact
+Ysleta,30375,Valid,Iron,140700.0,Found,1914.0,31.65,-106.18333,Exact
+Yucca 015,57175,Valid,Stony,3.0,Found,2011.0,34.8197,-114.2761,Exact
+Yucca 016,57158,Valid,Stony,25.9,Found,2011.0,34.82658,-114.27763,Exact
+Yucca 017,57159,Valid,Stony,200.0,Found,2011.0,34.81923,-114.27735,Exact
+Zaffra,30383,Valid,Iron,3000.0,Found,1919.0,35.0,-94.75,Exact
+Zapaliname,30392,Valid,Iron,85000.0,Found,1998.0,25.00944,-100.75,Exact
+Zenda,30400,Valid,Iron,3700.0,Found,1955.0,42.51333,-88.48944,Exact
+Zulu Queen,30414,Valid,Stony,200.0,Found,1976.0,33.98333,-115.68333,Exact
