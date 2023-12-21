@@ -1,0 +1,596 @@
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <script src="https://d3js.org/d3.v7.min.js" ></script>
+  <script src="https://d3js.org/topojson.v3.min.js" ></script>
+  <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
+  <style>
+    .state {
+      fill: lightgrey;
+    }
+
+    .outline {
+      fill: none;
+      stroke: black;
+      stroke-width: 1px;
+    }
+
+    .graticule {
+      fill: none;
+      stroke: grey;
+      stroke-width: 1px;
+    }
+
+    .tooltip {
+      pointer-events: none;
+    }
+
+    .tooltip2 {
+      position: absolute;
+      text-align: left;
+      padding: 8px;
+      font: 12px sans-serif;
+      background: white;
+      border: 1px;
+      border-radius: 8px;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+  </style>
+</head>
+
+<body>
+  <h1 style="margin: 30px auto 0; text-align: center;">Meteorite Landings in the United States</h1>
+  <h3 style="margin: 10px auto 0; text-align: center;">Observed from 1800 to 2023</h3>
+  <h4 style="margin: 10px auto 0; text-align: center;">
+    <i>Click on a state to learn more about its meteorites!</i>
+  </h4>
+  <div style="display: flex; justify-content: center;">
+    <div style="height: 800; width: 800;">
+      <svg id="map" height="600" width="800" style="margin-top:20px; border: 1px solid grey;"></svg>
+      <svg id="maplegend" height="100" width="800" style="background: #fff; margin-top:5px"></svg>
+    </div>
+    <svg id="graphs" height="600" width="500" style="margin-top:20px;"></svg>
+
+  </div>
+  <script>
+    // map
+    const svg = d3.select("#map");
+    const width = svg.attr("width");
+    const height = svg.attr("height");
+    const margin = { top: 20, right: 20, bottom: 20, left: 20 };
+    const mapWidth = width - margin.left - margin.right;
+    const mapHeight = height - margin.top - margin.bottom;
+    const map = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    const colors = ['#23303b', '#799ab8', '#166ddf'];
+    let tooltip;
+    let stateMeteor;
+    let isZoomed = false;
+
+    const requestData = async function () {
+      const us = await d3.json("Data Cleaning/us-smaller.json");
+      // console.log(us);
+
+      var states = topojson.feature(us, us.objects.states);
+      var statesMesh = topojson.mesh(us, us.objects.states);
+      var projection = d3.geoAlbersUsa().fitSize([mapWidth, mapHeight], states);
+      var path = d3.geoPath().projection(projection);
+      const stateFeature = states.features;
+      // console.log(states);
+      // console.log(statesMesh);
+
+      let graticule = d3.geoGraticule10();
+      // console.log(graticule);
+      map.append("path").attr("class", "graticule").attr("d", path(graticule));
+
+      let statePaths = map.selectAll("path.state").data(stateFeature)
+        .join("path")
+        .attr("class", "state")
+        .attr("d", path)
+        .on('mouseover', mouseEntersState)
+        .on('mouseout', mouseLeavesState)
+        .on('click', function (event, d) {
+          zoomToState(d);
+        });
+
+      map.append("path").datum(statesMesh)
+        .attr("class", "outline")
+        .attr("d", path);
+
+      const meteorData = await d3.csv("Data Cleaning/final_grouped_cleaned_meteorite_data.csv", d3.autoType);
+      // console.log(meteorData);
+
+      var stateDict = {}
+      meteorData.forEach(d => {
+        stateDict[d.state_code] = d;
+      });
+      // console.log(stateDict)
+
+      // scaleLinear was horrible
+      // scaleQuantile could work
+      // const colorScale = d3.scaleQuantile()
+      //   .domain(d3.map(meteorData, d => d.total))
+      //   .range(["#caf0f8", "#90e0ef", "#00b4d8", "#0077b6", "#03045e"]);
+      const exponent = 0.35; // adjust the exponent based on data distribution
+      const colorScale = d3.scalePow()
+        .exponent(exponent)
+        .domain(d3.extent(meteorData, d => d.total))
+        .range(["#fff", "#03045e"]);
+
+
+      map.selectAll(".state")
+        .style("fill", function (d) {
+          if (stateDict[d.id]) {
+            return colorScale(stateDict[d.id].total);
+          } else {
+            return "defaultFillColor";
+          }
+        });
+
+      // count legend
+      const legendSvg = d3.select("#maplegend");
+      const legendWidth = legendSvg.attr("width");
+      const legendHeight = legendSvg.attr("height");
+      const gradient = legendSvg.append("defs")
+        .append("linearGradient")
+        .attr("id", "color-gradient")
+        .attr("x1", "0%")
+        .attr("y1", "100%")
+        .attr("x2", "100%")
+        .attr("y2", "100%");
+      gradient.append("stop")
+        .attr("offset", "0%")
+        .attr("stop-color", "#fff")
+        .attr("stop-opacity", 1);
+      gradient.append("stop")
+        .attr("offset", "100%")
+        .attr("stop-color", "#03045e")
+        .attr("stop-opacity", 1);
+      legendSvg.append("rect")
+        .attr("x", legendWidth / 8)
+        .attr("y", legendHeight - 50)
+        .attr("width", 3 * legendWidth / 4)
+        .attr("height", 25)
+        .style("fill", "url(#color-gradient)")
+        .style("stroke", "grey")
+        .style("stroke-width", 1);
+      legendSvg.append("text")
+        .attr("x", legendWidth / 8)
+        .attr("y", legendHeight - 60)
+        .text("0")
+        .attr("fill", "black")
+        .attr('text-anchor', 'middle');
+      legendSvg.append("text")
+        .attr("x", 7 * legendWidth / 8)
+        .attr("y", legendHeight - 60)
+        .text("296")
+        .attr("fill", "black")
+        .attr('text-anchor', 'middle');
+      legendSvg.append("text")
+        .attr("x", legendWidth / 2)
+        .attr("y", legendHeight - 70)
+        .text("Meteorite Count")
+        .attr("fill", "black")
+        .style("font-weight", "bold")
+        .style("text-anchor", "middle")
+        .attr('text-anchor', 'middle');
+
+      // tooltip
+      let tooltipWidth = 120;
+      let tooltipHeight = 40;
+
+      let momesh = map.append("path")
+        .attr("class", "mouseover outline")
+        .style("stroke", "black")
+        .style("stroke-width", 3)
+        .attr("d", "");
+
+      tooltip = map.append("g")
+        .attr("class", "tooltip")
+        .attr("visibility", "hidden");
+      tooltip.append("rect")
+        .attr("fill", "black")
+        .attr("opacity", 0.9)
+        .attr("x", -tooltipWidth / 2.0)
+        .attr("y", 0)
+        .attr("width", tooltipWidth)
+        .attr("height", tooltipHeight)
+      let txt = tooltip.append("text")
+        .attr("fill", "white")
+        .attr("text-anchor", "middle")
+        .attr("alignment-baseline", "hanging")
+        .attr("x", 0)
+        .attr("y", 2);
+      let txt2 = tooltip.append("text")
+        .attr("fill", "white")
+        .attr("text-anchor", "middle")
+        .attr("alignment-baseline", "hanging")
+        .attr("x", 0)
+        .attr("y", 22);
+
+
+      function mouseEntersState() {
+
+        if (!isZoomed) {
+          tooltip.style("visibility", "visible")
+          let state = d3.select(this);
+
+          state.style("cursor", "pointer");
+
+          let stateID = state.datum().id;
+          let stateDat = stateDict[stateID]
+
+          txt.text(stateDat.state_name);
+          txt2.text(stateDat.total);
+
+          let bounds = path.bounds(state.datum());
+
+
+          let xPos = (bounds[0][0] + bounds[1][0]) / 2.0;
+          let yPos = bounds[1][1] - 15;
+
+          tooltip.attr("transform", `translate(${xPos},${yPos})`);
+
+          var mo = topojson.mesh(us, us.objects.states, function (a, b) { return a.id === stateID || b.id === stateID; });
+          momesh.datum(mo).attr("d", path);
+        }
+
+      }
+
+      function mouseLeavesState() {
+        tooltip.style("visibility", "hidden");
+
+        let state = d3.select(this);
+        state.style("cursor", "default");
+
+        momesh.attr("d", "");
+      }
+
+      const stateMeteor = await d3.csv("Data Cleaning/cleaned_meteorite_data.csv", d3.autoType);
+      console.log(stateMeteor)
+
+      var tooltip2 = d3.select("body").append("div")
+        .attr("class", "tooltip2")
+        .style("opacity", 0);
+
+      function zoomToState(state) {
+        const bounds = path.bounds(state),
+          dx = bounds[1][0] - bounds[0][0],
+          dy = bounds[1][1] - bounds[0][1],
+          x = (bounds[0][0] + bounds[1][0]) / 2,
+          y = (bounds[0][1] + bounds[1][1]) / 2,
+          scale = Math.max(1, Math.min(8, 0.7 / Math.max(dx / mapWidth, dy / mapHeight))),
+          translate = [mapWidth / 2 - scale * x, mapHeight / 2 - scale * y];
+
+        map.transition()
+          .duration(750)
+          .style('stroke-width', 1.5 / scale + "px")
+          .attr("transform", "translate(" + translate + ")scale(" + scale + ")");
+        map.selectAll(".state")
+          .style("opacity", 0.3)
+
+        isZoomed = true;
+        zoomOutIcon.style("display", null);
+
+        const filteredMeteorites = stateMeteor.filter(meteorite => {
+          const point = turf.point([meteorite.rec_long, meteorite.rec_lat]);
+          return turf.booleanPointInPolygon(point, state);
+        });
+        // console.log(filteredMeteorites)
+
+        // there could be a better scale
+        // scaleLinear is terrible
+        const massScale = d3.scaleLog()
+          .domain(d3.extent(filteredMeteorites, d => d.mass))
+          .range([0, 5]);
+
+
+        const meteorColor = d3.scaleOrdinal()
+          .domain(["Stony", "Stony-iron", "Iron"])
+          .range(colors);
+
+
+        map.selectAll("circle.meteorite")
+          .data(filteredMeteorites)
+          .join(
+            enter => enter.append("circle")
+              .attr("class", "meteorite")
+              .attr("cx", d => projection([d.rec_long, d.rec_lat])[0])
+              .attr("cy", d => projection([d.rec_long, d.rec_lat])[1])
+              .attr("r", d => massScale(d.mass))
+              .attr("stroke", "black")
+              .attr("stroke-width", 0.5)
+              .attr("opacity", 0.8)
+              .attr("fill", d => meteorColor(d.rec_class))
+              .on("mouseover", function (event, d) {
+                d3.select(this)
+                  .attr("stroke", "yellow")
+                  .attr("stroke-width", 1.5);
+                const tooltipWidth2 = 170;
+                const tooltipHeight2 = 60;
+                console.log("entered")
+                tooltip2.transition()
+                  .duration(100)
+                  .style("opacity", 0.9);
+                tooltip2.html("<span style='color: steelblue; font-weight: bold; font-size: 15'>" + d.name + "</span><br/><span style='font-size: 12'>" + "Year: " + "</span><span style='font-weight: bold; font-size: 12'>" + d.year + "</span><br/><span style='font-size: 12'>" + "Mass: " + "</span><span style='font-weight: bold; font-size: 12'>" + (d.mass / 1000).toFixed(2) + " kg")
+                  .style("left", (event.pageX - tooltipWidth2 / 3) + "px")
+                  .style("top", (event.pageY - tooltipHeight2 - parseFloat(this.getAttribute('r')) - 10) + "px");
+
+              })
+              .on("mouseout", function (d) {
+                d3.select(this)
+                  .attr("stroke", "black")
+                  .attr("stroke-width", 0.5);
+                tooltip2.transition()
+                  .duration(100)
+                  .style("opacity", 0);
+              }),
+            update => update.call(update =>
+              update.transition()
+                .duration(600)
+                .attr("cx", d => projection([d.rec_long, d.rec_lat])[0])
+                .attr("cy", d => projection([d.rec_long, d.rec_lat])[1])),
+            exit => exit.remove()
+          );
+
+
+        // meteor legend
+        const meteorLegend = d3.select("#map").append("svg")
+          .attr("id", "meteor-legend")
+          .attr("width", 200)
+          .attr("height", 200)
+          .style("position", "absolute")
+          .style("left", "50px")
+          .style("top", "10px");
+        meteorLegend.append("rect")
+          .attr("x", 30)
+          .attr("y", 30)
+          .attr("width", 150)
+          .attr("height", 130)
+          .attr("fill", "white")
+          .attr("stroke", "black")
+          .attr("stroke-width", 2);
+        meteorLegend.append("text")
+          .attr("x", 45)
+          .attr("y", 55)
+          .text("Meteorite Type")
+          .style("fill", "black")
+          .style("font-size", 15)
+          .style("font-weight", "bold");
+        const legendColors = colors;
+        const legendText = ["Stony", "Stony-Iron", "Iron"];
+        const legendGroup = meteorLegend.selectAll("g.legend-item")
+          .data(legendColors)
+          .enter().append("g")
+          .attr("class", "legend-item")
+          .attr("transform", (d, i) => "translate(10," + (i * 30) + ")");
+        legendGroup.append("circle")
+          .attr("cx", 40)
+          .attr("cy", 80)
+          .attr("r", 10)
+          .attr("stroke", "black")
+          .attr("stroke-width", 1.5)
+          .attr("opacity", 1)
+          .attr("fill", d => d);
+        legendGroup.append("text")
+          .attr("x", 60)
+          .attr("y", 80)
+          .text((d, i) => legendText[i])
+          .style("fill", "black")
+          .style("font-size", 15)
+          .attr("dy", "0.3em");
+
+      }
+
+      function resetZoom() {
+        map.transition()
+          .duration(600)
+          .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+          .style("stroke-width", "1.5px");
+        isZoomed = false;
+        zoomOutIcon.style("display", "none");
+
+        map.selectAll("circle.meteorite").remove();
+
+        map.selectAll(".state")
+          .style("opacity", 1);
+
+        d3.selectAll("#meteor-legend").remove();
+      }
+
+      let zoomOutIcon = svg.append("image")
+        .attr("xlink:href", "minimize.png")
+        .attr("width", 60)
+        .attr("height", 60)
+        .attr("x", width - 80)
+        .attr("y", height - 80)
+        .style("cursor", "pointer")
+        .style("display", "none")
+        .on("click", resetZoom);
+
+      function isPointInState(point, stateFeature) {
+        return turf.booleanPointInPolygon(point, stateFeature);
+      }
+
+      // non-interactive code
+      const graphsData = await d3.csv("Data Cleaning/cleaned_meteorite_data.csv", d3.autoType);
+
+      const graphs = d3.select("#graphs");
+
+      const graphsWidth = graphs.attr("width");
+      const graphsHeight = graphs.attr("height");
+      const graphsMargin = { top: 100, right: 50, bottom: 100, left: 50 };
+      const graphsRadius = graphsHeight / 6;
+
+      const workingHeight = graphsHeight - graphsMargin.top - graphsMargin.bottom;
+
+      // summary
+      const summaryBuffer = 20;
+      const bigText = 24;
+      const littleText = 38;
+
+      const total_meteors = graphsData.length;
+      const total_mass = d3.sum(graphsData.map(d => d['mass']));
+      const avg_mass = total_mass / total_meteors;
+
+      graphs.append('text')
+        .text('Total Meteorites')
+        .attr('x', 3 * graphsWidth / 4)
+        .attr('y', graphsMargin.top)
+        .attr('font-size', bigText)
+        .attr('text-anchor', 'middle');
+
+      graphs.append('text')
+        .text(total_meteors.toLocaleString())
+        .attr('x', 3 * graphsWidth / 4)
+        .attr('y', graphsMargin.top + 2 * summaryBuffer)
+        .attr('font-size', littleText)
+        .attr('font-weight', 'bold')
+        .attr('text-anchor', 'middle');
+
+      graphs.append('text')
+        .text('Total Mass')
+        .attr('x', 3 * graphsWidth / 4)
+        .attr('y', graphsMargin.top + workingHeight / 2)
+        .attr('font-size', bigText)
+        .attr('text-anchor', 'middle');
+
+      graphs.append('text')
+        .text(parseInt(total_mass / 1000).toLocaleString() + ' kg')
+        .attr('x', 3 * graphsWidth / 4)
+        .attr('y', graphsMargin.top + workingHeight / 2 + 2 * summaryBuffer)
+        .attr('font-size', littleText)
+        .attr('font-weight', 'bold')
+        .attr('text-anchor', 'middle');
+
+      graphs.append('text')
+        .text('Average Mass')
+        .attr('x', 3 * graphsWidth / 4)
+        .attr('y', graphsMargin.top + workingHeight)
+        .attr('font-size', bigText)
+        .attr('text-anchor', 'middle');
+
+      graphs.append('text')
+        .text((avg_mass / 1000).toFixed(0) + ' kg')
+        .attr('x', 3 * graphsWidth / 4)
+        .attr('y', graphsMargin.top + workingHeight + 2 * summaryBuffer)
+        .attr('font-size', littleText)
+        .attr('font-weight', 'bold')
+        .attr('text-anchor', 'middle');
+
+      //   graphs.append('rect')
+      //     .attr('x', (graphsWidth / 2 + 2*summaryBuffer))
+      //     .attr('y', graphsMargin.top - 2*summaryBuffer)
+      //     .attr('width', graphsWidth/3)
+      //     .attr('height', (workingHeight - graphsMargin.top)/4)
+      //     .attr('stroke', 'grey')
+      //     .attr('fill', 'none');
+
+      //   graphs.append('rect')
+      //     .attr('x', (graphsWidth / 2 + 2*summaryBuffer))
+      //     .attr('y', graphsHeight/2 - 2*summaryBuffer)
+      //     .attr('width', graphsWidth/3)
+      //     .attr('height', (workingHeight - graphsMargin.top)/4)
+      //     .attr('stroke', 'grey')
+      //     .attr('fill', 'none');
+
+      //     graphs.append('rect')
+      //     .attr('x', (graphsWidth / 2 + 2*summaryBuffer))
+      //     .attr('y', graphsHeight - graphsMargin.top - 2*summaryBuffer)
+      //     .attr('width', graphsWidth/3)
+      //     .attr('height', (workingHeight - graphsMargin.top)/4)
+      //     .attr('stroke', 'grey')
+      //     .attr('fill', 'none');
+
+      // labels
+      var labelBuffer = 20;
+
+      graphs.append('text')
+        .text('What Type is the Meteorite?')
+        .attr('x', (graphsWidth - graphsMargin.left) / 3)
+        .attr('y', graphsHeight / 3 - graphsRadius - 2 * labelBuffer)
+        .attr('font-size', '18px')
+        .attr("font-weight", 'bold')
+        .attr('text-anchor', 'middle');
+
+      graphs.append('text')
+        .text('Was the Meteorite Found?')
+        .attr('x', (graphsWidth - graphsMargin.left) / 3)
+        .attr('y', 2 * graphsHeight / 3 - graphsRadius + 2 * labelBuffer)
+        .attr('font-size', '18px')
+        .attr("font-weight", 'bold')
+        .attr('text-anchor', 'middle');
+
+      // class chart
+      const classChart = graphs.append("g").attr("transform", "translate(" + (graphsWidth - graphsMargin.left) / 3 + "," + (graphsHeight / 3 - labelBuffer) + ")");
+
+      const stonyCount = d3.sum(graphsData.map(d => d['rec_class'] === 'Stony' ? 1 : 0));
+      const stonyironCount = d3.sum(graphsData.map(d => d['rec_class'] === 'Stony_iron' ? 1 : 0));
+      const ironCount = d3.sum(graphsData.map(d => d['rec_class'] === 'Iron' ? 1 : 0));
+      const classCounts = [stonyCount, stonyironCount, ironCount];
+      const classPercents = [stonyCount * 100 / d3.sum(classCounts), stonyironCount * 100 / d3.sum(classCounts), ironCount * 100 / d3.sum(classCounts)];
+
+      const classNames = ['Stony', 'Stony-Iron', 'Iron'];
+      const classColors = colors;
+
+      const classPie = d3.pie();
+      const classArcs = classPie(classCounts);
+      const classArc = d3.arc().innerRadius(0).outerRadius(graphsRadius);
+
+      classChart.selectAll('slices')
+        .data(classArcs)
+        .enter()
+        .append('path')
+        .attr('d', classArc)
+        .attr('fill', (d, i) => classColors[i]);
+
+      classChart.selectAll('slices')
+        .data(classArcs)
+        .enter()
+        .append('text')
+        .text(function (d, i) { return classNames[i] + ' ' + classPercents[i].toFixed() + '%' })
+        .attr("transform", function (d) { return "translate(" + classArc.centroid(d) + ")"; })
+        .style('fill', 'white')
+        .style("text-anchor", "middle")
+        .style("font-size", 16);
+
+      // fall chart
+      const fallChart = graphs.append("g").attr("transform", "translate(" + (graphsWidth - graphsMargin.left) / 3 + "," + (2 * graphsHeight / 3 + 3 * labelBuffer) + ")");
+
+      const fellCount = d3.sum(graphsData.map(d => d['fall'] === 'Fell' ? 1 : 0));
+      const foundCount = d3.sum(graphsData.map(d => d['fall'] === 'Found' ? 1 : 0));
+      const fallCounts = [fellCount, foundCount];
+      const fallPercents = [fellCount * 100 / d3.sum(fallCounts), foundCount * 100 / d3.sum(fallCounts)];
+
+      const fallNames = ['Not Found', 'Found'];
+
+      const fallPie = d3.pie();
+      const fallArcs = fallPie(fallCounts);
+      const fallArc = d3.arc().innerRadius(0).outerRadius(graphsRadius);
+
+      fallChart.selectAll('path')
+        .data(fallArcs)
+        .enter()
+        .append('path')
+        .attr('d', fallArc)
+        .attr('fill', (d, i) => (i === 0) ? '#DD5638' : '#0E4781');
+
+      fallChart.selectAll('slices')
+        .data(fallArcs)
+        .enter()
+        .append('text')
+        .text(function (d, i) { return fallNames[i] + ' ' + fallPercents[i].toFixed(0) + '%' })
+        .attr("transform", function (d) { return "translate(" + fallArc.centroid(d) + ")"; })
+        .style('fill', 'white')
+        .style("text-anchor", "middle")
+        .style("font-size", 16);
+    };
+
+    requestData();
+
+  </script>
+</body>
+
+</html>
